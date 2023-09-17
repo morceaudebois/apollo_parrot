@@ -16,5 +16,11 @@
     "sounds": [
       "tutorialmod:wario"
     ]
+  },
+  "no_chewing": {
+    "subtitle": "sounds.tutorialmod.no_chewing",
+    "sounds": [
+      "tutorialmod:no_chewing"
+    ]
   }
 }

@@ -10,9 +10,8 @@ import net.minecraft.util.Identifier;
 public class ModSounds {
     // ITEM_METAL_WHISTLE is the name of the custom sound event
     // and is called in the mod to use the custom sound
-    public static SoundEvent COOL_SOUND = registerSound("cool_sound");
     public static SoundEvent GLASK = registerSound("glask");
-
+    public static SoundEvent NO_CHEWING = registerSound("no_chewing");
     public static SoundEvent WARIO = registerSound("wario");
 
     // actual registration of all the custom SoundEvents

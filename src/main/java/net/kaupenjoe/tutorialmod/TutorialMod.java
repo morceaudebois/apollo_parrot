@@ -33,7 +33,7 @@ public class TutorialMod implements ModInitializer {
 		UseEntityCallback.EVENT.register((player, world, hand, entity, hitResult) -> {
 			if (entity instanceof CowEntity && hand == Hand.MAIN_HAND) {
 				// Play your custom sound when right-clicking on a cow
-				player.playSound(ModSounds.COOL_SOUND, 1.0f, 1.0f);
+				// player.playSound(ModSounds.COOL_SOUND, 1.0f, 1.0f);
 				return ActionResult.SUCCESS; // Indicate that the interaction was successful
 			}
 			return ActionResult.PASS; // Continue with default interaction

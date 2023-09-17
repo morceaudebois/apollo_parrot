@@ -19,13 +19,14 @@ public class ParrotMixin {
             SoundEvent[] soundEvents = {
                     ModSounds.GLASK,
                     ModSounds.WARIO,
+                    ModSounds.NO_CHEWING,
             };
 
             // Create a Random object
             Random random = new Random();
- 
+
             // Generate a random number from 0 to 2 (inclusive) to select one of three values
-            int randomNumber = random.nextInt(2);
+            int randomNumber = random.nextInt(3);
 
 
             cir.setReturnValue(soundEvents[randomNumber]);
