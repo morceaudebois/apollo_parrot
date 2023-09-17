@@ -1,0 +1,8 @@
+{
+  "cool_sound": {
+    "subtitle": "sounds.tutorialmod.cool_sound",
+    "sounds": [
+      "tutorialmod:cool_sound"
+    ]
+  }
+}
