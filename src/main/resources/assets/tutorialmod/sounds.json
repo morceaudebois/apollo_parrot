@@ -4,5 +4,17 @@
     "sounds": [
       "tutorialmod:cool_sound"
     ]
+  },
+  "glask": {
+    "subtitle": "sounds.tutorialmod.glask",
+    "sounds": [
+      "tutorialmod:glask"
+    ]
+  },
+  "wario": {
+    "subtitle": "sounds.tutorialmod.wario",
+    "sounds": [
+      "tutorialmod:wario"
+    ]
   }
 }
