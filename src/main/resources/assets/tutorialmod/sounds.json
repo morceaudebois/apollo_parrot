@@ -1,14 +1,188 @@
 {
-  "cool_sound": {
-    "subtitle": "sounds.tutorialmod.cool_sound",
+  "bottle": {
+    "subtitle": "sounds.tutorialmod.bottle",
     "sounds": [
-      "tutorialmod:cool_sound"
+      "tutorialmod:bottle"
     ]
   },
-  "glask": {
-    "subtitle": "sounds.tutorialmod.glask",
+  "apollo": {
+    "subtitle": "sounds.tutorialmod.apollo",
     "sounds": [
-      "tutorialmod:glask"
+      "tutorialmod:apollo"
+    ]
+  },
+  "boom": {
+    "subtitle": "sounds.tutorialmod.boom",
+    "sounds": [
+      "tutorialmod:boom"
+    ]
+  },
+  "boop": {
+    "subtitle": "sounds.tutorialmod.boop",
+    "sounds": [
+      "tutorialmod:boop"
+    ]
+  },
+  "chicken": {
+    "subtitle": "sounds.tutorialmod.chicken",
+    "sounds": [
+      "tutorialmod:chicken"
+    ]
+  },
+  "cork": {
+    "subtitle": "sounds.tutorialmod.cork",
+    "sounds": [
+      "tutorialmod:cork"
+    ]
+  },
+  "glass_2": {
+    "subtitle": "sounds.tutorialmod.glass_2",
+    "sounds": [
+      "tutorialmod:glass_2"
+    ]
+  },
+  "glass": {
+    "subtitle": "sounds.tutorialmod.glass",
+    "sounds": [
+      "tutorialmod:glass"
+    ]
+  },
+  "good_boy": {
+    "subtitle": "sounds.tutorialmod.good_boy",
+    "sounds": [
+      "tutorialmod:good_boy"
+    ]
+  },
+  "hello": {
+    "subtitle": "sounds.tutorialmod.hello",
+    "sounds": [
+      "tutorialmod:hello"
+    ]
+  },
+  "letsgo": {
+    "subtitle": "sounds.tutorialmod.letsgo",
+    "sounds": [
+      "tutorialmod:letsgo"
+    ]
+  },
+  "metal": {
+    "subtitle": "sounds.tutorialmod.metal",
+    "sounds": [
+      "tutorialmod:metal"
+    ]
+  },
+  "no_chewing": {
+    "subtitle": "sounds.tutorialmod.no_chewing",
+    "sounds": [
+      "tutorialmod:no_chewing"
+    ]
+  },
+  "noise1": {
+    "subtitle": "sounds.tutorialmod.noise1",
+    "sounds": [
+      "tutorialmod:noise1"
+    ]
+  },
+  "paper": {
+    "subtitle": "sounds.tutorialmod.paper",
+    "sounds": [
+      "tutorialmod:paper"
+    ]
+  },
+  "peekaboo": {
+    "subtitle": "sounds.tutorialmod.peekaboo",
+    "sounds": [
+      "tutorialmod:peekaboo"
+    ]
+  },
+  "plant": {
+    "subtitle": "sounds.tutorialmod.plant",
+    "sounds": [
+      "tutorialmod:plant"
+    ]
+  },
+  "rock": {
+    "subtitle": "sounds.tutorialmod.rock",
+    "sounds": [
+      "tutorialmod:rock"
+    ]
+  },
+  "sawthebird": {
+    "subtitle": "sounds.tutorialmod.sawthebird",
+    "sounds": [
+      "tutorialmod:sawthebird"
+    ]
+  },
+  "shrek": {
+    "subtitle": "sounds.tutorialmod.shrek",
+    "sounds": [
+      "tutorialmod:shrek"
+    ]
+  },
+  "shrock": {
+    "subtitle": "sounds.tutorialmod.shrock",
+    "sounds": [
+      "tutorialmod:shrock"
+    ]
+  },
+  "slurp": {
+    "subtitle": "sounds.tutorialmod.slurp",
+    "sounds": [
+      "tutorialmod:slurp"
+    ]
+  },
+  "small_suck": {
+    "subtitle": "sounds.tutorialmod.small_suck",
+    "sounds": [
+      "tutorialmod:small_suck"
+    ]
+  },
+  "squirrel": {
+    "subtitle": "sounds.tutorialmod.squirrel",
+    "sounds": [
+      "tutorialmod:squirrel"
+    ]
+  },
+  "step_up": {
+    "subtitle": "sounds.tutorialmod.step_up",
+    "sounds": [
+      "tutorialmod:step_up"
+    ]
+  },
+  "stop_doing_the_corn": {
+    "subtitle": "sounds.tutorialmod.stop_doing_the_corn",
+    "sounds": [
+      "tutorialmod:stop_doing_the_corn"
+    ]
+  },
+  "suck1": {
+    "subtitle": "sounds.tutorialmod.suck1",
+    "sounds": [
+      "tutorialmod:suck1"
+    ]
+  },
+  "suck2": {
+    "subtitle": "sounds.tutorialmod.suck2",
+    "sounds": [
+      "tutorialmod:suck2"
+    ]
+  },
+  "thisisabowl": {
+    "subtitle": "sounds.tutorialmod.thisisabowl",
+    "sounds": [
+      "tutorialmod:thisisabowl"
+    ]
+  },
+  "touchyourbeak": {
+    "subtitle": "sounds.tutorialmod.touchyourbeak",
+    "sounds": [
+      "tutorialmod:touchyourbeak"
+    ]
+  },
+  "wannasnack": {
+    "subtitle": "sounds.tutorialmod.wannasnack",
+    "sounds": [
+      "tutorialmod:wannasnack"
     ]
   },
   "wario": {
@@ -17,10 +191,28 @@
       "tutorialmod:wario"
     ]
   },
-  "no_chewing": {
-    "subtitle": "sounds.tutorialmod.no_chewing",
+  "what_color": {
+    "subtitle": "sounds.tutorialmod.what_color",
     "sounds": [
-      "tutorialmod:no_chewing"
+      "tutorialmod:what_color"
+    ]
+  },
+  "whats_this": {
+    "subtitle": "sounds.tutorialmod.whats_this",
+    "sounds": [
+      "tutorialmod:whats_this"
+    ]
+  },
+  "whats_this2": {
+    "subtitle": "sounds.tutorialmod.whats_this2",
+    "sounds": [
+      "tutorialmod:whats_this2"
+    ]
+  },
+  "wow": {
+    "subtitle": "sounds.tutorialmod.wow",
+    "sounds": [
+      "tutorialmod:wow"
     ]
   }
 }
