@@ -3,13 +3,13 @@
 	"id": "apolloparrot",
 	"version": "${version}",
 	"name": "Apollo the Parrot",
-	"description": "This is a silly little mod that adds social media star Apollo the parrot to Minecraft.",
+	"description": "This is a silly little mod that adds social media star Apollo the parrot to Minecraft. 🦜",
 	"authors": [
-		"Me!"
+		"Tahoe (morceaudebois)"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/morceaudebois/apollo_parrot"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/apolloparrot/icon.png",
@@ -32,7 +32,8 @@
 		"fabricloader": ">=0.14.22",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"entity_texture_features": ">=2.0"
 	},
 	"suggests": {
 		"another-mod": "*"
