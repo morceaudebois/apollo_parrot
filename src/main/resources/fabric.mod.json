@@ -19,10 +19,10 @@
 			"net.morceaudebois.apolloparrot.ApolloParrot"
 		],
 		"client": [
-			"net.morceaudebois.apolloparrot.TutorialModClient"
+			"net.morceaudebois.apolloparrot.ApolloParrotClient"
 		],
 		"fabric-datagen": [
-			"net.morceaudebois.apolloparrot.TutorialModDataGenerator"
+			"net.morceaudebois.apolloparrot.ApolloParrotDataGenerator"
 		]
 	},
 	"mixins": [
