@@ -1,0 +1,218 @@
+{
+  "bottle": {
+    "subtitle": "sounds.apolloparrot.bottle",
+    "sounds": [
+      "apolloparrot:bottle"
+    ]
+  },
+  "apollo": {
+    "subtitle": "sounds.apolloparrot.apollo",
+    "sounds": [
+      "apolloparrot:apollo"
+    ]
+  },
+  "boom": {
+    "subtitle": "sounds.apolloparrot.boom",
+    "sounds": [
+      "apolloparrot:boom"
+    ]
+  },
+  "boop": {
+    "subtitle": "sounds.apolloparrot.boop",
+    "sounds": [
+      "apolloparrot:boop"
+    ]
+  },
+  "chicken": {
+    "subtitle": "sounds.apolloparrot.chicken",
+    "sounds": [
+      "apolloparrot:chicken"
+    ]
+  },
+  "cork": {
+    "subtitle": "sounds.apolloparrot.cork",
+    "sounds": [
+      "apolloparrot:cork"
+    ]
+  },
+  "glass_2": {
+    "subtitle": "sounds.apolloparrot.glass_2",
+    "sounds": [
+      "apolloparrot:glass_2"
+    ]
+  },
+  "glass": {
+    "subtitle": "sounds.apolloparrot.glass",
+    "sounds": [
+      "apolloparrot:glass"
+    ]
+  },
+  "good_boy": {
+    "subtitle": "sounds.apolloparrot.good_boy",
+    "sounds": [
+      "apolloparrot:good_boy"
+    ]
+  },
+  "hello": {
+    "subtitle": "sounds.apolloparrot.hello",
+    "sounds": [
+      "apolloparrot:hello"
+    ]
+  },
+  "letsgo": {
+    "subtitle": "sounds.apolloparrot.letsgo",
+    "sounds": [
+      "apolloparrot:letsgo"
+    ]
+  },
+  "metal": {
+    "subtitle": "sounds.apolloparrot.metal",
+    "sounds": [
+      "apolloparrot:metal"
+    ]
+  },
+  "no_chewing": {
+    "subtitle": "sounds.apolloparrot.no_chewing",
+    "sounds": [
+      "apolloparrot:no_chewing"
+    ]
+  },
+  "noise1": {
+    "subtitle": "sounds.apolloparrot.noise1",
+    "sounds": [
+      "apolloparrot:noise1"
+    ]
+  },
+  "paper": {
+    "subtitle": "sounds.apolloparrot.paper",
+    "sounds": [
+      "apolloparrot:paper"
+    ]
+  },
+  "peekaboo": {
+    "subtitle": "sounds.apolloparrot.peekaboo",
+    "sounds": [
+      "apolloparrot:peekaboo"
+    ]
+  },
+  "plant": {
+    "subtitle": "sounds.apolloparrot.plant",
+    "sounds": [
+      "apolloparrot:plant"
+    ]
+  },
+  "rock": {
+    "subtitle": "sounds.apolloparrot.rock",
+    "sounds": [
+      "apolloparrot:rock"
+    ]
+  },
+  "sawthebird": {
+    "subtitle": "sounds.apolloparrot.sawthebird",
+    "sounds": [
+      "apolloparrot:sawthebird"
+    ]
+  },
+  "shrek": {
+    "subtitle": "sounds.apolloparrot.shrek",
+    "sounds": [
+      "apolloparrot:shrek"
+    ]
+  },
+  "shrock": {
+    "subtitle": "sounds.apolloparrot.shrock",
+    "sounds": [
+      "apolloparrot:shrock"
+    ]
+  },
+  "slurp": {
+    "subtitle": "sounds.apolloparrot.slurp",
+    "sounds": [
+      "apolloparrot:slurp"
+    ]
+  },
+  "small_suck": {
+    "subtitle": "sounds.apolloparrot.small_suck",
+    "sounds": [
+      "apolloparrot:small_suck"
+    ]
+  },
+  "squirrel": {
+    "subtitle": "sounds.apolloparrot.squirrel",
+    "sounds": [
+      "apolloparrot:squirrel"
+    ]
+  },
+  "step_up": {
+    "subtitle": "sounds.apolloparrot.step_up",
+    "sounds": [
+      "apolloparrot:step_up"
+    ]
+  },
+  "stop_doing_the_corn": {
+    "subtitle": "sounds.apolloparrot.stop_doing_the_corn",
+    "sounds": [
+      "apolloparrot:stop_doing_the_corn"
+    ]
+  },
+  "suck1": {
+    "subtitle": "sounds.apolloparrot.suck1",
+    "sounds": [
+      "apolloparrot:suck1"
+    ]
+  },
+  "suck2": {
+    "subtitle": "sounds.apolloparrot.suck2",
+    "sounds": [
+      "apolloparrot:suck2"
+    ]
+  },
+  "thisisabowl": {
+    "subtitle": "sounds.apolloparrot.thisisabowl",
+    "sounds": [
+      "apolloparrot:thisisabowl"
+    ]
+  },
+  "touchyourbeak": {
+    "subtitle": "sounds.apolloparrot.touchyourbeak",
+    "sounds": [
+      "apolloparrot:touchyourbeak"
+    ]
+  },
+  "wannasnack": {
+    "subtitle": "sounds.apolloparrot.wannasnack",
+    "sounds": [
+      "apolloparrot:wannasnack"
+    ]
+  },
+  "wario": {
+    "subtitle": "sounds.apolloparrot.wario",
+    "sounds": [
+      "apolloparrot:wario"
+    ]
+  },
+  "what_color": {
+    "subtitle": "sounds.apolloparrot.what_color",
+    "sounds": [
+      "apolloparrot:what_color"
+    ]
+  },
+  "whats_this": {
+    "subtitle": "sounds.apolloparrot.whats_this",
+    "sounds": [
+      "apolloparrot:whats_this"
+    ]
+  },
+  "whats_this2": {
+    "subtitle": "sounds.apolloparrot.whats_this2",
+    "sounds": [
+      "apolloparrot:whats_this2"
+    ]
+  },
+  "wow": {
+    "subtitle": "sounds.apolloparrot.wow",
+    "sounds": [
+      "apolloparrot:wow"
+    ]
+  }
+}

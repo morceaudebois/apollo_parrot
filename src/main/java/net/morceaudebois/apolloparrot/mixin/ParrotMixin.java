@@ -1,6 +1,6 @@
-package net.kaupenjoe.tutorialmod.mixin;
+package net.morceaudebois.apolloparrot.mixin;
 
-import net.kaupenjoe.tutorialmod.sound.ModSounds;
+import net.morceaudebois.apolloparrot.sound.ModSounds;
 import net.minecraft.entity.passive.ParrotEntity;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.sound.SoundEvents;

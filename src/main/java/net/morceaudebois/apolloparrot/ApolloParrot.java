@@ -1,12 +1,12 @@
-package net.kaupenjoe.tutorialmod;
+package net.morceaudebois.apolloparrot;
 
 import net.fabricmc.api.ModInitializer;
-import net.kaupenjoe.tutorialmod.sound.ModSounds;
+import net.morceaudebois.apolloparrot.sound.ModSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class TutorialMod implements ModInitializer {
-	public static final String MOD_ID = "tutorialmod";
+public class ApolloParrot implements ModInitializer {
+	public static final String MOD_ID = "apolloparrot";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override

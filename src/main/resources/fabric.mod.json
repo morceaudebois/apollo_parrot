@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "apolloparrot",
 	"version": "${version}",
-	"name": "Tutorial Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Apollo the Parrot",
+	"description": "This is a silly little mod that adds social media star Apollo the parrot to Minecraft.",
 	"authors": [
 		"Me!"
 	],
@@ -12,21 +12,21 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/tutorialmod/icon.png",
+	"icon": "assets/apolloparrot/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.kaupenjoe.tutorialmod.TutorialMod"
+			"net.morceaudebois.apolloparrot.ApolloParrot"
 		],
 		"client": [
-			"net.kaupenjoe.tutorialmod.TutorialModClient"
+			"net.morceaudebois.apolloparrot.TutorialModClient"
 		],
 		"fabric-datagen": [
-			"net.kaupenjoe.tutorialmod.TutorialModDataGenerator"
+			"net.morceaudebois.apolloparrot.TutorialModDataGenerator"
 		]
 	},
 	"mixins": [
-		"tutorialmod.mixins.json"
+		"apolloparrot.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.22",
