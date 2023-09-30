@@ -1,6 +1,5 @@
-<h1 align="center">
-  <a href="https://tahoe.be"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/apollo-banner.png" width="100%" alt=""></a>
-</h1>
+<a href="https://tahoe.be"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/apollo-banner.png" width="100%" alt=""></a>
+
 
 <h1 align="center">Apollo the Parrot</h1>
 
