@@ -1,4 +1,4 @@
-<a href="https://tahoe.be"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/apollo-banner.jpg" width="100%" alt=""></a>
+<img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/apollo-banner.jpg" width="100%" alt="">
 
 
 <h1 align="center">Apollo the Parrot</h1>
@@ -8,7 +8,7 @@ This is a silly little mod that brings TikTok and YouTube star [Apollo the parro
 This mod also adds a new African grey parrot variant that looks just like Apollo 🦜
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/download_modrinth.svg" height="50" /></a>
+  <a href="https://modrinth.com/mod/apollo-the-parrot"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/download_modrinth.svg" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://modrinth.com/mod/fabric-api"><img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/fabric_label.png" height="50"/></a>
 </p>
@@ -16,7 +16,7 @@ This mod also adds a new African grey parrot variant that looks just like Apollo
 ## ❓ Questions
 
 ### How do I install it?
-Download it on Modrinth (or CurseForge) and put it in your mods folder. The mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [ETF](https://modrinth.com/mod/entitytexturefeatures) to function. If you've never played with mods before, I recommend [Prism Launcher](https://prismlauncher.org/).
+Download it on [Modrinth](https://modrinth.com/mod/apollo-the-parrot) (or CurseForge) and put it in your mods folder. The mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [ETF](https://modrinth.com/mod/entitytexturefeatures) to function. If you've never played with mods before, I recommend [Prism Launcher](https://prismlauncher.org/).
 
 ### Can I use this mod in my modpack?
 Of course you can!

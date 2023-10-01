@@ -1,15 +1,16 @@
 {
 	"schemaVersion": 1,
 	"id": "apolloparrot",
-	"version": "${version}",
+	"version": "1.0",
 	"name": "Apollo the Parrot",
-	"description": "This is a silly little mod that adds social media star Apollo the parrot to Minecraft. 🦜",
+	"description": "This silly little mod adds social media star Apollo the parrot to Minecraft. 🦜",
 	"authors": [
 		"Tahoe (morceaudebois)"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/morceaudebois/apollo_parrot"
+		"homepage": "https://modrinth.com/mod/apollo-the-parrot",
+		"sources": "https://github.com/morceaudebois/apollo_parrot",
+		"issues": "https://github.com/morceaudebois/apollo_parrot/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/apolloparrot/icon.png",
