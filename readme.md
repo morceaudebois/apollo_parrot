@@ -48,3 +48,4 @@ This is my only Minecraft mod, but I love making high quality open source softwa
 - [ ] Add even more Apollo sounds
 - [ ] Find a way to make the sounds less echoey
 - [ ] Find a way to include the Apollo texture variant without having to rely on ETF
+- [ ] Add an achievement when you tame a parrot with Apollo's texture

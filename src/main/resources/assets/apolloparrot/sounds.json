@@ -1,216 +1,216 @@
 {
   "bottle": {
-    "subtitle": "sounds.apolloparrot.bottle",
+    "subtitle": "Parrot says \"it\"",
     "sounds": [
       "apolloparrot:bottle"
     ]
   },
   "apollo": {
-    "subtitle": "sounds.apolloparrot.apollo",
+    "subtitle": "Parrot says \"Apollo\"",
     "sounds": [
       "apolloparrot:apollo"
     ]
   },
   "boom": {
-    "subtitle": "sounds.apolloparrot.boom",
+    "subtitle": "Parrot imitates gun shots",
     "sounds": [
       "apolloparrot:boom"
     ]
   },
   "boop": {
-    "subtitle": "sounds.apolloparrot.boop",
+    "subtitle": "Parrot imitates bubbles",
     "sounds": [
       "apolloparrot:boop"
     ]
   },
   "chicken": {
-    "subtitle": "sounds.apolloparrot.chicken",
+    "subtitle": "Parrot imitates chicken",
     "sounds": [
       "apolloparrot:chicken"
     ]
   },
   "cork": {
-    "subtitle": "sounds.apolloparrot.cork",
+    "subtitle": "Parrot says \"cork\"",
     "sounds": [
       "apolloparrot:cork"
     ]
   },
   "glass_2": {
-    "subtitle": "sounds.apolloparrot.glass_2",
+    "subtitle": "Parrot says \"glass\"",
     "sounds": [
       "apolloparrot:glass_2"
     ]
   },
   "glass": {
-    "subtitle": "sounds.apolloparrot.glass",
+    "subtitle": "Parrot says \"glass\"",
     "sounds": [
       "apolloparrot:glass"
     ]
   },
   "good_boy": {
-    "subtitle": "sounds.apolloparrot.good_boy",
+    "subtitle": "Parrot says \"good boy\"",
     "sounds": [
       "apolloparrot:good_boy"
     ]
   },
   "hello": {
-    "subtitle": "sounds.apolloparrot.hello",
+    "subtitle": "Parrot says \"hello\"",
     "sounds": [
       "apolloparrot:hello"
     ]
   },
   "letsgo": {
-    "subtitle": "sounds.apolloparrot.letsgo",
+    "subtitle": "Parrot says \"let's go\"",
     "sounds": [
       "apolloparrot:letsgo"
     ]
   },
   "metal": {
-    "subtitle": "sounds.apolloparrot.metal",
+    "subtitle": "Parrot says \"metal\"",
     "sounds": [
       "apolloparrot:metal"
     ]
   },
   "no_chewing": {
-    "subtitle": "sounds.apolloparrot.no_chewing",
+    "subtitle": "Parrot says \"no chewing\"",
     "sounds": [
       "apolloparrot:no_chewing"
     ]
   },
   "noise1": {
-    "subtitle": "sounds.apolloparrot.noise1",
+    "subtitle": "Parrot is being noisy",
     "sounds": [
       "apolloparrot:noise1"
     ]
   },
   "paper": {
-    "subtitle": "sounds.apolloparrot.paper",
+    "subtitle": "Parrot says \"paper\"",
     "sounds": [
       "apolloparrot:paper"
     ]
   },
   "peekaboo": {
-    "subtitle": "sounds.apolloparrot.peekaboo",
+    "subtitle": "Parrot says \"peekaboo\"",
     "sounds": [
       "apolloparrot:peekaboo"
     ]
   },
   "plant": {
-    "subtitle": "sounds.apolloparrot.plant",
+    "subtitle": "Parrot says \"plant\"",
     "sounds": [
       "apolloparrot:plant"
     ]
   },
   "rock": {
-    "subtitle": "sounds.apolloparrot.rock",
+    "subtitle": "Parrot says \"rock\"",
     "sounds": [
       "apolloparrot:rock"
     ]
   },
   "sawthebird": {
-    "subtitle": "sounds.apolloparrot.sawthebird",
+    "subtitle": "Parrot says \"saw the bird\"",
     "sounds": [
       "apolloparrot:sawthebird"
     ]
   },
   "shrek": {
-    "subtitle": "sounds.apolloparrot.shrek",
+    "subtitle": "Parrot says \"Shrek\"",
     "sounds": [
       "apolloparrot:shrek"
     ]
   },
   "shrock": {
-    "subtitle": "sounds.apolloparrot.shrock",
+    "subtitle": "Parrot says \"shrock\"",
     "sounds": [
       "apolloparrot:shrock"
     ]
   },
   "slurp": {
-    "subtitle": "sounds.apolloparrot.slurp",
+    "subtitle": "Parrot slurps",
     "sounds": [
       "apolloparrot:slurp"
     ]
   },
   "small_suck": {
-    "subtitle": "sounds.apolloparrot.small_suck",
+    "subtitle": "Parrot accurately sucks",
     "sounds": [
       "apolloparrot:small_suck"
     ]
   },
   "squirrel": {
-    "subtitle": "sounds.apolloparrot.squirrel",
+    "subtitle": "Parrot says \"there's a squirrel\"",
     "sounds": [
       "apolloparrot:squirrel"
     ]
   },
   "step_up": {
-    "subtitle": "sounds.apolloparrot.step_up",
+    "subtitle": "Parrot says \"step up\"",
     "sounds": [
       "apolloparrot:step_up"
     ]
   },
   "stop_doing_the_corn": {
-    "subtitle": "sounds.apolloparrot.stop_doing_the_corn",
+    "subtitle": "Parrot says \"stop doing the corn\"",
     "sounds": [
       "apolloparrot:stop_doing_the_corn"
     ]
   },
   "suck1": {
-    "subtitle": "sounds.apolloparrot.suck1",
+    "subtitle": "Parrot very accurately sucks",
     "sounds": [
       "apolloparrot:suck1"
     ]
   },
   "suck2": {
-    "subtitle": "sounds.apolloparrot.suck2",
+    "subtitle": "Parrot very accurately sucks",
     "sounds": [
       "apolloparrot:suck2"
     ]
   },
   "thisisabowl": {
-    "subtitle": "sounds.apolloparrot.thisisabowl",
+    "subtitle": "Parrot says \"it's a bowl\"",
     "sounds": [
       "apolloparrot:thisisabowl"
     ]
   },
   "touchyourbeak": {
-    "subtitle": "sounds.apolloparrot.touchyourbeak",
+    "subtitle": "Parrot says \"touch your beak\"",
     "sounds": [
       "apolloparrot:touchyourbeak"
     ]
   },
   "wannasnack": {
-    "subtitle": "sounds.apolloparrot.wannasnack",
+    "subtitle": "Parrot wants a snack",
     "sounds": [
       "apolloparrot:wannasnack"
     ]
   },
   "wario": {
-    "subtitle": "sounds.apolloparrot.wario",
+    "subtitle": "Parrot says \"wario\"",
     "sounds": [
       "apolloparrot:wario"
     ]
   },
   "what_color": {
-    "subtitle": "sounds.apolloparrot.what_color",
+    "subtitle": "Parrot says \"what color?\"",
     "sounds": [
       "apolloparrot:what_color"
     ]
   },
   "whats_this": {
-    "subtitle": "sounds.apolloparrot.whats_this",
+    "subtitle": "Parrot wonders \"what's this\"",
     "sounds": [
       "apolloparrot:whats_this"
     ]
   },
   "whats_this2": {
-    "subtitle": "sounds.apolloparrot.whats_this2",
+    "subtitle": "Parrot wonders \"what's this\"",
     "sounds": [
       "apolloparrot:whats_this2"
     ]
   },
   "wow": {
-    "subtitle": "sounds.apolloparrot.wow",
+    "subtitle": "Parrot says \"wow\"",
     "sounds": [
       "apolloparrot:wow"
     ]
