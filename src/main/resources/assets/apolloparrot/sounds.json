@@ -214,5 +214,13 @@
     "sounds": [
       "apolloparrot:wow"
     ]
+  },
+  "music_box": {
+    "sounds": [
+      {
+        "name": "apolloparrot:music_box",
+        "stream": true
+      }
+    ]
   }
 }

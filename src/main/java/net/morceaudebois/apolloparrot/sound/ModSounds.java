@@ -48,6 +48,8 @@ public class ModSounds {
     public static SoundEvent WHATS_THIS2 = registerSound("whats_this2");
     public static SoundEvent WOW = registerSound("wow");
 
+    public static SoundEvent MUSIC_BOX = registerSound("music_box");
+
 
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
