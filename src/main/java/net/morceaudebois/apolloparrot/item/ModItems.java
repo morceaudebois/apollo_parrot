@@ -13,23 +13,36 @@ import net.minecraft.util.Identifier;
 import net.morceaudebois.apolloparrot.sound.ModSounds;
 
 public class ModItems {
-    public static final Item THYLACINE_SKULL = registerItem("thylacine_skull", new Item(new FabricItemSettings()));
 
-    public static final Item MUSIC_BOX_MUSIC_DISC = registerItem("music_box_music_disc",
-            new MusicDiscItem(6, ModSounds.MUSIC_BOX, new FabricItemSettings().maxCount(1), 2));
-
-
-
-    private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
-        entries.add(THYLACINE_SKULL);
-    }
+    // fonction basique pour register l'item
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(ApolloParrot.MOD_ID, name), item);
     }
 
+    // appelé dans fichier initialiser
     public static void registerModItems() {
         ApolloParrot.LOGGER.info("Registering Mod Items for " + ApolloParrot.MOD_ID);
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(ModItems::addItemsToIngredientItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(ModItems::addItemsToNaturalItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(ModItems::addItemsToToolsItemGroup);
     }
+
+    public static final Item MUSIC_BOX_MUSIC_DISC = registerItem("music_box_music_disc",
+            new MusicDiscItem(6, ModSounds.MUSIC_BOX, new FabricItemSettings().maxCount(1), 2));
+
+    public static final Item THYLACINE_SKULL = registerItem("thylacine_skull",
+            new Item(new FabricItemSettings())
+    );
+
+    // liste tous les items à mettre dans natural? genre un array
+    private static void addItemsToNaturalItemGroup(FabricItemGroupEntries entries) {
+        entries.add(THYLACINE_SKULL);
+    }
+
+    private static void addItemsToToolsItemGroup(FabricItemGroupEntries entries) {
+        entries.add(MUSIC_BOX_MUSIC_DISC);
+    }
+
+
+
+
 }
