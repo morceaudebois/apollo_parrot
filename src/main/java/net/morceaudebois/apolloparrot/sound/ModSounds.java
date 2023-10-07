@@ -48,7 +48,26 @@ public class ModSounds {
     public static SoundEvent WHATS_THIS2 = registerSound("whats_this2");
     public static SoundEvent WOW = registerSound("wow");
 
-    public static SoundEvent MUSIC_BOX = registerSound("music_box");
+    public static SoundEvent NEVER_GONNA_GIVE_YOU_UP = registerSound("never_gonna_give_you_up");
+
+    public static SoundEvent HK_MANTIS_LORDS = registerSound("hk_mantis_lords");
+    public static SoundEvent HK_DUNG_DEFENDER = registerSound("hk_dung_defender");
+    public static SoundEvent HK_WHITE_PALACE = registerSound("hk_white_palace");
+    public static SoundEvent HK_GRIMM_TROUPE = registerSound("hk_grimm_troupe");
+
+    public static SoundEvent H_NO_ESCAPE = registerSound("h_no_escape");
+    public static SoundEvent H_FROM_OLYMPUS = registerSound("h_from_olympus");
+    public static SoundEvent H_LAMENT_OF_ORPHEUS = registerSound("h_lament_of_orpheus");
+    public static SoundEvent H_GOOD_RIDDANCE = registerSound("h_good_riddance");
+    public static SoundEvent H_THE_UNSEEN_ONE = registerSound("h_the_unseen_one");
+
+    public static SoundEvent SMASH_MELEE = registerSound("smash_melee");
+    public static SoundEvent SMASH_BRAWL = registerSound("smash_brawl");
+    public static SoundEvent SMASH_4 = registerSound("smash_4");
+    public static SoundEvent SMASH_ULTIMATE = registerSound("smash_ultimate");
+
+
+
 
 
     // actual registration of all the custom SoundEvents

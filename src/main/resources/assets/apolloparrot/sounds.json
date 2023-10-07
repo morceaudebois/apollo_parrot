@@ -215,12 +215,121 @@
       "apolloparrot:wow"
     ]
   },
-  "music_box": {
+  "never_gonna_give_you_up": {
     "sounds": [
       {
-        "name": "apolloparrot:music_box",
+        "name": "apolloparrot:never_gonna_give_you_up",
+        "stream": true
+      }
+    ]
+  },
+
+  "hk_mantis_lords": {
+    "sounds": [
+      {
+        "name": "apolloparrot:hk_mantis_lords",
+        "stream": true
+      }
+    ]
+  },
+  "hk_dung_defender": {
+    "sounds": [
+      {
+        "name": "apolloparrot:hk_dung_defender",
+        "stream": true
+      }
+    ]
+  },
+  "hk_white_palace": {
+    "sounds": [
+      {
+        "name": "apolloparrot:hk_white_palace",
+        "stream": true
+      }
+    ]
+  },
+  "hk_grimm_troupe": {
+    "sounds": [
+      {
+        "name": "apolloparrot:hk_grimm_troupe",
+        "stream": true
+      }
+    ]
+  },
+
+  "h_no_escape": {
+    "sounds": [
+      {
+        "name": "apolloparrot:h_no_escape",
+        "stream": true
+      }
+    ]
+  },
+  "h_from_olympus": {
+    "sounds": [
+      {
+        "name": "apolloparrot:h_from_olympus",
+        "stream": true
+      }
+    ]
+  },
+  "h_lament_of_orpheus": {
+    "sounds": [
+      {
+        "name": "apolloparrot:h_lament_of_orpheus",
+        "stream": true
+      }
+    ]
+  },
+  "h_good_riddance": {
+    "sounds": [
+      {
+        "name": "apolloparrot:h_good_riddance",
+        "stream": true
+      }
+    ]
+  },
+  "h_the_unseen_one": {
+    "sounds": [
+      {
+        "name": "apolloparrot:h_the_unseen_one",
+        "stream": true
+      }
+    ]
+  },
+
+  "smash_melee": {
+    "sounds": [
+      {
+        "name": "apolloparrot:smash_melee",
+        "stream": true
+      }
+    ]
+  },
+  "smash_brawl": {
+    "sounds": [
+      {
+        "name": "apolloparrot:smash_brawl",
+        "stream": true
+      }
+    ]
+  },
+  "smash_4": {
+    "sounds": [
+      {
+        "name": "apolloparrot:smash_4",
+        "stream": true
+      }
+    ]
+  },
+  "smash_ultimate": {
+    "sounds": [
+      {
+        "name": "apolloparrot:smash_ultimate",
         "stream": true
       }
     ]
   }
+
+
 }
