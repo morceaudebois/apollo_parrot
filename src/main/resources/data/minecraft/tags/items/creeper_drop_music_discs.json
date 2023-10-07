@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "apolloparrot:harry_potter_music_disc",
+
+    "apolloparrot:hk_mantis_lords_music_disc",
+    "apolloparrot:hk_dung_defender_music_disc",
+    "apolloparrot:hk_white_palace_music_disc",
+    "apolloparrot:hk_grimm_troupe_music_disc",
+
+    "apolloparrot:h_no_escape_music_disc",
+    "apolloparrot:h_from_olympus_music_disc",
+    "apolloparrot:h_lament_of_orpheus_music_disc",
+    "apolloparrot:h_good_riddance_music_disc",
+    "apolloparrot:h_the_unseen_one_music_disc",
+
+    "apolloparrot:smash_melee_music_disc",
+    "apolloparrot:smash_brawl_music_disc",
+    "apolloparrot:smash_4_music_disc",
+    "apolloparrot:smash_ultimate_music_disc"
+  ]
+}

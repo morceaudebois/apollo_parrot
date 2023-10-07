@@ -1,34 +1,35 @@
 {
   "item.apolloparrot.thylacine_skull": "Thylacine skull",
+  
   "item.apolloparrot.harry_potter_music_disc": "§dMusic Disc",
   "item.apolloparrot.harry_potter_music_disc.desc": "Harry Potter Theme - John Williams",
 
   "item.apolloparrot.hk_mantis_lords_music_disc": "§9Music Disc",
-  "item.apolloparrot.hk_mantis_lords_music_disc.desc": "HK 1/4",
+  "item.apolloparrot.hk_mantis_lords_music_disc.desc": "HK - 1/4",
   "item.apolloparrot.hk_dung_defender_music_disc": "§9Music Disc",
-  "item.apolloparrot.hk_dung_defender_music_disc.desc": "HK 2/4",
+  "item.apolloparrot.hk_dung_defender_music_disc.desc": "HK - 2/4",
   "item.apolloparrot.hk_white_palace_music_disc": "§9Music Disc",
-  "item.apolloparrot.hk_white_palace_music_disc.desc": "HK 3/4",
+  "item.apolloparrot.hk_white_palace_music_disc.desc": "HK - 3/4",
   "item.apolloparrot.hk_grimm_troupe_music_disc": "§9Music Disc",
-  "item.apolloparrot.hk_grimm_troupe_music_disc.desc": "HK 4/4",
+  "item.apolloparrot.hk_grimm_troupe_music_disc.desc": "HK - 4/4",
 
   "item.apolloparrot.h_no_escape_music_disc": "§4Music Disc",
-  "item.apolloparrot.h_no_escape_music_disc.desc": "H 1/5",
+  "item.apolloparrot.h_no_escape_music_disc.desc": "H - 1/5",
   "item.apolloparrot.h_from_olympus_music_disc": "§4Music Disc",
-  "item.apolloparrot.h_from_olympus_music_disc.desc": "H 2/5",
+  "item.apolloparrot.h_from_olympus_music_disc.desc": "H - 2/5",
   "item.apolloparrot.h_lament_of_orpheus_music_disc": "§4Music Disc",
-  "item.apolloparrot.h_lament_of_orpheus_music_disc.desc": "H 3/5",
+  "item.apolloparrot.h_lament_of_orpheus_music_disc.desc": "H - 3/5",
   "item.apolloparrot.h_good_riddance_music_disc": "§4Music Disc",
-  "item.apolloparrot.h_good_riddance_music_disc.desc": "H 4/5",
+  "item.apolloparrot.h_good_riddance_music_disc.desc": "H - 4/5",
   "item.apolloparrot.h_the_unseen_one_music_disc": "§4Music Disc",
-  "item.apolloparrot.h_the_unseen_one_music_disc.desc": "H 5/5",
+  "item.apolloparrot.h_the_unseen_one_music_disc.desc": "H - 5/5",
 
   "item.apolloparrot.smash_melee_music_disc": "§cMusic Disc",
-  "item.apolloparrot.smash_melee_music_disc.desc": "S 1/4",
+  "item.apolloparrot.smash_melee_music_disc.desc": "S - 1/4",
   "item.apolloparrot.smash_brawl_music_disc": "§cMusic Disc",
-  "item.apolloparrot.smash_brawl_music_disc.desc": "S 2/4",
+  "item.apolloparrot.smash_brawl_music_disc.desc": "S - 2/4",
   "item.apolloparrot.smash_4_music_disc": "§cMusic Disc",
-  "item.apolloparrot.smash_4_music_disc.desc": "S 3/4",
+  "item.apolloparrot.smash_4_music_disc.desc": "S - 3/4",
   "item.apolloparrot.smash_ultimate_music_disc": "§cMusic Disc",
-  "item.apolloparrot.smash_ultimate_music_disc.desc": " S 4/4"
+  "item.apolloparrot.smash_ultimate_music_disc.desc": "S - 4/4"
 }
