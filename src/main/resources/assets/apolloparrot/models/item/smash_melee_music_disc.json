@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "apolloparrot:item/music_box_music_disc"
+    "layer0": "apolloparrot:item/smash_disc"
   }
 }

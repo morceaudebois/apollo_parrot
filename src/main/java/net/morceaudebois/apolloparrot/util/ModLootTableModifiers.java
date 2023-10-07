@@ -98,12 +98,14 @@ public class ModLootTableModifiers {
                 new Identifier("minecraft", "chests/end_city_treasure").equals(id) ||
                 new Identifier("minecraft", "chests/nether_bridge").equals(id) ||
                 new Identifier("minecraft", "chests/ruined_portal").equals(id) ||
-                new Identifier("minecraft", "chests/woodland_mansion").equals(id)
+                new Identifier("incendium", "reactor/treasure").equals(id) ||
+                new Identifier("incendium", "pipeline/base/treasure").equals(id) ||
+                new Identifier("incendium", "lab/treasure").equals(id)
                 ) {
 
                 LootPool.Builder poolBuilder = LootPool.builder()
                         .rolls(ConstantLootNumberProvider.create(1))
-                        .conditionally(RandomChanceLootCondition.builder(0.15f)) // Drops 15% of the time
+                        .conditionally(RandomChanceLootCondition.builder(0.2f)) // Drops 15% of the time
 
                         .with(ItemEntry.builder(ModItems.H_NO_ESCAPE_MUSIC_DISC))
                         .with(ItemEntry.builder(ModItems.H_FROM_OLYMPUS_MUSIC_DISC))
