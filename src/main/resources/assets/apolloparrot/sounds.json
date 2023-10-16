@@ -35,6 +35,12 @@
       "apolloparrot:cork"
     ]
   },
+  "glask": {
+    "subtitle": "Parrot says \"glassk\"",
+    "sounds": [
+      "apolloparrot:glask"
+    ]
+  },
   "glass_2": {
     "subtitle": "Parrot says \"glass\"",
     "sounds": [
