@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:fragile",
+		"apolloparrot:thornling/conductor",
+		"apolloparrot:thornling/decay",
+		"apolloparrot:thornling/dwarf",
+		"apolloparrot:thornling/empowered",
+		"apolloparrot:thornling/punching_bag",
+		"apolloparrot:thornling/sounds",
+		"apolloparrot:thornling/thorns"
+	],
+	"icon":"minecraft:medium_amethyst_bud",
+	"impact":3
+}

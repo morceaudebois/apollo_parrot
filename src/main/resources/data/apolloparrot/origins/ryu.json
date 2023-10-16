@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:elytra",
+		"origins:more_exhaustion",
+		"origins:carnivore",
+		"apolloparrot:ryu/all_knowing",
+		"apolloparrot:ryu/better_odds",
+		"apolloparrot:ryu/big_body",
+		"apolloparrot:ryu/dark_color",
+		"apolloparrot:ryu/friendly_eyes",
+		"apolloparrot:ryu/healing_potions",
+		"apolloparrot:ryu/heavy_scales",
+		"apolloparrot:ryu/lift_off",
+		"apolloparrot:ryu/natural_protection",
+		"apolloparrot:ryu/so_much_weight",
+		"apolloparrot:ryu/sparkly",
+		"apolloparrot:ryu/winged"
+	],
+	"icon":"minecraft:stick",
+	"impact":3
+}

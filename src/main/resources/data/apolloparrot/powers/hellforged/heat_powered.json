@@ -1,0 +1,28 @@
+{
+	"type":"origins:damage_over_time",
+	"interval":35,
+	"onset_delay":100,
+	"damage":2,
+	"damage_source":{
+		"name":"freeze",
+		"unblockable":true,
+		"bypasses_armor":true
+	},
+	"protection_enchantment":"origins:water_protection",
+	"protection_effectiveness":1,
+	"condition":{
+		"type":"origins:or",
+		"conditions":[
+			{
+				"type":"origins:fluid_height",
+				"fluid":"minecraft:lava",
+				"comparison":">",
+				"compare_to":0,
+				"inverted":true
+			},
+			{
+				"type":"origins:in_rain"
+			}
+		]
+	}
+}

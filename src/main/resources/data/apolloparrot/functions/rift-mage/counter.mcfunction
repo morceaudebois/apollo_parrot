@@ -1,0 +1,1 @@
+execute at @p[tag=Counter] run tp @s ~ ~ ~

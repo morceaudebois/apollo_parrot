@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:illusioner/better_arrow",
+		"apolloparrot:illusioner/better_illusion",
+		"apolloparrot:illusioner/better_illusion_formation",
+		"apolloparrot:illusioner/better_illusion_tp",
+		"apolloparrot:illusioner/bow_master",
+		"apolloparrot:illusioner/friendly_pillagers",
+		"apolloparrot:illusioner/illusion_despawn",
+		"apolloparrot:illusioner/scary",
+		"apolloparrot:illusioner/sword_bad",
+		"apolloparrot:illusioner/villager_hate"
+	],
+	"icon":"minecraft:potion",
+	"impact":3,
+	"unchoosable":true
+}

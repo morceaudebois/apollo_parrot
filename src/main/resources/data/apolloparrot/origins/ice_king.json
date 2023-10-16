@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"apolloparrot:ice-king/blue_transparent_ski",
+		"apolloparrot:ice-king/cold_power",
+		"apolloparrot:ice-king/combo_attack",
+		"apolloparrot:ice-king/freeze_immune",
+		"apolloparrot:ice-king/frostbreath",
+		"apolloparrot:ice-king/frostwalker",
+		"apolloparrot:ice-king/heal_near_ice",
+		"apolloparrot:ice-king/hot_biome",
+		"apolloparrot:ice-king/pyrophobia",
+		"apolloparrot:ice-king/unresolved_size",
+		"apolloparrot:ice-king/warp"
+	],
+	"icon":"minecraft:blue_ice",
+	"impact":3
+}

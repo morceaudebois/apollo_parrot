@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"apolloparrot:war-god/axe_god",
+		"apolloparrot:war-god/born_in_fire",
+		"apolloparrot:war-god/hungry",
+		"apolloparrot:war-god/moonlight_darkness",
+		"apolloparrot:war-god/no_ranged_weapons",
+		"apolloparrot:war-god/not_a_ranged_specialist",
+		"apolloparrot:war-god/philza_reference",
+		"apolloparrot:war-god/strong",
+		"apolloparrot:war-god/swordsman",
+		"apolloparrot:war-god/warrior"
+	],
+	"icon":"minecraft:iron_axe",
+	"impact":2
+}

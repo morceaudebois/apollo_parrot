@@ -1,0 +1,29 @@
+{
+	"type":"origins:multiple",
+	"toggle":{
+		"type":"origins:toggle",
+		"active_by_default":false,
+		"key":"key.origins.secondary_active"
+	},
+	"jump":{
+		"type":"origins:modify_jump",
+		"modifier":{
+			"operation":"addition",
+			"value":0.3
+		},
+		"condition":{
+			"type":"origins:and",
+			"conditions":[
+				{
+					"type":"origins:power_active",
+					"power":"apolloparrot:mountain-goat/high_jump_toggle"
+				},
+				{
+					"type":"origins:food_level",
+					"comparison":">",
+					"compare_to":6
+				}
+			]
+		}
+	}
+}

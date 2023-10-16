@@ -1,0 +1,10 @@
+{
+	"powers":[
+		"apolloparrot:snake/bite",
+		"apolloparrot:snake/health",
+		"apolloparrot:snake/intimidate",
+		"apolloparrot:snake/lunge"
+	],
+	"icon":"minecraft:scute",
+	"impact":2
+}

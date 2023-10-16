@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"apolloparrot:dullahan/abilities/hell_chain",
+		"apolloparrot:dullahan/abilities/nightmare_steed",
+		"apolloparrot:dullahan/abilities/skull_bomb",
+		"apolloparrot:dullahan/buffs/fear",
+		"apolloparrot:dullahan/buffs/kit",
+		"apolloparrot:dullahan/buffs/night_buffs",
+		"apolloparrot:dullahan/buffs/no_food",
+		"apolloparrot:dullahan/buffs/soul",
+		"apolloparrot:dullahan/debuffs/boned",
+		"apolloparrot:dullahan/debuffs/day_debuffs",
+		"apolloparrot:dullahan/debuffs/soul_seal"
+	],
+	"icon":"minecraft:skeleton_skull",
+	"impact":3
+}

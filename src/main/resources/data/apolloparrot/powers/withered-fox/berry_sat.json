@@ -1,0 +1,17 @@
+{
+	"type":"origins:modify_food",
+	"item_condition":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"minecraft:fox_food"
+		}
+	},
+	"food_modifier":{
+		"operation":"addition",
+		"value":10
+	},
+	"saturation_modifier":{
+		"operation":"addition",
+		"value":9
+	}
+}

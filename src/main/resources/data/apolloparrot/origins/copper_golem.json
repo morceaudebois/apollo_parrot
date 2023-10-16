@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:fall_immunity",
+		"apolloparrot:copper-golem/copper_colour",
+		"apolloparrot:copper-golem/defense",
+		"apolloparrot:copper-golem/extra_health",
+		"apolloparrot:copper-golem/feed_on_copper",
+		"apolloparrot:copper-golem/no_food",
+		"apolloparrot:copper-golem/oxidation_action",
+		"apolloparrot:copper-golem/oxidation_resource",
+		"apolloparrot:copper-golem/small",
+		"apolloparrot:copper-golem/strong"
+	],
+	"icon":"minecraft:copper_ingot",
+	"impact":3
+}

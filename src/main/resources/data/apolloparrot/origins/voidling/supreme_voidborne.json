@@ -1,0 +1,20 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:voidling/brittle_bones",
+		"apolloparrot:voidling/dive_attack",
+		"apolloparrot:voidling/large_appetite",
+		"apolloparrot:voidling/low_health",
+		"apolloparrot:voidling/supreme_shield",
+		"apolloparrot:voidling/supreme_shield_toggle",
+		"apolloparrot:voidling/supreme_state",
+		"apolloparrot:voidling/void_energy",
+		"apolloparrot:voidling/void_father",
+		"apolloparrot:voidling/voidborne_form",
+		"apolloparrot:voidling/winged",
+		"apolloparrot:voidling/winged_limits"
+	],
+	"icon":"minecraft:structure_void",
+	"impact":3,
+	"unchoosable":true
+}

@@ -1,0 +1,28 @@
+{
+	"hidden":true,
+	"type":"origins:restrict_armor",
+	"head":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:golden_armour"
+		}
+	},
+	"chest":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:golden_armour"
+		}
+	},
+	"legs":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:golden_armour"
+		}
+	},
+	"feet":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:golden_armour"
+		}
+	}
+}

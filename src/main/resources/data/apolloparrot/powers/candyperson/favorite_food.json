@@ -1,0 +1,17 @@
+{
+	"type":"origins:modify_food",
+	"item_condition":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"item":"minecraft:cookie"
+		}
+	},
+	"food_modifier":{
+		"operation":"addition",
+		"value":2
+	},
+	"saturation_modifier":{
+		"operation":"addition",
+		"value":0.6
+	}
+}

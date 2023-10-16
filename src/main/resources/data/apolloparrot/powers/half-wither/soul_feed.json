@@ -1,0 +1,9 @@
+{
+	"type":"origins:self_action_on_kill",
+	"entity_action":{
+		"type":"origins:feed",
+		"food":3,
+		"saturation":0
+	},
+	"cooldown":40
+}

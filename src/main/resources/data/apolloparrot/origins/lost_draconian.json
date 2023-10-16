@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:elytra",
+		"apolloparrot:lost-draconian/launch_into_air",
+		"apolloparrot:lost-draconian/passive",
+		"apolloparrot:lost-draconian/runt",
+		"apolloparrot:lost-draconian/sensitive_to_sun",
+		"apolloparrot:lost-draconian/soft_landing",
+		"apolloparrot:lost-draconian/teleport",
+		"apolloparrot:lost-draconian/transparent_skin",
+		"apolloparrot:lost-draconian/unknown_fire",
+		"apolloparrot:lost-draconian/warrior",
+		"apolloparrot:lost-draconian/weakened",
+		"apolloparrot:lost-draconian/weapons"
+	],
+	"icon":"minecraft:chorus_fruit",
+	"impact":3
+}

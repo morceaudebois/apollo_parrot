@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"origins:nine_lives",
+		"origins:no_shield",
+		"apolloparrot:cobra/cobras_touch",
+		"apolloparrot:cobra/cold_attributes",
+		"apolloparrot:cobra/cold_count",
+		"apolloparrot:cobra/cold_resource",
+		"apolloparrot:cobra/green_skin",
+		"apolloparrot:cobra/one_block_height",
+		"apolloparrot:cobra/poison_shot",
+		"apolloparrot:cobra/scale_armor",
+		"apolloparrot:cobra/strength_in_day",
+		"apolloparrot:cobra/strength_in_nether"
+	],
+	"icon":"minecraft:scute",
+	"impact":1
+}

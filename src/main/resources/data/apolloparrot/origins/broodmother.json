@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"origins:master_of_webs",
+		"origins:no_cobweb_slowdown",
+		"origins:carnivore",
+		"apolloparrot:broodmother/climbing",
+		"apolloparrot:broodmother/cobweb_feed",
+		"apolloparrot:broodmother/cursed_mother",
+		"apolloparrot:broodmother/exoskeleton",
+		"apolloparrot:broodmother/extra_hearts",
+		"apolloparrot:broodmother/long_jump",
+		"apolloparrot:broodmother/mineshaft_spawn",
+		"apolloparrot:broodmother/poison_immunity",
+		"apolloparrot:broodmother/poison_touch",
+		"apolloparrot:broodmother/silky_composition",
+		"apolloparrot:broodmother/spider_attribute",
+		"apolloparrot:broodmother/spider_kinship",
+		"apolloparrot:broodmother/spider_strength",
+		"apolloparrot:broodmother/suffocation_immunity",
+		"apolloparrot:broodmother/summon_the_army",
+		"apolloparrot:broodmother/web_shot"
+	],
+	"icon":"minecraft:spider_eye",
+	"impact":3
+}

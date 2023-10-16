@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"origins:nether_spawn",
+		"origins:water_vulnerability",
+		"origins:fire_immunity",
+		"origins:light_armor",
+		"apolloparrot:magmean/antivore",
+		"apolloparrot:magmean/bouncy",
+		"apolloparrot:magmean/disable_regeneration",
+		"apolloparrot:magmean/drop_loot",
+		"apolloparrot:magmean/lava_feed",
+		"apolloparrot:magmean/lava_speed",
+		"apolloparrot:magmean/no_fall_damage",
+		"apolloparrot:magmean/regeneration",
+		"apolloparrot:magmean/spicy_hands"
+	],
+	"icon":"minecraft:magma_cream",
+	"impact":3
+}

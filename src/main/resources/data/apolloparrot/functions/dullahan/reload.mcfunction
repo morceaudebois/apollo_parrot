@@ -1,0 +1,3 @@
+scoreboard objectives remove Dullahan
+scoreboard objectives remove Nightmare
+function apolloparrot:load

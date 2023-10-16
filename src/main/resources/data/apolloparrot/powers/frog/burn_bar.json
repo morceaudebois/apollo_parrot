@@ -1,0 +1,45 @@
+{
+	"type":"origins:multiple",
+	"hidden":true,
+	"resource":{
+		"type":"origins:resource",
+		"min":0,
+		"max":50,
+		"hud_render":{
+			"bar_index":7
+		}
+	},
+	"decrease":{
+		"type":"origins:action_over_time",
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"*:*_resource",
+			"change":1
+		},
+		"interval":50,
+		"condition":{
+			"type":"origins:exposed_to_sun"
+		},
+		"cooldown":1
+	},
+	"increase":{
+		"type":"origins:action_over_time",
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"*:*_resource",
+			"change":-3
+		},
+		"interval":50,
+		"condition":{
+			"type":"origins:submerged_in",
+			"fluid":"minecraft:water"
+		}
+	},
+	"respawn":{
+		"type":"origins:action_on_callback",
+		"entity_action_respawned":{
+			"type":"origins:execute_command",
+			"command":"resource set @s apolloparrot:frog/burn_bar_resource 0"
+		}
+	}
+}

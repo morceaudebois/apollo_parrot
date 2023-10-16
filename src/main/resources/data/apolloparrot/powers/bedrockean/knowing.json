@@ -1,0 +1,148 @@
+{
+	"type":"origins:action_on_block_break",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:diamond 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.diamond\"}"
+						}
+					]
+				},
+				"chance":0.006
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:coal 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.coal\"}"
+						}
+					]
+				},
+				"chance":0.05
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:lapis_lazuli 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.lapis\"}"
+						}
+					]
+				},
+				"chance":0.008
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:redstone 2"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.redstone\"}"
+						}
+					]
+				},
+				"chance":0.05
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:emerald 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.emerald\"}"
+						}
+					]
+				},
+				"chance":0.008
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:iron_ingot 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.iron\"}"
+						}
+					]
+				},
+				"chance":0.015
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:gold_ingot 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.gold\"}"
+						}
+					]
+				},
+				"chance":0.015
+			},
+			{
+				"type":"origins:chance",
+				"action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:execute_command",
+							"command":"give @s minecraft:totem_of_undying{display:{Name:'[{\"translate\":\"apolloparrot.bedrockean.totem_of_undying.name\",\"color\":\"#ffffcc\"}]',Lore:['[{\"translate\":\"apolloparrot.bedrockean.totem_of_undying.lore\"}]']},Enchantments:[{}]} 1"
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tellraw @s {\"translate\":\"apolloparrot.bedrockean.totem_of_undying\"}"
+						}
+					]
+				},
+				"chance":0.001
+			}
+		]
+	},
+	"block_condition":{
+		"type":"origins:in_tag",
+		"tag":"origins:natural_stone"
+	}
+}

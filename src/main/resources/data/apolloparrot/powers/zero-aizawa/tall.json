@@ -1,0 +1,24 @@
+{
+	"type":"origins:stacking_status_effect",
+	"min_stacks":0,
+	"max_stacks":1,
+	"duration_per_stack":20,
+	"effects":[
+		{
+			"effect":"minecraft:weakness",
+			"show_particles":false,
+			"show_icon":false
+		},
+		{
+			"effect":"minecraft:hunger",
+			"show_particles":false,
+			"show_icon":false
+		}
+	],
+	"condition":{
+		"type":"origins:block_collision",
+		"offset_x":0,
+		"offset_y":1,
+		"offset_z":0
+	}
+}

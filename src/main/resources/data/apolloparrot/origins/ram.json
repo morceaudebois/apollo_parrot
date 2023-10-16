@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:fresh_air",
+		"apolloparrot:ram/dash",
+		"apolloparrot:ram/energy_jump",
+		"apolloparrot:ram/fall",
+		"apolloparrot:ram/jump_boost",
+		"apolloparrot:ram/no_food",
+		"apolloparrot:ram/no_food_eat",
+		"apolloparrot:ram/ram"
+	],
+	"icon":"minecraft:white_wool",
+	"impact":3
+}

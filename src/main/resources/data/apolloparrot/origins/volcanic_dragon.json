@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"origins:elytra",
+		"origins:water_vulnerability",
+		"origins:fall_immunity",
+		"origins:damage_from_snowballs",
+		"origins:fire_immunity",
+		"apolloparrot:volcanic-dragon/fast_metabolism",
+		"apolloparrot:volcanic-dragon/hot_blooded",
+		"apolloparrot:volcanic-dragon/lava_breath",
+		"apolloparrot:volcanic-dragon/natural_armor",
+		"apolloparrot:volcanic-dragon/natural_strength",
+		"apolloparrot:volcanic-dragon/nether_spawn",
+		"apolloparrot:volcanic-dragon/slowness_in_cold",
+		"apolloparrot:volcanic-dragon/two_extra_hearts",
+		"apolloparrot:volcanic-dragon/volcanic_dash",
+		"apolloparrot:volcanic-dragon/weakness_in_cold"
+	],
+	"icon":"minecraft:lava_bucket",
+	"impact":3
+}

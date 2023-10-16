@@ -1,0 +1,10 @@
+{
+	"powers":[
+		"apolloparrot:warforged/robotic_body",
+		"apolloparrot:warforged/rust",
+		"apolloparrot:warforged/scotopic_vision",
+		"apolloparrot:warforged/weaponized_body"
+	],
+	"icon":"minecraft:iron_chestplate",
+	"impact":3
+}

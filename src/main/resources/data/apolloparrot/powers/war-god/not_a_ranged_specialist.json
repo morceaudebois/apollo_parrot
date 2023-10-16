@@ -1,0 +1,11 @@
+{
+	"type":"origins:modify_damage_taken",
+	"modifier":{
+		"value":1.5,
+		"operation":"multiply_total"
+	},
+	"damage_condition":{
+		"name":"projectile",
+		"type":"origins:name"
+	}
+}

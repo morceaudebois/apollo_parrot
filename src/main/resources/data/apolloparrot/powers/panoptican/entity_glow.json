@@ -1,0 +1,9 @@
+{
+	"type":"origins:entity_glow",
+	"inverted":true,
+	"condition":{
+		"type":"origins:power_active",
+		"power":"apolloparrot:panoptican/toggle"
+	},
+	"hidden":true
+}

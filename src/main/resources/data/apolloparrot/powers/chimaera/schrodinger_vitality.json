@@ -1,0 +1,12 @@
+{
+	"type":"origins:conditioned_attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.max_health",
+		"value":-10,
+		"operation":"addition"
+	},
+	"update_health":true,
+	"condition":{
+		"type":"origins:exposed_to_sun"
+	}
+}

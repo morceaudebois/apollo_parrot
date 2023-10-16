@@ -1,0 +1,15 @@
+{
+	"type":"origins:modify_damage_taken",
+	"damage_condition":{
+		"type":"origins:attacker",
+		"entity_condition":{
+			"type":"origins:nbt",
+			"nbt":"{Tags:['Deathsworn_Minion']}"
+		}
+	},
+	"modifier":{
+		"operation":"multiply_total",
+		"value":-1
+	},
+	"hidden":true
+}

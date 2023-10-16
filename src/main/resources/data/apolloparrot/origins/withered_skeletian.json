@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"origins:fire_immunity",
+		"apolloparrot:withered-skeletian/immune",
+		"apolloparrot:withered-skeletian/nether_inhabitant",
+		"apolloparrot:withered-skeletian/nether_kinship",
+		"apolloparrot:withered-skeletian/s_and_p/attacker",
+		"apolloparrot:withered-skeletian/s_and_p/death",
+		"apolloparrot:withered-skeletian/s_and_p/hit",
+		"apolloparrot:withered-skeletian/s_and_p/passive",
+		"apolloparrot:withered-skeletian/s_and_p/victim",
+		"apolloparrot:withered-skeletian/sharper_stone",
+		"apolloparrot:withered-skeletian/undead_body",
+		"apolloparrot:withered-skeletian/unnatural_height",
+		"apolloparrot:withered-skeletian/withering_presence"
+	],
+	"icon":"minecraft:wither_skeleton_skull",
+	"impact":3
+}

@@ -1,0 +1,24 @@
+{
+	"powers":[
+		"origins:burn_in_daylight",
+		"apolloparrot:deathsworn/appraisal",
+		"apolloparrot:deathsworn/carry",
+		"apolloparrot:deathsworn/command",
+		"apolloparrot:deathsworn/disconnect",
+		"apolloparrot:deathsworn/equip",
+		"apolloparrot:deathsworn/freeze",
+		"apolloparrot:deathsworn/join_team",
+		"apolloparrot:deathsworn/night_lover",
+		"apolloparrot:deathsworn/no_melee",
+		"apolloparrot:deathsworn/no_trades",
+		"apolloparrot:deathsworn/petrified_heart",
+		"apolloparrot:deathsworn/small_shot",
+		"apolloparrot:deathsworn/soul",
+		"apolloparrot:deathsworn/special",
+		"apolloparrot:deathsworn/stat_checker",
+		"apolloparrot:deathsworn/summon",
+		"apolloparrot:deathsworn/take_soul"
+	],
+	"icon":"minecraft:nether_wart_block",
+	"impact":3
+}

@@ -1,0 +1,7 @@
+{
+	"condition":{
+		"type":"origins:sneaking"
+	},
+	"type":"origins:invisibility",
+	"render_armor":false
+}

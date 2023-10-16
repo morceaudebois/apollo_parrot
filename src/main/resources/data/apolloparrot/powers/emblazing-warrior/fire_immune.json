@@ -1,0 +1,31 @@
+{
+	"type":"origins:multiple",
+	"a":{
+		"type":"origins:modify_damage_taken",
+		"damage_condition":{
+			"type":"origins:name",
+			"name":"onFire"
+		},
+		"modifier":{
+			"operation":"multiply_total",
+			"value":-0.70
+		}
+	},
+	"b":{
+		"type":"origins:modify_damage_taken",
+		"damage_condition":{
+			"type":"origins:name",
+			"name":"onFire"
+		},
+		"modifier":{
+			"operation":"multiply_total",
+			"value":-1
+		},
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:emblazing-warrior/fury_bar",
+			"compare_to":3,
+			"comparison":"=="
+		}
+	}
+}

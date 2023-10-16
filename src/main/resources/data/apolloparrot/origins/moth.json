@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:climbing",
+		"origins:nine_lives",
+		"origins:elytra",
+		"apolloparrot:moth/compound_vision",
+		"apolloparrot:moth/easy_evasion",
+		"apolloparrot:moth/expulsion",
+		"apolloparrot:moth/flammable_body",
+		"apolloparrot:moth/jackolantern_affinity",
+		"apolloparrot:moth/lantern_affinity",
+		"apolloparrot:moth/light_affinity",
+		"apolloparrot:moth/overwhelming_light",
+		"apolloparrot:moth/sea_lantern_affinity",
+		"apolloparrot:moth/short",
+		"apolloparrot:moth/soul_lantern_affinity",
+		"apolloparrot:moth/soul_torch_affinity"
+	],
+	"icon":"minecraft:lantern",
+	"impact":2
+}

@@ -1,0 +1,13 @@
+{
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:wither_skull",
+	"count":1,
+	"speed":1.5,
+	"divergence":1,
+	"cooldown":600,
+	"hud_render":{
+		"bar_index":15,
+		"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png"
+	},
+	"key":"key.origins.secondary_active"
+}

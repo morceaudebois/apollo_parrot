@@ -1,0 +1,10 @@
+{
+	"type":"origins:prevent_sleep",
+	"set_spawn_point":true,
+	"block_condition":{
+		"type":"origins:height",
+		"comparison":"<",
+		"compare_to":70
+	},
+	"message":"apolloparrot.spirit-ram.sleep_fail"
+}

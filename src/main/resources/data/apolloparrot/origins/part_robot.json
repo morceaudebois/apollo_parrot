@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
+		"origins:water_vulnerability",
+		"apolloparrot:part-robot/already_iron",
+		"apolloparrot:part-robot/boiling",
+		"apolloparrot:part-robot/effect_immune",
+		"apolloparrot:part-robot/heavy",
+		"apolloparrot:part-robot/laser",
+		"apolloparrot:part-robot/no_regeneration",
+		"apolloparrot:part-robot/overheat",
+		"apolloparrot:part-robot/rapid_laser",
+		"apolloparrot:part-robot/regenerate",
+		"apolloparrot:part-robot/steel_skin",
+		"apolloparrot:part-robot/tank_skin",
+		"apolloparrot:part-robot/unexhausted",
+		"apolloparrot:part-robot/water_breather"
+	],
+	"icon":"minecraft:iron_block",
+	"impact":2
+}

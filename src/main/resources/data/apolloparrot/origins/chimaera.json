@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:climbing",
+		"apolloparrot:chimaera/aggression",
+		"apolloparrot:chimaera/anoxic",
+		"apolloparrot:chimaera/chimeric",
+		"apolloparrot:chimaera/miasma",
+		"apolloparrot:chimaera/no_food",
+		"apolloparrot:chimaera/pathophagy",
+		"apolloparrot:chimaera/phase_shift",
+		"apolloparrot:chimaera/schrodinger_vitality",
+		"apolloparrot:chimaera/unstable",
+		"apolloparrot:chimaera/xenite_implants"
+	],
+	"icon":"minecraft:budding_amethyst",
+	"impact":3
+}

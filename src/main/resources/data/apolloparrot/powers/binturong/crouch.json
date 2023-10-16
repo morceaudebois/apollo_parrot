@@ -1,0 +1,18 @@
+{
+	"type":"origins:action_over_time",
+	"interval":1,
+	"entity_action":{
+		"type":"origins:if_else",
+		"condition":{
+			"type":"origins:sneaking"
+		},
+		"if_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:binturong/crouch"
+		},
+		"else_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:binturong/size"
+		}
+	}
+}

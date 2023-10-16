@@ -1,0 +1,8 @@
+{
+	"type":"origins:attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.attack_speed",
+		"value":-0.33,
+		"operation":"multiply_base"
+	}
+}

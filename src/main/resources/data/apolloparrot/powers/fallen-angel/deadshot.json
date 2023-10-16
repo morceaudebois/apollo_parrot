@@ -1,0 +1,13 @@
+{
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:wither_skull",
+	"cooldown":60,
+	"hud_render":{
+		"bar_index":7
+	},
+	"count":1,
+	"speed":3,
+	"divergence":1,
+	"sound":"minecraft:entity.phantom.death",
+	"key":"key.origins.secondary_active"
+}

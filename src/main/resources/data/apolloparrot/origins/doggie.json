@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "origins:tailwind",
+        "origins:carnivore",
+        "origins:velvet_paws",
+        "origins:cat_vision",
+        "apolloparrot:doggie/summon_wolf",
+        "apolloparrot:doggie/woof",
+        "apolloparrot:doggie/transform",
+        "apolloparrot:doggie/transform_back"
+    ],
+    "icon": "minecraft:bone",
+    "impact": 2
+}

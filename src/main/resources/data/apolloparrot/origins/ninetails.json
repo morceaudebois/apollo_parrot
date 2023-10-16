@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:fall_immunity",
+		"origins:fire_immunity",
+		"origins:nine_lives",
+		"apolloparrot:ninetails/fire_particles",
+		"apolloparrot:ninetails/firebody",
+		"apolloparrot:ninetails/launch",
+		"apolloparrot:ninetails/pocket",
+		"apolloparrot:ninetails/willow"
+	],
+	"icon":"minecraft:blaze_powder",
+	"impact":3
+}

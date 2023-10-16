@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"origins:vegetarian",
+		"apolloparrot:reign-farmer/lightly_armored",
+		"apolloparrot:reign-farmer/nimble",
+		"apolloparrot:reign-farmer/nourish",
+		"apolloparrot:reign-farmer/pacifist",
+		"apolloparrot:reign-farmer/photosynthesis",
+		"apolloparrot:reign-farmer/strength_of_crops",
+		"apolloparrot:reign-farmer/the_gift_of_life"
+	],
+	"icon":"minecraft:netherite_hoe",
+	"impact":1
+}

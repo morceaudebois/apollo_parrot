@@ -1,0 +1,11 @@
+{
+	"powers":[
+		"origins:nether_spawn",
+		"apolloparrot:half-wither/exhaust",
+		"apolloparrot:half-wither/immunity",
+		"apolloparrot:half-wither/soul_feed",
+		"apolloparrot:half-wither/wither_skull"
+	],
+	"icon":"minecraft:wither_skeleton_skull",
+	"impact":3
+}

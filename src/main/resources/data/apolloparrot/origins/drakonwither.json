@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"origins:launch_into_air",
+		"origins:elytra",
+		"origins:ender_particles",
+		"apolloparrot:drakonwither/skulls",
+		"apolloparrot:drakonwither/wither_immunity",
+		"apolloparrot:drakonwither/wither_skull"
+	],
+	"icon":"minecraft:wither_skeleton_skull",
+	"impact":2
+}

@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"apolloparrot:gnoll/carrion_eater",
+		"apolloparrot:gnoll/carrion_saturation",
+		"apolloparrot:gnoll/large_build",
+		"apolloparrot:gnoll/large_health",
+		"apolloparrot:gnoll/night_vision",
+		"apolloparrot:gnoll/rage"
+	],
+	"icon":"minecraft:rotten_flesh",
+	"impact":3
+}

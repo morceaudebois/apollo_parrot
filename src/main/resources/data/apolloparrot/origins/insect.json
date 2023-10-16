@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:climbing",
+		"origins:fall_immunity",
+		"apolloparrot:insect/ankle_bite",
+		"apolloparrot:insect/flap",
+		"apolloparrot:insect/health",
+		"apolloparrot:insect/lava",
+		"apolloparrot:insect/rain_slowness",
+		"apolloparrot:insect/small",
+		"apolloparrot:insect/speed",
+		"apolloparrot:insect/water",
+		"apolloparrot:insect/water_slowness"
+	],
+	"icon":"minecraft:vine",
+	"impact":2
+}

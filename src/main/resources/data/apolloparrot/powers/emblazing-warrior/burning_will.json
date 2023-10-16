@@ -1,0 +1,14 @@
+{
+	"type":"origins:action_over_time",
+	"entity_action":{
+		"type":"origins:set_on_fire",
+		"duration":1
+	},
+	"interval":19,
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:emblazing-warrior/fury_bar",
+		"compare_to":3,
+		"comparison":"=="
+	}
+}

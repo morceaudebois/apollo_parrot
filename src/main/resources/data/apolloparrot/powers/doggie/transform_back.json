@@ -1,0 +1,10 @@
+{
+  "type":"origins:active_self",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "identity unequip @s"
+  },
+
+  "cooldown":1200,
+  "key":"key.origins.ternary_active"
+}

@@ -1,0 +1,11 @@
+{
+	"type":"origins:action_on_callback",
+	"entity_action_chosen":{
+		"type":"origins:execute_command",
+		"command":"execute as @s run function apolloparrot:technomancer/technomancer_items_give"
+	},
+	"entity_action_respawned":{
+		"type":"origins:execute_command",
+		"command":"execute as @s run function apolloparrot:technomancer/technomancer_items_give"
+	}
+}

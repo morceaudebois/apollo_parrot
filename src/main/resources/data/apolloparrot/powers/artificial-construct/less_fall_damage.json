@@ -1,0 +1,11 @@
+{
+	"type":"origins:modify_damage_taken",
+	"modifier":{
+		"operation":"addition",
+		"value":-3
+	},
+	"damage_condition":{
+		"type":"origins:name",
+		"name":"fall"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"apolloparrot:emblazing-warrior/blind",
+		"apolloparrot:emblazing-warrior/burning_will",
+		"apolloparrot:emblazing-warrior/cross",
+		"apolloparrot:emblazing-warrior/exhaustion",
+		"apolloparrot:emblazing-warrior/fire_immune",
+		"apolloparrot:emblazing-warrior/fury",
+		"apolloparrot:emblazing-warrior/ignition",
+		"apolloparrot:emblazing-warrior/injury_lover",
+		"apolloparrot:emblazing-warrior/rage",
+		"apolloparrot:emblazing-warrior/world_diff"
+	],
+	"icon":"minecraft:blaze_powder",
+	"impact":2
+}

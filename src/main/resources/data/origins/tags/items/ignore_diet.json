@@ -1,0 +1,11 @@
+{
+  "values":[
+    "minecraft:chorus_fruit",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:golden_apple",
+    "minecraft:honey_bottle",
+    "minecraft:suspicious_stew",
+
+    "#apolloparrot-modded-support:ignore_diet"
+  ]
+}

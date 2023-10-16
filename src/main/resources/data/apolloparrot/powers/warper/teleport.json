@@ -1,0 +1,62 @@
+{
+	"type":"origins:active_self",
+	"key":"key.loadToolbarActivator",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:raycast",
+				"distance":32,
+				"entity":false,
+				"before_action":{
+					"type":"origins:and",
+					"actions":{
+						"type":"origins:execute_command",
+						"command":"tag @s add warper_tp"
+					}
+				},
+				"command_along_ray":"execute positioned ~ ~ ~ if block ~ ~ ~ air run tp @e[tag=warper_tp,sort=nearest] ~ ~ ~",
+				"miss_action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:add_velocity",
+							"space":"local",
+							"z":0.1
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tag @s remove warper_tp"
+						}
+					]
+				},
+				"hit_action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:add_velocity",
+							"space":"local",
+							"z":0.1
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tag @s remove warper_tp"
+						}
+					]
+				}
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"playsound minecraft:entity.enderman.teleport master @s ~ ~ ~ 10 0.18"
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"particle minecraft:portal ~ ~ ~ 1 1 1 1 200 normal"
+			}
+		]
+	},
+	"cooldown":140,
+	"hud_render":{
+		"bar_index":6
+	}
+}

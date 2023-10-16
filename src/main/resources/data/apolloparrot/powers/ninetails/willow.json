@@ -1,0 +1,9 @@
+{
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:small_fireball",
+	"cooldown":100,
+	"hud_render":{
+		"bar_index":7
+	},
+	"key":"key.saveToolbarActivator"
+}

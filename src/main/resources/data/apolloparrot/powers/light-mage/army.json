@@ -1,0 +1,28 @@
+{
+	"hidden":true,
+	"type":"origins:active_self",
+	"key":"key.origins.primary_active",
+	"cooldown":100,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:light-mage/army"
+	},
+	"condition":{
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type":"origins:sneaking"
+			},
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"offhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"item":"minecraft:carved_pumpkin"
+					}
+				}
+			}
+		]
+	}
+}

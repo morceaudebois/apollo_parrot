@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"apolloparrot:giant/armor",
+		"apolloparrot:giant/big",
+		"apolloparrot:giant/bow",
+		"apolloparrot:giant/crossbow",
+		"apolloparrot:giant/breath",
+		"apolloparrot:giant/health",
+		"apolloparrot:giant/hunger",
+		"apolloparrot:giant/item",
+		"apolloparrot:giant/limbs",
+		"apolloparrot:giant/mount",
+		"apolloparrot:giant/no_elytra",
+		"apolloparrot:giant/prevent_mount",
+		"apolloparrot:giant/slam",
+		"apolloparrot:giant/sleep",
+		"apolloparrot:giant/slow",
+		"apolloparrot:giant/spider",
+		"apolloparrot:giant/strong",
+		"apolloparrot:giant/sturdy",
+		"apolloparrot:giant/swim",
+		"apolloparrot:giant/unwieldy"
+	],
+	"icon":"minecraft:leather_chestplate",
+	"impact":3
+}

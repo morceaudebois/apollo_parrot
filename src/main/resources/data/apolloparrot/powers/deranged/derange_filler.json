@@ -1,0 +1,21 @@
+{
+	"type":"origins:self_action_on_kill",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:change_resource",
+				"resource":"apolloparrot:deranged/derangement",
+				"change":20,
+				"operation":"add"
+			},
+			{
+				"type":"origins:play_sound",
+				"sound":"block.bell.resonate",
+				"volume":0.5,
+				"pitch":1
+			}
+		]
+	},
+	"cooldown":1
+}

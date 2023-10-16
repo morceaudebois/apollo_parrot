@@ -1,0 +1,8 @@
+{
+	"type":"origins:self_action_when_hit",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:chimaera/phase_shift"
+	},
+	"cooldown":1200
+}

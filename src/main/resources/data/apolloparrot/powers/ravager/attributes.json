@@ -1,0 +1,19 @@
+{
+	"type":"origins:multiple",
+	"attack_damage":{
+		"type":"origins:modify_damage_taken",
+		"modifier":{
+			"operation":"multiply_base",
+			"value":-0.125
+		}
+	},
+	"knockback_resistance":{
+		"type":"origins:attribute",
+		"modifier":{
+			"attribute":"minecraft:generic.knockback_resistance",
+			"value":999,
+			"operation":"addition"
+		}
+	}
+}
+

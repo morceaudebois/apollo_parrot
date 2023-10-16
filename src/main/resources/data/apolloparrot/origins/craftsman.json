@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"apolloparrot:craftsman/axe",
+		"apolloparrot:craftsman/crafting",
+		"apolloparrot:craftsman/fire",
+		"apolloparrot:craftsman/pillager",
+		"apolloparrot:craftsman/undead",
+		"apolloparrot:craftsman/village"
+	],
+	"icon":"minecraft:crafting_table",
+	"impact":1
+}

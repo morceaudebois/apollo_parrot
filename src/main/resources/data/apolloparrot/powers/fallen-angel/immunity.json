@@ -1,0 +1,9 @@
+{
+	"type":"origins:effect_immunity",
+	"effects":[
+		"minecraft:wither",
+		"minecraft:poison",
+		"minecraft:instant_damage",
+		"minecraft:nausea"
+	]
+}

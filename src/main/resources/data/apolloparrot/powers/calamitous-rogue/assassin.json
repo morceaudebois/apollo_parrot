@@ -1,0 +1,52 @@
+{
+	"type":"origins:multiple",
+	"emerald":{
+		"type":"origins:target_action_on_hit",
+		"entity_action":{
+			"type":"origins:if_else",
+			"condition":{
+				"type":"origins:health",
+				"comparison":"==",
+				"compare_to":0
+			},
+			"if_action":{
+				"type":"origins:execute_command",
+				"command":"loot spawn ~ ~ ~ loot apolloparrot:assassin"
+			}
+		},
+		"target_condition":{
+			"type":"origins:in_tag",
+			"tag":"apolloparrot:big_game"
+		},
+		"cooldown":1
+	},
+	"no_drops":{
+		"type":"origins:target_action_on_hit",
+		"entity_action":{
+			"type":"origins:if_else",
+			"condition":{
+				"type":"origins:health",
+				"comparison":"==",
+				"compare_to":0
+			},
+			"if_action":{
+				"type":"origins:delay",
+				"ticks":1,
+				"action":{
+					"type":"origins:chance",
+					"chance":0.2,
+					"action":{
+						"type":"origins:execute_command",
+						"command":"kill @e[type=minecraft:item,distance=..1.5]"
+					}
+				}
+			}
+		},
+		"target_condition":{
+			"type":"origins:in_tag",
+			"tag":"apolloparrot:big_game",
+			"inverted":true
+		},
+		"cooldown":1
+	}
+}

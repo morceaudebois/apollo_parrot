@@ -1,0 +1,17 @@
+{
+	"type":"origins:self_action_when_hit",
+	"entity_action":{
+		"type":"origins:chance",
+		"chance":0.1,
+		"action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:magmean/drop_loot"
+		}
+	},
+	"damage_condition":{
+		"type":"origins:amount",
+		"comparison":">=",
+		"compare_to":2
+	},
+	"cooldown":40
+}

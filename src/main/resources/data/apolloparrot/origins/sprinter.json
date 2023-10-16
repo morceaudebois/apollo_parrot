@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"origins:cat_vision",
+		"origins:carnivore",
+		"apolloparrot:sprinter/adrenaline_boost",
+		"apolloparrot:sprinter/burns",
+		"apolloparrot:sprinter/light_feet",
+		"apolloparrot:sprinter/nimble",
+		"apolloparrot:sprinter/skinny"
+	],
+	"icon":"minecraft:leather_boots",
+	"impact":2
+}

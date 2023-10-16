@@ -1,0 +1,9 @@
+{
+	"type":"origins:action_over_time",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:illusioner/illusion_tp"
+	},
+	"interval":1,
+	"hidden":true
+}

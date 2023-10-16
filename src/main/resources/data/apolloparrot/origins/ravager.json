@@ -1,0 +1,23 @@
+{
+	"powers":[
+		"apolloparrot:ravager/attributes",
+		"apolloparrot:ravager/axe_strength",
+		"apolloparrot:ravager/bad_omen_on_death",
+		"apolloparrot:ravager/clumsy",
+		"apolloparrot:ravager/dash",
+		"apolloparrot:ravager/exhaust",
+		"apolloparrot:ravager/fear",
+		"apolloparrot:ravager/hard_hitting",
+		"apolloparrot:ravager/heavy_armor",
+		"apolloparrot:ravager/heavy_footed",
+		"apolloparrot:ravager/immense",
+		"apolloparrot:ravager/ram",
+		"apolloparrot:ravager/ravager_resource",
+		"apolloparrot:ravager/slowness",
+		"apolloparrot:ravager/team",
+		"apolloparrot:ravager/thick_skin",
+		"apolloparrot:ravager/vexy"
+	],
+	"icon":"minecraft:saddle",
+	"impact":2
+}

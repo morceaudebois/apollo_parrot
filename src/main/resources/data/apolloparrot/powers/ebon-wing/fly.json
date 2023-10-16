@@ -1,0 +1,16 @@
+{
+	"type":"origins:launch",
+	"cooldown":300,
+	"hud_render":{
+		"bar_index":4
+	},
+	"sound":"minecraft:entity.ender_dragon.flap",
+	"speed":1.5,
+	"key":"key.origins.primary_active",
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:ebon-wing/blood_blood",
+		"comparison":">=",
+		"compare_to":100
+	}
+}

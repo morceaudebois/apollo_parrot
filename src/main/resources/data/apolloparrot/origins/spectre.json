@@ -1,0 +1,24 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:spectre/accursed",
+		"apolloparrot:spectre/archangel_size",
+		"apolloparrot:spectre/demonic",
+		"apolloparrot:spectre/ethereal",
+		"apolloparrot:spectre/fallen",
+		"apolloparrot:spectre/flesh_craver",
+		"apolloparrot:spectre/ravenous",
+		"apolloparrot:spectre/respawn",
+		"apolloparrot:spectre/rotten_flesh",
+		"apolloparrot:spectre/soul_devourer",
+		"apolloparrot:spectre/soul_sacrifice",
+		"apolloparrot:spectre/spectre_infinite",
+		"apolloparrot:spectre/spectre_terror",
+		"apolloparrot:spectre/spectre_terror_toggle",
+		"apolloparrot:spectre/translucent",
+		"apolloparrot:spectre/water_loathing",
+		"apolloparrot:spectre/weakened"
+	],
+	"icon":"minecraft:blackstone",
+	"impact":3
+}

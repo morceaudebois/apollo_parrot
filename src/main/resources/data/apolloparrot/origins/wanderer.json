@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"apolloparrot:wanderer/bag",
+		"apolloparrot:wanderer/cross",
+		"apolloparrot:wanderer/healing_warmth",
+		"apolloparrot:wanderer/leather",
+		"apolloparrot:wanderer/night",
+		"apolloparrot:wanderer/trade"
+	],
+	"icon":"minecraft:soul_lantern",
+	"impact":1
+}

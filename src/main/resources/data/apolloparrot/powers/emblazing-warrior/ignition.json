@@ -1,0 +1,57 @@
+{
+	"type":"origins:multiple",
+	"33_change":{
+		"type":"origins:self_action_on_hit",
+		"entity_action":{
+			"type":"origins:chance",
+			"action":{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:emblazing-warrior/powers/ignition"
+			},
+			"chance":0.33
+		},
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:emblazing-warrior/fury_bar",
+			"compare_to":1,
+			"comparison":"=="
+		},
+		"cooldown":40
+	},
+	"66_chance":{
+		"type":"origins:self_action_on_hit",
+		"entity_action":{
+			"type":"origins:chance",
+			"action":{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:emblazing-warrior/powers/ignition2"
+			},
+			"chance":0.66
+		},
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:emblazing-warrior/fury_bar",
+			"comparison":"==",
+			"compare_to":2
+		},
+		"cooldown":40
+	},
+	"100_chance":{
+		"type":"origins:self_action_on_hit",
+		"entity_action":{
+			"type":"origins:chance",
+			"action":{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:emblazing-warrior/powers/ignition2"
+			},
+			"chance":1
+		},
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:emblazing-warrior/fury_bar",
+			"compare_to":3,
+			"comparison":"=="
+		},
+		"cooldown":40
+	}
+}

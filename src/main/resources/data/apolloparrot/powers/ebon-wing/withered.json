@@ -1,0 +1,32 @@
+{
+	"type":"origins:active_self",
+	"key":"key.saveToolbarActivator",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:spawn_effect_cloud",
+				"radius":5,
+				"effect":{
+					"effect":"minecraft:wither",
+					"duration":100
+				}
+			},
+			{
+				"type":"origins:play_sound",
+				"sound":"minecraft:entity.wither.ambient"
+			}
+		]
+	},
+	"cooldown":100,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+		"bar_index":19
+	},
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:ebon-wing/blood_blood",
+		"comparison":">=",
+		"compare_to":120
+	}
+}

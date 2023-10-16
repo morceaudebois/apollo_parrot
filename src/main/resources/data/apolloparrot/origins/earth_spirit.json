@@ -1,0 +1,10 @@
+{
+	"powers":[
+		"apolloparrot:earth-spirit/ignore_water",
+		"apolloparrot:earth-spirit/rock_skin",
+		"apolloparrot:earth-spirit/stone_power",
+		"apolloparrot:earth-spirit/switch_origin"
+	],
+	"icon":"minecraft:stone",
+	"impact":3
+}

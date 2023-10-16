@@ -1,0 +1,13 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.secondary_active",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:rift-mage/invert"
+	},
+	"cooldown":200,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
+		"bar_index":0
+	}
+}

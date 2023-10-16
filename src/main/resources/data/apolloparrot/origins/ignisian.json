@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"apolloparrot:ignisian/archdemon_size",
+		"apolloparrot:ignisian/brawler",
+		"apolloparrot:ignisian/crimson",
+		"apolloparrot:ignisian/diabolic",
+		"apolloparrot:ignisian/extinguished",
+		"apolloparrot:ignisian/extinguished_air",
+		"apolloparrot:ignisian/extinguished_ignore",
+		"apolloparrot:ignisian/hades_hopper",
+		"apolloparrot:ignisian/hades_trembler",
+		"apolloparrot:ignisian/heavyweight",
+		"apolloparrot:ignisian/ignisian_wrath",
+		"apolloparrot:ignisian/ignisian_wrath_toggle",
+		"apolloparrot:ignisian/ignisian_zenith",
+		"apolloparrot:ignisian/ignisian_zenith_effects",
+		"apolloparrot:ignisian/infernal",
+		"apolloparrot:ignisian/leaper",
+		"apolloparrot:ignisian/predatory",
+		"apolloparrot:ignisian/punished",
+		"apolloparrot:ignisian/sluggish_arms",
+		"apolloparrot:ignisian/sluggish_break"
+	],
+	"icon":"minecraft:magma_block",
+	"impact":3
+}

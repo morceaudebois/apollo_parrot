@@ -1,0 +1,39 @@
+{
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:if_else",
+		"condition":{
+			"type":"origins:equipped_item",
+			"equipment_slot":"mainhand",
+			"item_condition":{
+				"type":"origins:ingredient",
+				"ingredient":{
+					"item":"minecraft:nautilus_shell"
+				}
+			}
+		},
+		"if_action":{
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"function apolloparrot:kelperet/shell_equip"
+				},
+				{
+					"type":"origins:damage",
+					"amount":0,
+					"source":{
+						"name":"damage",
+						"unblockable":true,
+						"bypasses_armor":true
+					}
+				}
+			]
+		}
+	},
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+		"bar_index":16
+	},
+	"key":"key.origins.secondary_active"
+}

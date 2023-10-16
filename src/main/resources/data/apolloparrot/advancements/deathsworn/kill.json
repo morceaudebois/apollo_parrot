@@ -1,0 +1,21 @@
+{
+	"display":{
+		"title":{
+			"translate":"apolloparrot.advancements.kill.name"
+		},
+		"description":{
+			"translate":"apolloparrot.advancements.kill.description"
+		},
+		"icon":{
+			"item":"minecraft:spider_eye"
+		},
+		"announce_to_chat":false,
+		"background":"minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria":{
+		"b":{
+			"trigger":"minecraft:impossible"
+		}
+	},
+	"parent":"apolloparrot:deathsworn/petri"
+}

@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"apolloparrot:boarling/delicious",
+		"apolloparrot:boarling/gluttonous",
+		"apolloparrot:boarling/hog_sounds",
+		"apolloparrot:boarling/hog_wild",
+		"apolloparrot:boarling/hoofed",
+		"apolloparrot:boarling/overweight",
+		"apolloparrot:boarling/strong",
+		"apolloparrot:boarling/tough"
+	],
+	"icon":"minecraft:porkchop",
+	"impact":2
+}

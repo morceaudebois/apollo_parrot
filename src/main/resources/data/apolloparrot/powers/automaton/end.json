@@ -1,0 +1,13 @@
+{
+	"type":"origins:action_over_time",
+	"interval":5,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"resource change @s apolloparrot:automaton/firebar -1"
+	},
+	"condition":{
+		"type":"origins:dimension",
+		"dimension":"minecraft:the_end"
+	},
+	"hidden":true
+}

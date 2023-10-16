@@ -1,0 +1,19 @@
+{
+	"type":"origins:exhaust",
+	"interval":20,
+	"exhaustion":0.812,
+	"condition":{
+		"type":"origins:or",
+		"conditions":[
+			{
+				"type":"origins:power_active",
+				"power":"apolloparrot:ghast/nether_phasing_toggle"
+			},
+			{
+				"type":"origins:power_active",
+				"power":"apolloparrot:ghast/float"
+			}
+		]
+	},
+	"hidden":true
+}

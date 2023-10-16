@@ -1,0 +1,12 @@
+{
+	"type":"origins:entity_glow",
+	"condition":{
+		"type":"origins:using_item",
+		"item_condition":{
+			"type":"origins:ingredient",
+			"ingredient":{
+				"item":"minecraft:spyglass"
+			}
+		}
+	}
+}

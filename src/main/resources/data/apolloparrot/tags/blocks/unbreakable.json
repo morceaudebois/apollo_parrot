@@ -1,0 +1,13 @@
+{
+	"values":[
+		"#minecraft:dragon_immune",
+		"#minecraft:wither_immune",
+		"minecraft:ancient_debris",
+		"minecraft:diamond_block",
+		"minecraft:emerald_block",
+		"minecraft:enchanting_table",
+		"minecraft:gold_block",
+		"minecraft:iron_block",
+		"minecraft:netherite_block"
+	]
+}

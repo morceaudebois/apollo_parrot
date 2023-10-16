@@ -1,0 +1,29 @@
+{
+	"display":{
+		"title":{
+			"translate":"apolloparrot.advancements.petri.name"
+		},
+		"description":{
+			"translate":"apolloparrot.advancements.petri.description"
+		},
+		"icon":{
+			"item":"minecraft:heart_of_the_sea"
+		},
+		"announce_to_chat":false,
+		"background":"minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria":{
+		"a":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+					{
+						"item":"minecraft:heart_of_the_sea",
+						"nbt":"{lnc:1}"
+					}
+				]
+			}
+		}
+	},
+	"parent":"apolloparrot:deathsworn/root"
+}

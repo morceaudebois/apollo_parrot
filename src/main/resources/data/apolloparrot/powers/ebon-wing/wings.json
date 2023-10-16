@@ -1,0 +1,11 @@
+{
+	"type":"origins:elytra_flight",
+	"render_elytra":true,
+	"texture_location":"apolloparrot:textures/entity/ebon_wings.png",
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:ebon-wing/blood_blood",
+		"comparison":">=",
+		"compare_to":100
+	}
+}

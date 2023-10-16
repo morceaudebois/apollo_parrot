@@ -1,0 +1,12 @@
+{
+	"type":"origins:target_action_on_hit",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:deathsworn/turn_crystal"
+	},
+	"target_condition":{
+		"type":"origins:nbt",
+		"nbt":"{Tags:['Deathsworn_Minion']}"
+	},
+	"cooldown":1
+}

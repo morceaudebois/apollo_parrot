@@ -1,0 +1,22 @@
+{
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:deranged/derangement",
+		"comparison":">",
+		"compare_to":80
+	},
+	"type":"origins:conditioned_attribute",
+	"modifiers":[
+		{
+			"attribute":"minecraft:generic.attack_damage",
+			"operation":"addition",
+			"value":4
+		},
+		{
+			"attribute":"minecraft:generic.max_health",
+			"operation":"addition",
+			"value":-12
+		}
+	],
+	"update_health":true
+}

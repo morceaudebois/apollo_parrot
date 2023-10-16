@@ -1,0 +1,23 @@
+{
+	"powers":[
+		"origins:tailwind",
+		"origins:slow_falling",
+		"apolloparrot:sporeling/decomposer",
+		"apolloparrot:sporeling/fire_damage",
+		"apolloparrot:sporeling/health",
+		"apolloparrot:sporeling/jockey",
+		"apolloparrot:sporeling/light_armor",
+		"apolloparrot:sporeling/poison_spread_attack",
+		"apolloparrot:sporeling/small",
+		"apolloparrot:sporeling/speed",
+		"apolloparrot:sporeling/updraft"
+	],
+	"icon":"minecraft:brown_mushroom",
+	"impact":3,
+	"upgrades":[
+		{
+			"condition":"minecraft:end/kill_dragon",
+			"origin":"apolloparrot:shroomling"
+		}
+	]
+}

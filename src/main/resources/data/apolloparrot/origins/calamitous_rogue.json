@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"apolloparrot:calamitous-rogue/assassin",
+		"apolloparrot:calamitous-rogue/bad_trade",
+		"apolloparrot:calamitous-rogue/dps",
+		"apolloparrot:calamitous-rogue/escape",
+		"apolloparrot:calamitous-rogue/expert",
+		"apolloparrot:calamitous-rogue/infamous",
+		"apolloparrot:calamitous-rogue/smooth_talk",
+		"apolloparrot:calamitous-rogue/stealth",
+		"apolloparrot:calamitous-rogue/strike",
+		"apolloparrot:calamitous-rogue/traceless"
+	],
+	"icon":"minecraft:spyglass",
+	"impact":2
+}

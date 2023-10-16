@@ -1,0 +1,51 @@
+{
+	"type":"origins:multiple",
+	"callback":{
+		"type":"origins:action_on_callback",
+		"entity_action_chosen":{
+			"type":"origins:execute_command",
+			"command":"team add warper"
+		},
+		"entity_action_added":{
+			"type":"origins:delay",
+			"ticks":1,
+			"action":{
+				"type":"origins:execute_command",
+				"command":"team join warper @s"
+			}
+		},
+		"entity_action_lost":{
+			"type":"origins:execute_command",
+			"command":"team leave @s"
+		}
+	},
+	"join_team":{
+		"type":"origins:action_over_time",
+		"interval":20,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"team join warper @e[type=minecraft:enderman,nbt={HurtByTimestamp:0}]"
+		}
+	},
+	"leave_team":{
+		"type":"origins:target_action_on_hit",
+		"entity_action":{
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"team leave @s[type=minecraft:enderman]"
+				},
+				{
+					"type":"origins:delay",
+					"ticks":400,
+					"action":{
+						"type":"origins:execute_command",
+						"command":"team join warper"
+					}
+				}
+			]
+		},
+		"cooldown":1
+	}
+}

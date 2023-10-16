@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"origins:water_breathing",
+		"origins:fragile",
+		"apolloparrot:kelperet/aqua_affinity",
+		"apolloparrot:kelperet/aqua_power",
+		"apolloparrot:kelperet/gather",
+		"apolloparrot:kelperet/lunge",
+		"apolloparrot:kelperet/mobile_conduit",
+		"apolloparrot:kelperet/no_helmet",
+		"apolloparrot:kelperet/shell_equip",
+		"apolloparrot:kelperet/sink_in_water",
+		"apolloparrot:kelperet/small",
+		"apolloparrot:kelperet/sounds",
+		"apolloparrot:kelperet/standing_effect",
+		"apolloparrot:kelperet/water_vision",
+		"apolloparrot:kelperet/waterbound"
+	],
+	"icon":"minecraft:kelp",
+	"impact":3
+}

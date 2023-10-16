@@ -1,0 +1,14 @@
+{
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:arrow",
+	"tag":"{life:1000,pickup:0b,CustomPotionColor:3702861,CustomPotionEffects:[{Id:19,Duration:100,Amplifier:1,Ambient:1},{Id:18,Duration:100,Amplifier:0,Ambient:1}]}",
+	"cooldown":100,
+	"hud_render":{
+		"bar_index":8
+	},
+	"count":1,
+	"speed":2.5,
+	"divergence":1,
+	"sound":"minecraft:entity.player.hurt_sweet_berry_bush",
+	"key":"key.origins.primary_active"
+}

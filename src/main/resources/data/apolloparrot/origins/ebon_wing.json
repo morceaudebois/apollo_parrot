@@ -1,0 +1,25 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:carnivore",
+		"origins:more_exhaustion",
+		"apolloparrot:ebon-wing/blood",
+		"apolloparrot:ebon-wing/daytime_hurt",
+		"apolloparrot:ebon-wing/distort",
+		"apolloparrot:ebon-wing/dodge",
+		"apolloparrot:ebon-wing/ebon_effects",
+		"apolloparrot:ebon-wing/fall_immunity",
+		"apolloparrot:ebon-wing/fly",
+		"apolloparrot:ebon-wing/last_resort",
+		"apolloparrot:ebon-wing/last_resort_cooldown",
+		"apolloparrot:ebon-wing/nether_spawn",
+		"apolloparrot:ebon-wing/night_strength",
+		"apolloparrot:ebon-wing/resistance",
+		"apolloparrot:ebon-wing/smite_being",
+		"apolloparrot:ebon-wing/uncomfortable",
+		"apolloparrot:ebon-wing/wings",
+		"apolloparrot:ebon-wing/withered"
+	],
+	"icon":"minecraft:amethyst_shard",
+	"impact":3
+}

@@ -1,0 +1,31 @@
+{
+	"type":"origins:multiple",
+	"undead":{
+		"type":"origins:entity_group",
+		"group":"undead"
+	},
+	"high_prices":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:lunar-path/high_prices"
+		}
+	},
+	"iron_golem":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:lunar-path/iron_golem"
+		}
+	},
+	"iron_golem_no":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:lunar-path/iron_golem_no"
+		}
+	}
+}

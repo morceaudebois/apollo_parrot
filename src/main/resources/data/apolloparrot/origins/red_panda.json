@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:climbing",
+		"apolloparrot:red-panda/bamboo_eater",
+		"apolloparrot:red-panda/cute",
+		"apolloparrot:red-panda/diet",
+		"apolloparrot:red-panda/flammable",
+		"apolloparrot:red-panda/jungle_native",
+		"apolloparrot:red-panda/lazy",
+		"apolloparrot:red-panda/nocturnal"
+	],
+	"icon":"minecraft:bamboo",
+	"impact":2
+}

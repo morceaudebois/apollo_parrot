@@ -1,0 +1,31 @@
+{
+	"powers":[
+		"apolloparrot:automaton/aging",
+		"apolloparrot:automaton/attack",
+		"apolloparrot:automaton/cold_biome",
+		"apolloparrot:automaton/dense",
+		"apolloparrot:automaton/drown",
+		"apolloparrot:automaton/elemental_attack_title",
+		"apolloparrot:automaton/end",
+		"apolloparrot:automaton/extinguish",
+		"apolloparrot:automaton/fire_elemental_attack",
+		"apolloparrot:automaton/firebar",
+		"apolloparrot:automaton/firebar_increase",
+		"apolloparrot:automaton/glowing",
+		"apolloparrot:automaton/humidity",
+		"apolloparrot:automaton/lava",
+		"apolloparrot:automaton/nether",
+		"apolloparrot:automaton/no_hunger",
+		"apolloparrot:automaton/power_saving_mode",
+		"apolloparrot:automaton/respawn",
+		"apolloparrot:automaton/toggle",
+		"apolloparrot:automaton/undying",
+		"apolloparrot:automaton/unnatural",
+		"apolloparrot:automaton/water_attack",
+		"apolloparrot:automaton/water_elemental_attack",
+		"apolloparrot:automaton/waterbar",
+		"apolloparrot:automaton/waterbar_increase"
+	],
+	"icon":"minecraft:weathered_copper",
+	"impact":3
+}

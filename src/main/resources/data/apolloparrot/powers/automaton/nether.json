@@ -1,0 +1,13 @@
+{
+	"type":"origins:action_over_time",
+	"interval":5,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:automaton/hot"
+	},
+	"condition":{
+		"type":"origins:dimension",
+		"dimension":"minecraft:the_nether"
+	},
+	"hidden":true
+}

@@ -1,0 +1,18 @@
+{
+	"type":"origins:multiple",
+	"knockback":{
+		"type":"origins:attribute",
+		"modifier":{
+			"attribute":"minecraft:generic.knockback_resistance",
+			"operation":"addition",
+			"value":0.33
+		}
+	},
+	"mining_speed":{
+		"type":"origins:modify_break_speed",
+		"modifier":{
+			"operation":"multiply_base",
+			"value":0.5
+		}
+	}
+}

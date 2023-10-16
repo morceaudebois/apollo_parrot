@@ -1,0 +1,15 @@
+{
+	"type":"origins:conditioned_attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.max_health",
+		"value":-6,
+		"operation":"addition"
+	},
+	"update_health":true,
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:shifter/shift_bar",
+		"comparison":"==",
+		"compare_to":4
+	}
+}

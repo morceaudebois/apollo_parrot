@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:aqua_affinity",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:like_water",
+		"origins:swim_speed",
+		"apolloparrot:jellyfish/aquatic_agriculture",
+		"apolloparrot:jellyfish/dry",
+		"apolloparrot:jellyfish/jelly_body",
+		"apolloparrot:jellyfish/little_blob",
+		"apolloparrot:jellyfish/ship_dweller",
+		"apolloparrot:jellyfish/stinger",
+		"apolloparrot:jellyfish/water_vision"
+	],
+	"icon":"minecraft:gold_nugget",
+	"impact":3
+}

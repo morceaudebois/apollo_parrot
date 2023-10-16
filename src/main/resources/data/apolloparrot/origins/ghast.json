@@ -1,0 +1,20 @@
+{
+	"powers":[
+		"origins:fire_immunity",
+		"origins:fragile",
+		"origins:nether_spawn",
+		"origins:slow_falling",
+		"origins:translucent",
+		"apolloparrot:ghast/fire_charge",
+		"apolloparrot:ghast/fire_charge_a",
+		"apolloparrot:ghast/float",
+		"apolloparrot:ghast/hunger_over_time",
+		"apolloparrot:ghast/miserable",
+		"apolloparrot:ghast/nether_phasing",
+		"apolloparrot:ghast/not_warm_shaking",
+		"apolloparrot:ghast/red_nether_phasing",
+		"apolloparrot:ghast/tall"
+	],
+	"icon":"minecraft:fire_charge",
+	"impact":3
+}

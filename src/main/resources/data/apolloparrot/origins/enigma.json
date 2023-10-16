@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"apolloparrot:enigma/clone",
+		"apolloparrot:enigma/behind_you",
+		"apolloparrot:enigma/hated",
+		"apolloparrot:enigma/no_fighting",
+		"apolloparrot:enigma/phase",
+		"apolloparrot:enigma/sight",
+		"apolloparrot:enigma/staring"
+	],
+	"icon":"minecraft:jigsaw",
+	"impact":2
+}

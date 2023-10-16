@@ -1,0 +1,17 @@
+{
+	"type":"origins:multiple",
+	"vision":{
+		"type":"origins:entity_glow",
+		"entity_condition":{
+			"type":"origins:entity_type",
+			"entity_type":"minecraft:player"
+		},
+		"condition":{
+			"type":"origins:sneaking"
+		}
+	},
+	"nv":{
+		"type":"origins:night_vision",
+		"strength":1
+	}
+}

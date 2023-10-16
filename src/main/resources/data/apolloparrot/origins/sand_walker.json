@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"apolloparrot:sand-walker/cold_hatred",
+		"apolloparrot:sand-walker/desert_spawn",
+		"apolloparrot:sand-walker/flesh_eater",
+		"apolloparrot:sand-walker/heat_resistance",
+		"apolloparrot:sand-walker/no_hunger",
+		"apolloparrot:sand-walker/sand_blender",
+		"apolloparrot:sand-walker/sand_shifter",
+		"apolloparrot:sand-walker/worse_steak"
+	],
+	"icon":"minecraft:sand",
+	"impact":2
+}

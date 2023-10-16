@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"apolloparrot:lunar-path/chains_of_death",
+		"apolloparrot:lunar-path/cursed_being",
+		"apolloparrot:lunar-path/exiled",
+		"apolloparrot:lunar-path/explosion_immune",
+		"apolloparrot:lunar-path/from_beyond_the_grave",
+		"apolloparrot:lunar-path/great_deal",
+		"apolloparrot:lunar-path/night_boost",
+		"apolloparrot:lunar-path/no_daylight_water",
+		"apolloparrot:lunar-path/pluck",
+		"apolloparrot:lunar-path/summon_fangs",
+		"apolloparrot:lunar-path/sunlight_terror",
+		"apolloparrot:lunar-path/weakened_by_all",
+		"apolloparrot:lunar-path/wither_immunity"
+	],
+	"icon":"minecraft:sea_lantern",
+	"impact":3
+}

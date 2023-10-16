@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:pumpkin_hate",
+		"origins:water_vulnerability",
+		"apolloparrot:end-mage/end_rage",
+		"apolloparrot:end-mage/health",
+		"apolloparrot:end-mage/mage_book",
+		"apolloparrot:end-mage/mana_potion",
+		"apolloparrot:end-mage/reach",
+		"apolloparrot:end-mage/recipes",
+		"apolloparrot:end-mage/resource",
+		"apolloparrot:end-mage/resource_change",
+		"apolloparrot:end-mage/super_mana_potion",
+		"apolloparrot:end-mage/telekinesis",
+		"apolloparrot:end-mage/teleport",
+		"apolloparrot:end-mage/tp_to_you",
+		"apolloparrot:end-mage/waypoint"
+	],
+	"icon":"minecraft:end_crystal",
+	"impact":3
+}

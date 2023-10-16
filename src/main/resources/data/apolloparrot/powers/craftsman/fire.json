@@ -1,0 +1,8 @@
+{
+	"condition":{
+		"inverted":true,
+		"type":"origins:submerged_in",
+		"fluid":"minecraft:lava"
+	},
+	"type":"origins:fire_immunity"
+}

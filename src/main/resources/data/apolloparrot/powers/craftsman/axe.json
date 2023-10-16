@@ -1,0 +1,25 @@
+{
+	"condition":{
+		"type":"origins:equipped_item",
+		"equipment_slot":"mainhand",
+		"item_condition":{
+			"type":"origins:ingredient",
+			"ingredient":{
+				"tag":"apolloparrot:axes"
+			}
+		}
+	},
+	"type":"origins:conditioned_attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.attack_damage",
+		"operation":"multiply_base",
+		"value":1.25
+	},
+	"modifiers":[
+		{
+			"attribute":"minecraft:generic.attack_speed",
+			"operation":"addition",
+			"value":1.25
+		}
+	]
+}

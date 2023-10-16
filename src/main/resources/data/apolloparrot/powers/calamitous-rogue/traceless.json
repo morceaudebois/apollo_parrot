@@ -1,0 +1,13 @@
+{
+	"type":"origins:self_action_on_kill",
+	"entity_action":{
+		"type":"origins:delay",
+		"ticks":2,
+		"action":{
+			"type":"origins:change_resource",
+			"resource":"apolloparrot:calamitous-rogue/stealth_bar",
+			"change":5
+		}
+	},
+	"cooldown":1
+}

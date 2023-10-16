@@ -1,0 +1,28 @@
+{
+	"powers":[
+		"apolloparrot:glacier/chilly_person",
+		"apolloparrot:glacier/cold_blooded",
+		"apolloparrot:glacier/cold_feet",
+		"apolloparrot:glacier/cold_nap",
+		"apolloparrot:glacier/cold_protection",
+		"apolloparrot:glacier/cold_skin",
+		"apolloparrot:glacier/fire_damage",
+		"apolloparrot:glacier/freezing_touch",
+		"apolloparrot:glacier/harvest_snow_layer",
+		"apolloparrot:glacier/hot_sun",
+		"apolloparrot:glacier/icy_breath",
+		"apolloparrot:glacier/icy_defence",
+		"apolloparrot:glacier/icy_spawn",
+		"apolloparrot:glacier/multi_snowballs",
+		"apolloparrot:glacier/multi_snowballs_cooldown",
+		"apolloparrot:glacier/night_person",
+		"apolloparrot:glacier/overheating",
+		"apolloparrot:glacier/snow_damper",
+		"apolloparrot:glacier/snow_particles",
+		"apolloparrot:glacier/snowballs_damage",
+		"apolloparrot:glacier/snowflakes_particles",
+		"apolloparrot:glacier/snowy_sprinter"
+	],
+	"icon":"minecraft:snow",
+	"impact":3
+}

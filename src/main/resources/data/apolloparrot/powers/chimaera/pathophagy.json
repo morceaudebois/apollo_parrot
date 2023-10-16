@@ -1,0 +1,19 @@
+{
+	"type":"origins:self_action_on_hit",
+	"hidden":true,
+	"cooldown":20,
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:feed",
+				"food":1,
+				"saturation":1
+			},
+			{
+				"type":"origins:play_sound",
+				"sound":"entity.slime.squish"
+			}
+		]
+	}
+}

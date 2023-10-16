@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"apolloparrot:spirit-ram/color",
+		"apolloparrot:spirit-ram/hearts",
+		"apolloparrot:spirit-ram/high_sleep",
+		"apolloparrot:spirit-ram/horn_pockets",
+		"apolloparrot:spirit-ram/mist_protection",
+		"apolloparrot:spirit-ram/mist_protection_trigger",
+		"apolloparrot:spirit-ram/no_water",
+		"apolloparrot:spirit-ram/phase"
+	],
+	"icon":"minecraft:white_wool",
+	"impact":3
+}

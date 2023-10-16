@@ -1,0 +1,20 @@
+{
+	"powers":[
+		"apolloparrot:void-samurai/armor",
+		"apolloparrot:void-samurai/channel",
+		"apolloparrot:void-samurai/charge",
+		"apolloparrot:void-samurai/curse",
+		"apolloparrot:void-samurai/displace",
+		"apolloparrot:void-samurai/dodge",
+		"apolloparrot:void-samurai/drain",
+		"apolloparrot:void-samurai/frail",
+		"apolloparrot:void-samurai/no_food",
+		"apolloparrot:void-samurai/no_potion",
+		"apolloparrot:void-samurai/rain_strength",
+		"apolloparrot:void-samurai/smite",
+		"apolloparrot:void-samurai/speed",
+		"apolloparrot:void-samurai/unwieldy"
+	],
+	"icon":"minecraft:deepslate",
+	"impact":2
+}

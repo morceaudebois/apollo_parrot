@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"apolloparrot:artificial-construct/battery",
+		"apolloparrot:artificial-construct/battery_resource",
+		"apolloparrot:artificial-construct/dispenser",
+		"apolloparrot:artificial-construct/heal",
+		"apolloparrot:artificial-construct/less_fall_damage",
+		"apolloparrot:artificial-construct/metal_shell",
+		"apolloparrot:artificial-construct/no_food",
+		"apolloparrot:artificial-construct/no_hunger",
+		"apolloparrot:artificial-construct/reach",
+		"apolloparrot:artificial-construct/storage"
+	],
+	"icon":"minecraft:redstone_torch",
+	"impact":3
+}

@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"apolloparrot:mouse/a_mouses_lifespan",
+		"apolloparrot:mouse/mischievous",
+		"apolloparrot:mouse/mob_ally",
+		"apolloparrot:mouse/mouse_sized",
+		"apolloparrot:mouse/ride",
+		"apolloparrot:mouse/yoink"
+	],
+	"icon":"minecraft:beef",
+	"impact":3
+}

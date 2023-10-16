@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:no_shield",
+		"apolloparrot:corrupted-wither/hunger",
+		"apolloparrot:corrupted-wither/skirmish",
+		"apolloparrot:corrupted-wither/warp",
+		"apolloparrot:corrupted-wither/wieldy"
+	],
+	"icon":"minecraft:dragon_breath",
+	"impact":3
+}

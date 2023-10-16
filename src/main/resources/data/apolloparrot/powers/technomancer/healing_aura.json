@@ -1,0 +1,61 @@
+{
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:technomancer/healing_aura"
+	},
+	"condition":{
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"mainhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"item":"minecraft:blue_dye"
+					}
+				}
+			},
+			{
+				"type":"origins:command",
+				"command":"data get entity @s SelectedItem.tag.CustomModelData",
+				"comparison":"==",
+				"compare_to":1
+			},
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"offhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"item":"minecraft:carrot_on_a_stick"
+					}
+				}
+			},
+			{
+				"type":"origins:command",
+				"command":"data get entity @s Inventory[{Slot:-106b}].tag.CustomModelData",
+				"comparison":"==",
+				"compare_to":1
+			},
+			{
+				"type":"origins:resource",
+				"resource":"apolloparrot:technomancer/tech_mana_resource",
+				"comparison":">=",
+				"compare_to":5000
+			},
+			{
+				"type":"origins:fluid_height",
+				"fluid":"minecraft:water",
+				"comparison":"==",
+				"compare_to":0
+			},
+			{
+				"type":"origins:in_rain",
+				"inverted":true
+			}
+		]
+	},
+	"key":"key.use"
+}

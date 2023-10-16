@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:carnivore",
+		"origins:fragile",
+		"apolloparrot:ice-porcupine/cold_adapted_cold_biomes",
+		"apolloparrot:ice-porcupine/cold_adapted_hot_biomes",
+		"apolloparrot:ice-porcupine/cold_aura",
+		"apolloparrot:ice-porcupine/ice_body_fire_damage",
+		"apolloparrot:ice-porcupine/ice_claws",
+		"apolloparrot:ice-porcupine/ice_spikes",
+		"apolloparrot:ice-porcupine/icy_spawn",
+		"apolloparrot:ice-porcupine/multi_arrows",
+		"apolloparrot:ice-porcupine/small_size",
+		"apolloparrot:ice-porcupine/small_size_jump",
+		"apolloparrot:ice-porcupine/small_size_speed",
+		"apolloparrot:ice-porcupine/vanish"
+	],
+	"icon":"minecraft:packed_ice",
+	"impact":3
+}

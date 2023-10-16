@@ -1,0 +1,26 @@
+{
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:add_velocity",
+				"z":1,
+				"space":"local"
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:ravager/dash"
+			}
+		]
+	},
+	"condition":{
+		"type":"origins:sneaking",
+		"inverted":true
+	},
+	"cooldown":100,
+	"hud_render":{
+		"bar_index":7
+	},
+	"key":"key.origins.primary_active"
+}

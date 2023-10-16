@@ -1,0 +1,33 @@
+{
+	"type":"origins:multiple",
+	"no_move":{
+		"type":"origins:conditioned_attribute",
+		"modifier":{
+			"attribute":"minecraft:generic.movement_speed",
+			"operation":"multiply_total",
+			"value":-1
+		},
+		"condition":{
+			"type":"origins:power_active",
+			"power":"apolloparrot:bedrockean/toggle"
+		}
+	},
+	"no_jump":{
+		"type":"origins:modify_jump",
+		"modifier":{
+			"operation":"multiply_total",
+			"value":-1
+		},
+		"condition":{
+			"type":"origins:power_active",
+			"power":"apolloparrot:bedrockean/toggle"
+		}
+	},
+	"entity":{
+		"type":"origins:prevent_entity_collision",
+		"condition":{
+			"type":"origins:power_active",
+			"power":"apolloparrot:bedrockean/toggle"
+		}
+	}
+}

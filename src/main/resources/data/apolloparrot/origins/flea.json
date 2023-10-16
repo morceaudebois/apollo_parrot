@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"origins:climbing",
+		"origins:arthropod",
+		"apolloparrot:flea/antivore",
+		"apolloparrot:flea/bloodsucking",
+		"apolloparrot:flea/disable_regen",
+		"apolloparrot:flea/diseased_bite",
+		"apolloparrot:flea/inch_tall",
+		"apolloparrot:flea/jockey",
+		"apolloparrot:flea/jump",
+		"apolloparrot:flea/nimble",
+		"apolloparrot:flea/regen",
+		"apolloparrot:flea/small_heart",
+		"apolloparrot:flea/small_stomach"
+	],
+	"icon":"minecraft:beetroot_soup",
+	"impact":3
+}

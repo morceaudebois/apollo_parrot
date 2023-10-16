@@ -1,0 +1,20 @@
+{
+	"powers":[
+		"origins:tailwind",
+		"origins:slow_falling",
+		"apolloparrot:sporeling/decay",
+		"apolloparrot:sporeling/decomposer",
+		"apolloparrot:sporeling/fire_damage",
+		"apolloparrot:sporeling/health_upgrade",
+		"apolloparrot:sporeling/jockey",
+		"apolloparrot:sporeling/light_armor_upgrade",
+		"apolloparrot:sporeling/no_netherite",
+		"apolloparrot:sporeling/poison_spread_attack_upgrade",
+		"apolloparrot:sporeling/small_upgrade",
+		"apolloparrot:sporeling/speed",
+		"apolloparrot:sporeling/updraft_upgrade"
+	],
+	"icon":"minecraft:red_mushroom",
+	"impact":3,
+	"unchoosable":true
+}

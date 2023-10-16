@@ -1,0 +1,12 @@
+{
+  "values":[
+    "#apolloparrot:hostile_nether_mobs",
+    "#apolloparrot:hostile_overworld_mobs",
+    "minecraft:drowned",
+    "minecraft:elder_guardian",
+    "minecraft:endermite",
+    "minecraft:guardian",
+    "minecraft:shulker",
+    "minecraft:silverfish"
+  ]
+}

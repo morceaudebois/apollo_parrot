@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:no_cobweb_slowdown",
+		"origins:fall_immunity",
+		"apolloparrot:vishaichian/chicken_status_clear",
+		"apolloparrot:vishaichian/fire_weakness",
+		"apolloparrot:vishaichian/high_prices",
+		"apolloparrot:vishaichian/poison_spit",
+		"apolloparrot:vishaichian/raw_diet",
+		"apolloparrot:vishaichian/saturation",
+		"apolloparrot:vishaichian/summon_fangs",
+		"apolloparrot:vishaichian/upgrade/upgrade_hearts",
+		"apolloparrot:vishaichian/upgrade/upgrade_jump",
+		"apolloparrot:vishaichian/upgrade/upgrade_strength"
+	],
+	"icon":"minecraft:rabbit_hide",
+	"impact":2
+}

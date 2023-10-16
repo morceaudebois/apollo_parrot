@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:light_armor",
+		"apolloparrot:golden-golem/extra_damage",
+		"apolloparrot:golden-golem/gold_color",
+		"apolloparrot:golden-golem/gold_resource",
+		"apolloparrot:golden-golem/gold_resource_extras",
+		"apolloparrot:golden-golem/golem_power",
+		"apolloparrot:golden-golem/health_resource",
+		"apolloparrot:golden-golem/health_resource_items",
+		"apolloparrot:golden-golem/slower",
+		"apolloparrot:golden-golem/water"
+	],
+	"icon":"minecraft:totem_of_undying",
+	"impact":3
+}

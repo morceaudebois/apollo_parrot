@@ -1,0 +1,17 @@
+{
+	"values":[
+		"minecraft:beef",
+		"minecraft:chicken",
+		"minecraft:cod",
+		"minecraft:mutton",
+		"minecraft:porkchop",
+		"minecraft:pufferfish",
+		"minecraft:rabbit",
+		"minecraft:rotten_flesh",
+		"minecraft:salmon",
+		"minecraft:spider_eye",
+		"minecraft:tropical_fish",
+
+		"#apolloparrot-modded-support:raw_meat"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"apolloparrot:stargazer/equinox",
+		"apolloparrot:stargazer/fragile_flame",
+		"apolloparrot:stargazer/hellish_will",
+		"apolloparrot:stargazer/monster_mender",
+		"apolloparrot:stargazer/photosynthesis",
+		"apolloparrot:stargazer/starguard",
+		"apolloparrot:stargazer/starlight_mode",
+		"apolloparrot:stargazer/starstalker",
+		"apolloparrot:stargazer/sunburn"
+	],
+	"icon":"minecraft:nether_star",
+	"impact":3
+}

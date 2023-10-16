@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:voidling/brittle_bones",
+		"apolloparrot:voidling/light_weakness",
+		"apolloparrot:voidling/shadow_boost",
+		"apolloparrot:voidling/void_child",
+		"apolloparrot:voidling/voidling_form"
+	],
+	"upgrades":[
+		{
+			"condition":"adventure/fall_from_world_height",
+			"origin":"apolloparrot:voidling/voidborne"
+		}
+	],
+	"icon":"minecraft:obsidian",
+	"impact":3
+}

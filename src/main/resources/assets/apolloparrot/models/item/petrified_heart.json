@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:item/generated",
+  "textures":{
+    "layer0":"apolloparrot:item/petrified_heart"
+  }
+}

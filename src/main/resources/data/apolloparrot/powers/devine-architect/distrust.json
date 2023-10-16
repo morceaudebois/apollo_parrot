@@ -1,0 +1,41 @@
+{
+	"type":"origins:multiple",
+	"illager":{
+		"type":"origins:entity_group",
+		"group":"illager"
+	},
+	"high_prices":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:devine-architect/high_prices"
+		}
+	},
+	"iron_golem":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:devine-architect/iron_golem"
+		}
+	},
+	"iron_golem_no":{
+		"type":"origins:action_over_time",
+		"interval":10,
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:devine-architect/iron_golem_no"
+		}
+	},
+	"no_pets":{
+		"type":"origins:prevent_entity_use",
+		"bientity_condition":{
+			"type":"origins:target_condition",
+			"condition":{
+				"type":"origins:in_tag",
+				"tag":"apolloparrot:pets"
+			}
+		}
+	}
+}

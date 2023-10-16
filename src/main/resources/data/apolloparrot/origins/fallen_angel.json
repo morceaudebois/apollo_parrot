@@ -1,0 +1,23 @@
+{
+	"powers":[
+		"origins:water_vulnerability",
+		"origins:natural_armor",
+		"origins:no_shield",
+		"origins:fall_immunity",
+		"origins:carnivore",
+		"apolloparrot:fallen-angel/arms",
+		"apolloparrot:fallen-angel/bloodthirsty",
+		"apolloparrot:fallen-angel/deadshot",
+		"apolloparrot:fallen-angel/elytra",
+		"apolloparrot:fallen-angel/fire",
+		"apolloparrot:fallen-angel/fragile",
+		"apolloparrot:fallen-angel/glowing",
+		"apolloparrot:fallen-angel/haste",
+		"apolloparrot:fallen-angel/immunity",
+		"apolloparrot:fallen-angel/roof",
+		"apolloparrot:fallen-angel/translucent",
+		"apolloparrot:fallen-angel/velocity"
+	],
+	"icon":"minecraft:elytra",
+	"impact":3
+}

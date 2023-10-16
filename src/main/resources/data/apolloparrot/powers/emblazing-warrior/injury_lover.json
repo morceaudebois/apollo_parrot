@@ -1,0 +1,16 @@
+{
+	"type":"origins:modify_damage_taken",
+	"bientity_condition":{
+		"type":"origins:target_condition",
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:emblazing-warrior/fury_bar",
+			"compare_to":2,
+			"comparison":"<"
+		}
+	},
+	"modifier":{
+		"operation":"addition",
+		"value":1
+	}
+}

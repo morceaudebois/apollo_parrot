@@ -1,0 +1,18 @@
+{
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:apply_effect",
+		"effect":{
+			"effect":"minecraft:strength",
+			"duration":400,
+			"show_particles":false,
+			"show_icon":false
+		}
+	},
+	"key":"key.origins.secondary_active",
+	"cooldown":1000,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+		"bar_index":1
+	}
+}

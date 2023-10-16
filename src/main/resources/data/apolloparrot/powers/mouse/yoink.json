@@ -1,0 +1,13 @@
+{
+	"type":"origins:attacker_action_when_hit",
+	"entity_action":{
+		"type":"origins:chance",
+		"action":{
+			"type":"origins:execute_command",
+			"command":"item replace entity @s weapon.mainhand with minecraft:wooden_hoe{display:{Name:'{\"translate\":\"apolloparrot.mouse.name\"}',Lore:['[{\"translate\":\"apolloparrot.mouse.lore\"}]']}} 1"
+		},
+		"chance":0.005
+	},
+	"cooldown":20
+}
+

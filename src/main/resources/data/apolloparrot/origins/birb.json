@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:elytra",
+		"origins:more_kinetic_damage",
+		"origins:no_shield",
+		"apolloparrot:birb/almost_no_armor",
+		"apolloparrot:birb/feather_grip",
+		"apolloparrot:birb/feather_grip_spectral",
+		"apolloparrot:birb/granivore",
+		"apolloparrot:birb/jockey",
+		"apolloparrot:birb/launch",
+		"apolloparrot:birb/love_air",
+		"apolloparrot:birb/more_air_damage",
+		"apolloparrot:birb/no_food",
+		"apolloparrot:birb/small",
+		"apolloparrot:birb/smaller_appetite",
+		"apolloparrot:birb/smaller_body",
+		"apolloparrot:birb/tweet"
+	],
+	"icon":"minecraft:chicken",
+	"impact":3
+}

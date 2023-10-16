@@ -1,0 +1,29 @@
+{
+	"type":"origins:multiple",
+	"damage":{
+		"type":"origins:self_action_when_hit",
+		"cooldown":5,
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"apolloparrot:soul-seer/resource",
+			"change":-10
+		},
+		"damage_condition":{
+			"type":"origins:amount",
+			"comparison":">=",
+			"compare_to":1
+		}
+	},
+	"sprint":{
+		"type":"origins:action_over_time",
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"apolloparrot:soul-seer/resource",
+			"change":-3
+		},
+		"interval":20,
+		"condition":{
+			"type":"origins:sprinting"
+		}
+	}
+}

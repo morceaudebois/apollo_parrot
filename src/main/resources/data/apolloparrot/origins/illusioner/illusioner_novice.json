@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:illusioner/arrow",
+		"apolloparrot:illusioner/friendly_pillagers",
+		"apolloparrot:illusioner/illusion",
+		"apolloparrot:illusioner/illusion_despawn",
+		"apolloparrot:illusioner/illusion_formation",
+		"apolloparrot:illusioner/illusion_tp",
+		"apolloparrot:illusioner/scary",
+		"apolloparrot:illusioner/sword_bad",
+		"apolloparrot:illusioner/villager_hate"
+	],
+	"upgrades":[
+		{
+			"condition":"minecraft:story/enter_the_nether",
+			"origin":"apolloparrot:illusioner/illusioner_apprentice"
+		}
+	],
+	"icon":"minecraft:potion",
+	"impact":3
+}

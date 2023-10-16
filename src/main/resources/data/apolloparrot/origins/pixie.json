@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:elytra",
+		"origins:fall_immunity",
+		"origins:vegetarian",
+		"apolloparrot:pixie/bite_sized",
+		"apolloparrot:pixie/effect_glow",
+		"apolloparrot:pixie/effect_luck",
+		"apolloparrot:pixie/flying",
+		"apolloparrot:pixie/no_fireworks",
+		"apolloparrot:pixie/pixie_dust",
+		"apolloparrot:pixie/speed"
+	],
+	"icon":"minecraft:glowstone_dust",
+	"impact":3
+}

@@ -1,0 +1,32 @@
+{
+	"type":"origins:resource",
+	"min":0,
+	"max":1000,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
+		"bar_index":0
+	},
+	"max_action":{
+		"type":"origins:apply_effect",
+		"effects":[
+			{
+				"effect":"minecraft:speed",
+				"duration":1000000,
+				"show_particles":false,
+				"show_icon":false
+			},
+			{
+				"effect":"minecraft:resistance",
+				"duration":1000000,
+				"show_particles":false,
+				"show_icon":false
+			},
+			{
+				"effect":"minecraft:haste",
+				"duration":1000000,
+				"show_particles":false,
+				"show_icon":false
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"type":"origins:target_action_on_hit",
+	"entity_action":{
+		"type":"origins:apply_effect",
+		"effect":{
+			"effect":"minecraft:poison",
+			"duration":200
+		}
+	},
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+		"bar_index":21
+	},
+	"damage_condition":{
+		"type":"origins:name",
+		"name":"player"
+	},
+	"cooldown":40
+}

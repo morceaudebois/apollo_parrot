@@ -1,0 +1,10 @@
+{
+	"type":"origins:self_action_on_hit",
+	"hidden":true,
+	"entity_action":{
+		"type":"origins:change_resource",
+		"resource":"apolloparrot:void-samurai/charge",
+		"change":-1
+	},
+	"cooldown":20
+}

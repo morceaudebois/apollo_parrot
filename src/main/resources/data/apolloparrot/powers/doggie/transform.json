@@ -1,0 +1,9 @@
+{
+  "type":"origins:active_self",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "identity equip @s minecraft:wolf"
+  },
+  "cooldown":1200,
+  "key":"key.origins.primary_active"
+}

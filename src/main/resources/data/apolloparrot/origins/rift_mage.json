@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:fall_immunity",
+		"apolloparrot:rift-mage/city_memory",
+		"apolloparrot:rift-mage/frail",
+		"apolloparrot:rift-mage/incompatible",
+		"apolloparrot:rift-mage/invert",
+		"apolloparrot:rift-mage/no_food",
+		"apolloparrot:rift-mage/no_pearls",
+		"apolloparrot:rift-mage/portality",
+		"apolloparrot:rift-mage/return_to_rift",
+		"apolloparrot:rift-mage/sustain",
+		"apolloparrot:rift-mage/turn_purpur",
+		"apolloparrot:rift-mage/water_hater"
+	],
+	"icon":"minecraft:purpur_block",
+	"impact":2
+}

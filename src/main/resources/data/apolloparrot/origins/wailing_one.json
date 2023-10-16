@@ -1,0 +1,27 @@
+{
+	"powers":[
+		"origins:ender_particles",
+		"origins:burn_in_daylight",
+		"origins:water_vulnerability",
+		"apolloparrot:wailing-one/as_soft_as_a_wisp",
+		"apolloparrot:wailing-one/deathly_diet_health_gain_on_hit",
+		"apolloparrot:wailing-one/deathly_diet_hunger_gain_on_kill",
+		"apolloparrot:wailing-one/deathly_diet_rotten_flesh_eat",
+		"apolloparrot:wailing-one/float",
+		"apolloparrot:wailing-one/ghost",
+		"apolloparrot:wailing-one/particles",
+		"apolloparrot:wailing-one/phase",
+		"apolloparrot:wailing-one/pure_steel_no_gold",
+		"apolloparrot:wailing-one/pure_steel_no_iron",
+		"apolloparrot:wailing-one/righteous_light_smite_damage",
+		"apolloparrot:wailing-one/spiteful_resistance",
+		"apolloparrot:wailing-one/swamp_spawn",
+		"apolloparrot:wailing-one/the_shadows_are_my_home",
+		"apolloparrot:wailing-one/the_shadows_are_my_home_armor",
+		"apolloparrot:wailing-one/touch_of_death",
+		"apolloparrot:wailing-one/translucent",
+		"apolloparrot:wailing-one/wail"
+	],
+	"icon":"minecraft:ghast_tear",
+	"impact":3
+}

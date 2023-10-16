@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:aqua_affinity",
+		"origins:fall_immunity",
+		"origins:fragile",
+		"apolloparrot:frog/burn",
+		"apolloparrot:frog/dash",
+		"apolloparrot:frog/burn_bar",
+		"apolloparrot:frog/jump",
+		"apolloparrot:frog/poison",
+		"apolloparrot:frog/swim",
+		"apolloparrot:frog/water_breathing"
+	],
+	"icon":"minecraft:lily_pad",
+	"impact":3
+}

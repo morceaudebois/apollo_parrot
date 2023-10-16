@@ -1,0 +1,23 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:voidling/brittle_bones",
+		"apolloparrot:voidling/dive_attack",
+		"apolloparrot:voidling/large_appetite",
+		"apolloparrot:voidling/low_health",
+		"apolloparrot:voidling/void_child",
+		"apolloparrot:voidling/void_shield",
+		"apolloparrot:voidling/voidborne_form",
+		"apolloparrot:voidling/winged",
+		"apolloparrot:voidling/winged_limits"
+	],
+	"upgrades":[
+		{
+			"condition":"minecraft:end/kill_dragon",
+			"origin":"apolloparrot:voidling/supreme_voidborne"
+		}
+	],
+	"icon":"minecraft:bedrock",
+	"impact":3,
+	"unchoosable":true
+}

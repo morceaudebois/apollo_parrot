@@ -1,0 +1,11 @@
+{
+  "values":[
+    "#apolloparrot:base_mobs",
+    "#apolloparrot:spiders",
+    "minecraft:husk",
+    "minecraft:phantom",
+    "minecraft:slime",
+    "minecraft:stray",
+    "minecraft:zombie_villager"
+  ]
+}

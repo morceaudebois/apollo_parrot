@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:warden/blind",
+		"apolloparrot:warden/echolocation",
+		"apolloparrot:warden/health",
+		"apolloparrot:warden/phase",
+		"apolloparrot:warden/shader",
+		"apolloparrot:warden/size",
+		"apolloparrot:warden/strength"
+	],
+	"icon":"minecraft:sculk_sensor",
+	"impact":3
+}

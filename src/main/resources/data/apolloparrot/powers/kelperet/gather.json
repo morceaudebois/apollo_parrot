@@ -1,0 +1,8 @@
+{
+	"type":"origins:action_over_time",
+	"interval":1,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"tp @e[type=minecraft:item,distance=..2.85,nbt={PickupDelay:0s}] @s"
+	}
+}

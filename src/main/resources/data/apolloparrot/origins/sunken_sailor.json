@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:aqua_affinity",
+		"origins:burn_in_daylight",
+		"apolloparrot:sunken-sailor/ignore_water",
+		"apolloparrot:sunken-sailor/shipwreck_spawn",
+		"apolloparrot:sunken-sailor/skin_tone",
+		"apolloparrot:sunken-sailor/spyglass",
+		"apolloparrot:sunken-sailor/water_breathing",
+		"apolloparrot:sunken-sailor/water_falling"
+	],
+	"icon":"minecraft:filled_map",
+	"impact":2
+}

@@ -1,0 +1,17 @@
+{
+	"values":[
+		"#minecraft:flowers",
+		"#minecraft:leaves",
+		"#minecraft:saplings",
+		"minecraft:brown_mushroom",
+		"minecraft:fern",
+		"minecraft:grass",
+		"minecraft:hay_block",
+		"minecraft:large_fern",
+		"minecraft:red_mushroom",
+		"minecraft:tall_grass",
+		"minecraft:wheat",
+
+		"#apolloparrot-modded-support:edible_plants"
+	]
+}

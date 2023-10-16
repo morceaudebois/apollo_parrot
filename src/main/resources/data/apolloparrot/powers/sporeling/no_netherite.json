@@ -1,0 +1,28 @@
+{
+	"type":"origins:restrict_armor",
+	"head":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:heavy_armour"
+		}
+	},
+	"chest":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:heavy_armour"
+		}
+	},
+	"legs":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:heavy_armour"
+		}
+	},
+	"feet":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:heavy_armour"
+		}
+	},
+	"hidden":true
+}

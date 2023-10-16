@@ -1,0 +1,10 @@
+{
+	"type":"origins:launch",
+	"cooldown":600,
+	"hud_render":{
+		"bar_index":4
+	},
+	"sound":"entity.ender_dragon.flap",
+	"speed":2,
+	"key":"key.origins.primary_active"
+}

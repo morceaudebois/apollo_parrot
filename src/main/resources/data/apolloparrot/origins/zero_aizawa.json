@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"origins:throw_ender_pearl",
+		"apolloparrot:zero-aizawa/acrobatics",
+		"apolloparrot:zero-aizawa/heliophobia",
+		"apolloparrot:zero-aizawa/long_arms",
+		"apolloparrot:zero-aizawa/nice_mobs",
+		"apolloparrot:zero-aizawa/nice_villager_prices",
+		"apolloparrot:zero-aizawa/super_sane",
+		"apolloparrot:zero-aizawa/tall",
+		"apolloparrot:zero-aizawa/weak_stature"
+	],
+	"icon":"minecraft:black_stained_glass",
+	"impact":2
+}

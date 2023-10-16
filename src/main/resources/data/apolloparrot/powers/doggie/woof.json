@@ -1,0 +1,8 @@
+{
+  "type":"origins:active_self",
+  "entity_action": {
+    "type": "origins:play_sound",
+    "sound": "minecraft:entity.wolf.ambient"
+  },
+  "key":"key.chat"
+}

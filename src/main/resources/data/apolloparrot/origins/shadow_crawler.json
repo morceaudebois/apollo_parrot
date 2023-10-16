@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"apolloparrot:shadow-crawler/blinding_light",
+		"apolloparrot:shadow-crawler/dark_boost",
+		"apolloparrot:shadow-crawler/day_weakness",
+		"apolloparrot:shadow-crawler/disable_regen",
+		"apolloparrot:shadow-crawler/night_vision",
+		"apolloparrot:shadow-crawler/no_exhaustion",
+		"apolloparrot:shadow-crawler/regen",
+		"apolloparrot:shadow-crawler/shadow_warp",
+		"apolloparrot:shadow-crawler/shadowy_form"
+	],
+	"icon":"minecraft:structure_void",
+	"impact":3
+}

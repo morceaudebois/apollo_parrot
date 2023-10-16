@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"apolloparrot:soul-seer/antivore",
+		"apolloparrot:soul-seer/empty_well",
+		"apolloparrot:soul-seer/energized_vigor",
+		"apolloparrot:soul-seer/glowing",
+		"apolloparrot:soul-seer/health",
+		"apolloparrot:soul-seer/lightweight",
+		"apolloparrot:soul-seer/particles",
+		"apolloparrot:soul-seer/resource",
+		"apolloparrot:soul-seer/shaders",
+		"apolloparrot:soul-seer/soul_deplete",
+		"apolloparrot:soul-seer/soul_steal",
+		"apolloparrot:soul-seer/teleport",
+		"apolloparrot:soul-seer/transparent"
+	],
+	"icon":"minecraft:soul_sand",
+	"impact":3
+}

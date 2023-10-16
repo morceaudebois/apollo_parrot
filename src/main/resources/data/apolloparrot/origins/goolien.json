@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"apolloparrot:goolien/absorbent",
+		"apolloparrot:goolien/condensing",
+		"apolloparrot:goolien/flammable",
+		"apolloparrot:goolien/gooey_body",
+		"apolloparrot:goolien/gooey_fists",
+		"apolloparrot:goolien/gooey_skin",
+		"apolloparrot:goolien/ignitable",
+		"apolloparrot:goolien/no_lungs",
+		"apolloparrot:goolien/splat",
+		"apolloparrot:goolien/sticky_grip",
+		"apolloparrot:goolien/stomach_body",
+		"apolloparrot:goolien/unwieldy"
+	],
+	"icon":"minecraft:slime_block",
+	"impact":3
+}

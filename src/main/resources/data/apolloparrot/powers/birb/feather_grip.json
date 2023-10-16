@@ -1,0 +1,11 @@
+{
+    "type":"origins:modify_projectile_damage",
+    "damage_condition":{
+        "type":"origins:projectile",
+        "projectile":"minecraft:arrow"
+    },
+    "modifier":{
+        "operation":"addition",
+        "value":-10
+    }
+}

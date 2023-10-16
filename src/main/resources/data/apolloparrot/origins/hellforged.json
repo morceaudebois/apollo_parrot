@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"origins:nether_spawn",
+		"origins:fire_immunity",
+		"apolloparrot:hellforged/heat_powered",
+		"apolloparrot:hellforged/impervious_eyes",
+		"apolloparrot:hellforged/slow_swim",
+		"apolloparrot:hellforged/strong_swim",
+		"apolloparrot:hellforged/superheated",
+		"apolloparrot:hellforged/water_vulnerability"
+	],
+	"icon":"minecraft:netherite_ingot",
+	"impact":3
+}

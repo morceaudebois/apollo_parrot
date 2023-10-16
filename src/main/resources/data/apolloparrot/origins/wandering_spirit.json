@@ -1,0 +1,19 @@
+{
+	"powers":[
+		"apolloparrot:wandering-spirit/damage_glitch",
+		"apolloparrot:wandering-spirit/fire",
+		"apolloparrot:wandering-spirit/glasses",
+		"apolloparrot:wandering-spirit/lightning_charge",
+		"apolloparrot:wandering-spirit/lightning_invulnerability",
+		"apolloparrot:wandering-spirit/lightning_summon",
+		"apolloparrot:wandering-spirit/phase",
+		"apolloparrot:wandering-spirit/quick_hands_and_feet",
+		"apolloparrot:wandering-spirit/shaking",
+		"apolloparrot:wandering-spirit/size_change",
+		"apolloparrot:wandering-spirit/size_changer",
+		"apolloparrot:wandering-spirit/size_resource",
+		"apolloparrot:wandering-spirit/the_darkness"
+	],
+	"icon":"minecraft:crimson_roots",
+	"impact":3
+}

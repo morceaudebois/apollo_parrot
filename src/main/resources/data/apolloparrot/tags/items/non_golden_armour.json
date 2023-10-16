@@ -1,0 +1,13 @@
+{
+  "values":[
+    "#apolloparrot:diamond_armour",
+    "#apolloparrot:heavy_armour",
+    "#apolloparrot:iron_armour",
+    "#apolloparrot:leather_armour",
+    "minecraft:chainmail_boots",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_leggings",
+    "minecraft:turtle_helmet"
+  ]
+}

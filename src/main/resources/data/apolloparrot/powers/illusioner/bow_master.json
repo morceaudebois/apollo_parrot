@@ -1,0 +1,39 @@
+{
+	"type":"origins:conditioned_attribute",
+	"badges":[
+		{
+			"sprite":"origins:textures/gui/badge/star.png",
+			"text":"Tier 3 Power"
+		}
+	],
+	"modifier":{
+		"attribute":"minecraft:generic.attack_damage",
+		"operation":"multiply_total",
+		"value":2
+	},
+	"condition":{
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"mainhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"tag":"origins:ranged_weapons"
+					}
+				}
+			},
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"offhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"tag":"apolloparrot:swords"
+					}
+				}
+			}
+		]
+	}
+}

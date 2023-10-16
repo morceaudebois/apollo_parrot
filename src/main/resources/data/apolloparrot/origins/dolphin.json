@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:aqua_affinity",
+		"origins:fall_immunity",
+		"origins:like_water",
+		"origins:fragile",
+		"origins:no_shield",
+		"apolloparrot:dolphin/bubbles",
+		"apolloparrot:dolphin/fish_diet",
+		"apolloparrot:dolphin/ocean_spawn",
+		"apolloparrot:dolphin/fish_buff",
+		"apolloparrot:dolphin/riptide",
+		"apolloparrot:dolphin/slow_land",
+		"apolloparrot:dolphin/speed_water",
+		"apolloparrot:dolphin/summon_dolphin",
+		"apolloparrot:dolphin/water_breathing",
+		"apolloparrot:dolphin/water_vision"
+	],
+	"icon":"minecraft:prismarine_shard",
+	"impact":2
+}

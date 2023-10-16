@@ -1,0 +1,31 @@
+{
+	"powers":[
+		"apolloparrot:dark-mage/absorption",
+		"apolloparrot:dark-mage/damage",
+		"apolloparrot:dark-mage/darkness",
+		"apolloparrot:dark-mage/decay",
+		"apolloparrot:dark-mage/dislocate",
+		"apolloparrot:dark-mage/disruption",
+		"apolloparrot:dark-mage/explosion",
+		"apolloparrot:dark-mage/health",
+		"apolloparrot:dark-mage/lava_sponge",
+		"apolloparrot:dark-mage/leviosa",
+		"apolloparrot:dark-mage/mage_book",
+		"apolloparrot:dark-mage/mana_potion",
+		"apolloparrot:dark-mage/no_ranged_weapons",
+		"apolloparrot:dark-mage/particles",
+		"apolloparrot:dark-mage/phase",
+		"apolloparrot:dark-mage/recover",
+		"apolloparrot:dark-mage/repulsion",
+		"apolloparrot:dark-mage/resource",
+		"apolloparrot:dark-mage/resource_change",
+		"apolloparrot:dark-mage/scorch",
+		"apolloparrot:dark-mage/shatter",
+		"apolloparrot:dark-mage/slowness",
+		"apolloparrot:dark-mage/strong_wolf",
+		"apolloparrot:dark-mage/super_mana_potion",
+		"apolloparrot:dark-mage/zoglin"
+	],
+	"icon":"minecraft:black_wool",
+	"impact":3
+}

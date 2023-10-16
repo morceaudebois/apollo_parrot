@@ -1,0 +1,16 @@
+{
+	"type":"origins:attribute",
+	"modifiers":[
+		{
+			"attribute":"minecraft:generic.max_health",
+			"value":10,
+			"operation":"addition"
+		},
+		{
+			"attribute":"minecraft:generic.armor",
+			"value":6,
+			"operation":"addition"
+		}
+	],
+	"update_health":true
+}

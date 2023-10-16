@@ -1,0 +1,17 @@
+{
+	"type":"origins:modify_food",
+	"item_condition":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:raw_meat"
+		}
+	},
+	"food_modifier":{
+		"operation":"addition",
+		"value":4
+	},
+	"saturation_modifier":{
+		"operation":"addition",
+		"value":3
+	}
+}

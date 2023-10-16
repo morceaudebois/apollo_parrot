@@ -1,0 +1,16 @@
+{
+	"type":"origins:multiple",
+	"less_exhaustion":{
+		"type":"origins:modify_exhaustion",
+		"modifier":{
+			"operation":"multiply_base",
+			"value":-0.10
+		}
+	},
+	"modifier":{
+		"type":"origins:attribute",
+		"attribute":"minecraft:generic.movement_speed",
+		"value":0.35,
+		"operation":"addition"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"condition":{
+		"type":"origins:on_fire"
+	},
+	"type":"origins:modify_damage_taken",
+	"damage_condition":{
+		"type":"origins:attacker"
+	},
+	"modifier":{
+		"operation":"multiply_base",
+		"value":0.5
+	}
+}

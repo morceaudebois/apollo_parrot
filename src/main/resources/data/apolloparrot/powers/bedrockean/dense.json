@@ -1,0 +1,16 @@
+{
+	"type":"origins:attribute",
+	"modifiers":[
+		{
+			"attribute":"minecraft:generic.max_health",
+			"operation":"addition",
+			"value":10
+		},
+		{
+			"attribute":"minecraft:generic.movement_speed",
+			"operation":"addition",
+			"value":-0.05
+		}
+	],
+	"update_health":true
+}

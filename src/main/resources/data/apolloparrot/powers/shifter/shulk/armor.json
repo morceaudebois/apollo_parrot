@@ -1,0 +1,14 @@
+{
+	"type":"origins:conditioned_attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.armor",
+		"value":4,
+		"operation":"addition"
+	},
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:shifter/shift_bar",
+		"comparison":"==",
+		"compare_to":4
+	}
+}

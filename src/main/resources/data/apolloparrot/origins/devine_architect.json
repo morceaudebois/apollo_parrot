@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"apolloparrot:devine-architect/charge",
+		"apolloparrot:devine-architect/distrust",
+		"apolloparrot:devine-architect/end_recipes",
+		"apolloparrot:devine-architect/end_traveler",
+		"apolloparrot:devine-architect/energy",
+		"apolloparrot:devine-architect/float",
+		"apolloparrot:devine-architect/jealousy",
+		"apolloparrot:devine-architect/nether_traveler",
+		"apolloparrot:devine-architect/night_vision",
+		"apolloparrot:devine-architect/phase",
+		"apolloparrot:devine-architect/universal_blast",
+		"apolloparrot:devine-architect/unnatural_regeneration"
+	],
+	"icon":"minecraft:end_crystal",
+	"impact":3
+}

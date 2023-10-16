@@ -1,0 +1,26 @@
+{
+	"type":"origins:multiple",
+	"hidden":true,
+	"swim_speed":{
+		"type":"origins:modify_swim_speed",
+		"modifier":{
+			"value":0.5,
+			"operation":"multiply_base"
+		}
+	},
+	"lava_swim":{
+		"type":"origins:swimming",
+		"condition":{
+			"type":"origins:fluid_height",
+			"fluid":"minecraft:lava",
+			"comparison":">",
+			"compare_to":0
+		}
+	},
+	"fire_invulnerability":{
+		"type":"origins:invulnerability",
+		"damage_condition":{
+			"type":"origins:fire"
+		}
+	}
+}

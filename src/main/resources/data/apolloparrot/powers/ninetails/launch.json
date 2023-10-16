@@ -1,0 +1,27 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.primary_active",
+	"cooldown":500,
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:add_velocity",
+				"z":1.5,
+				"space":"local"
+			},
+			{
+				"type":"origins:add_velocity",
+				"y":0.25
+			},
+			{
+				"type":"origins:play_sound",
+				"sound":"minecraft:entity.blaze.shoot"
+			}
+		]
+	},
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+		"bar_index":16
+	}
+}

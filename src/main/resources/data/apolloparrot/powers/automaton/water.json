@@ -1,0 +1,24 @@
+{
+	"type":"origins:action_over_time",
+	"interval":5,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:automaton/cold"
+	},
+	"condition":{
+		"type":"origins:or",
+		"conditions":[
+			{
+				"type":"origins:in_rain"
+			},
+			{
+				"type":"origins:in_block",
+				"block_condition":{
+					"type":"origins:block",
+					"block":"minecraft:water"
+				}
+			}
+		]
+	},
+	"hidden":true
+}

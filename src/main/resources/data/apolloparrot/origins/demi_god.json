@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"apolloparrot:demi-god/cake",
+		"apolloparrot:demi-god/cursed",
+		"apolloparrot:demi-god/fire",
+		"apolloparrot:demi-god/god_punch",
+		"apolloparrot:demi-god/god_speed",
+		"apolloparrot:demi-god/health",
+		"apolloparrot:demi-god/more_boss_damage",
+		"apolloparrot:demi-god/phase",
+		"apolloparrot:demi-god/raw_diet",
+		"apolloparrot:demi-god/raw_meat_buff"
+	],
+	"icon":"minecraft:glowstone",
+	"impact":2
+}

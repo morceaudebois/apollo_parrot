@@ -1,0 +1,55 @@
+{
+	"type":"origins:multiple",
+	"hidden":true,
+	"water_bottle":{
+		"type":"origins:action_on_item_use",
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:automaton/waterbar_increase_bottle"
+		},
+		"item_condition":{
+			"type":"origins:nbt",
+			"nbt":"{Potion:\"minecraft:water\"}"
+		}
+	},
+	"water_bucket":{
+		"type":"origins:active_self",
+		"entity_action":{
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"function apolloparrot:automaton/waterbar_increase_bucket"
+				},
+				{
+					"type":"origins:equipped_item_action",
+					"equipment_slot":"mainhand",
+					"action":{
+						"type":"origins:consume",
+						"amount":1
+					}
+				}
+			]
+		},
+		"condition":{
+			"type":"origins:and",
+			"conditions":[
+				{
+					"type":"origins:equipped_item",
+					"equipment_slot":"mainhand",
+					"item_condition":{
+						"type":"origins:ingredient",
+						"ingredient":{
+							"item":"minecraft:water_bucket"
+						}
+					}
+				},
+				{
+					"type":"origins:sneaking"
+				}
+			]
+		},
+		"cooldown":500,
+		"key":"key.use"
+	}
+}

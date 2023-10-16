@@ -1,0 +1,26 @@
+{
+	"type":"origins:conditioned_attribute",
+	"modifiers":[
+		{
+			"attribute":"minecraft:generic.movement_speed",
+			"operation":"multiply_base",
+			"value":0.75
+		},
+		{
+			"attribute":"minecraft:generic.attack_damage",
+			"operation":"multiply_base",
+			"value":0.75
+		},
+		{
+			"attribute":"minecraft:generic.max_health",
+			"operation":"addition",
+			"value":8
+		}
+	],
+	"update_health":true,
+	"condition":{
+		"type":"origins:brightness",
+		"comparison":"<=",
+		"compare_to":0.4
+	}
+}

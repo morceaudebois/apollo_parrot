@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"origins:tailwind",
+		"origins:fall_immunity",
+		"origins:carnivore",
+		"apolloparrot:raptus/bite",
+		"apolloparrot:raptus/higher_jump",
+		"apolloparrot:raptus/light_armor",
+		"apolloparrot:raptus/pounce",
+		"apolloparrot:raptus/small",
+		"apolloparrot:raptus/smaller_body"
+	],
+	"icon":"minecraft:lime_dye",
+	"impact":2
+}

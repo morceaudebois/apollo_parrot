@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"origins:more_exhaustion",
+		"apolloparrot:earth-spirit/back_to_stone",
+		"apolloparrot:earth-spirit/invisibility",
+		"apolloparrot:earth-spirit/phase",
+		"apolloparrot:earth-spirit/spirit_effect",
+		"apolloparrot:earth-spirit/spirit_vision"
+	],
+	"icon":"minecraft:granite",
+	"impact":3,
+	"unchoosable":true
+}

@@ -1,0 +1,14 @@
+{
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:small_fireball",
+	"cooldown":350,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
+		"bar_index":20
+	},
+	"condition":{
+		"type":"origins:sneaking",
+		"inverted":true
+	},
+	"key":"key.origins.secondary_active"
+}

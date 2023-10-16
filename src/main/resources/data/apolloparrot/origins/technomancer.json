@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"origins:water_vulnerability",
+		"apolloparrot:technomancer/blockade",
+		"apolloparrot:technomancer/grappling_hook",
+		"apolloparrot:technomancer/healing_aura",
+		"apolloparrot:technomancer/laser_beam",
+		"apolloparrot:technomancer/nanite_wall",
+		"apolloparrot:technomancer/nanite_wall_toggle",
+		"apolloparrot:technomancer/summon_items",
+		"apolloparrot:technomancer/tech_mana",
+		"apolloparrot:technomancer/technomancers_curse"
+	],
+	"icon":"minecraft:redstone",
+	"impact":3
+}

@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"origins:aqua_affinity",
+		"origins:like_water",
+		"origins:fragile",
+		"origins:no_shield",
+		"apolloparrot:land-shark/fins",
+		"apolloparrot:land-shark/gill_lungs",
+		"apolloparrot:land-shark/greedy",
+		"apolloparrot:land-shark/hungry",
+		"apolloparrot:land-shark/lunge",
+		"apolloparrot:land-shark/razor_teeth",
+		"apolloparrot:land-shark/speedy"
+	],
+	"icon":"minecraft:prismarine_shard",
+	"impact":2
+}

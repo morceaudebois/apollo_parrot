@@ -1,0 +1,10 @@
+{
+	"type":"origins:exhaust",
+	"interval":10,
+	"exhaustion":10000,
+	"condition":{
+		"type":"origins:food_level",
+		"comparison":"!=",
+		"compare_to":0
+	}
+}

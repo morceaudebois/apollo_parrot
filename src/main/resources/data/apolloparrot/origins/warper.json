@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"apolloparrot:warper/ender_chest",
+		"apolloparrot:warper/fall_break",
+		"apolloparrot:warper/food",
+		"apolloparrot:warper/passive_endermen",
+		"apolloparrot:warper/portality",
+		"apolloparrot:warper/random_teleport",
+		"apolloparrot:warper/spawn",
+		"apolloparrot:warper/teleport",
+		"apolloparrot:warper/weak"
+	],
+	"icon":"minecraft:end_portal_frame",
+	"impact":3
+}

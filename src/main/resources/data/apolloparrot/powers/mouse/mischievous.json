@@ -1,0 +1,54 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.primary_active",
+	"cooldown":500,
+	"hud_render":{
+		"bar_index":0
+	},
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:raycast",
+				"distance":13,
+				"entity":false,
+				"before_action":{
+					"type":"origins:and",
+					"actions":{
+						"type":"origins:execute_command",
+						"command":"tag @s add mouse_tp"
+					}
+				},
+				"command_along_ray":"execute positioned ~ ~ ~ if block ~ ~ ~ air run tp @e[tag=mouse_tp,sort=nearest] ~ ~ ~",
+				"miss_action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:add_velocity",
+							"space":"local",
+							"z":0.1
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tag @s remove mouse_tp"
+						}
+					]
+				},
+				"hit_action":{
+					"type":"origins:and",
+					"actions":[
+						{
+							"type":"origins:add_velocity",
+							"space":"local",
+							"z":0.1
+						},
+						{
+							"type":"origins:execute_command",
+							"command":"tag @s remove mouse_tp"
+						}
+					]
+				}
+			}
+		]
+	}
+}

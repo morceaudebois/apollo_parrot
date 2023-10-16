@@ -1,0 +1,28 @@
+{
+	"type":"origins:multiple",
+	"bar":{
+		"type":"origins:resource",
+		"min":0,
+		"max":20,
+		"hud_render":{
+			"sprite_location":"origins:textures/gui/community/huang/resource_bar_01.png",
+			"bar_index":5
+		}
+	},
+	"recharge":{
+		"type":"origins:self_action_on_kill",
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"*:*_bar",
+			"change":5
+		},
+		"cooldown":1
+	},
+	"respawn":{
+		"type":"origins:action_on_callback",
+		"entity_action_respawned":{
+			"type":"origins:execute_command",
+			"command":"resource set @s apolloparrot:deathsworn/soul_bar 0"
+		}
+	}
+}

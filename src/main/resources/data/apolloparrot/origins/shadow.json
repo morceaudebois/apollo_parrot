@@ -1,0 +1,14 @@
+{
+	"powers":[
+		"apolloparrot:shadow/behind_you",
+		"apolloparrot:shadow/cloud",
+		"apolloparrot:shadow/fragile",
+		"apolloparrot:shadow/hunger",
+		"apolloparrot:shadow/invisibility",
+		"apolloparrot:shadow/night_vision",
+		"apolloparrot:shadow/no_food",
+		"apolloparrot:shadow/sun_weakness"
+	],
+	"icon":"minecraft:black_concrete",
+	"impact":3
+}

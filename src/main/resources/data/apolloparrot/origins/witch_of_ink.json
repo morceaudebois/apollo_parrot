@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"apolloparrot:witch-of-ink/art_affinity",
+		"apolloparrot:witch-of-ink/artistry",
+		"apolloparrot:witch-of-ink/aura",
+		"apolloparrot:witch-of-ink/eraser",
+		"apolloparrot:witch-of-ink/fired",
+		"apolloparrot:witch-of-ink/frail",
+		"apolloparrot:witch-of-ink/magic_brush",
+		"apolloparrot:witch-of-ink/no_eat",
+		"apolloparrot:witch-of-ink/no_invisibility",
+		"apolloparrot:witch-of-ink/painted_armor",
+		"apolloparrot:witch-of-ink/reanimate",
+		"apolloparrot:witch-of-ink/witchy"
+	],
+	"icon":"minecraft:red_dye",
+	"impact":2
+}

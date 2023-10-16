@@ -1,0 +1,27 @@
+{
+	"powers":[
+		"origins:fragile",
+		"origins:climbing",
+		"origins:fall_immunity",
+		"origins:scare_creepers",
+		"apolloparrot:binturong/blast_damage",
+		"apolloparrot:binturong/camouflage",
+		"apolloparrot:binturong/claws",
+		"apolloparrot:binturong/crouch",
+		"apolloparrot:binturong/flammable_fur",
+		"apolloparrot:binturong/jockey",
+		"apolloparrot:binturong/jump_boost",
+		"apolloparrot:binturong/leap",
+		"apolloparrot:binturong/less_breath",
+		"apolloparrot:binturong/manic_miner",
+		"apolloparrot:binturong/nocturnal",
+		"apolloparrot:binturong/small_stature",
+		"apolloparrot:binturong/sounds",
+		"apolloparrot:binturong/speed",
+		"apolloparrot:binturong/sugar_rush",
+		"apolloparrot:binturong/thick_hide",
+		"apolloparrot:binturong/too_heavy"
+	],
+	"icon":"minecraft:cocoa_beans",
+	"impact":2
+}

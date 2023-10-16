@@ -1,0 +1,9 @@
+{
+	"type":"origins:modify_food",
+	"item_condition":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"tag":"apolloparrot:ingots"
+		}
+	}
+}

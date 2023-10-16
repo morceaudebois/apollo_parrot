@@ -1,0 +1,1 @@
+summon minecraft:endermite ~ ~1 ~ {CustomName:'{"translate":"apolloparrot.end-mage.endermite","color":"dark_purple"}'}

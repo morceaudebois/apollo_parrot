@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"apolloparrot:deranged/arrow_effect",
+		"apolloparrot:deranged/breathing",
+		"apolloparrot:deranged/dart",
+		"apolloparrot:deranged/derange_filler",
+		"apolloparrot:deranged/derangement",
+		"apolloparrot:deranged/insane",
+		"apolloparrot:deranged/knife_love",
+		"apolloparrot:deranged/migraine",
+		"apolloparrot:deranged/nightmares",
+		"apolloparrot:deranged/persuasive",
+		"apolloparrot:deranged/tranquil"
+	],
+	"icon":"minecraft:nether_wart_block",
+	"impact":2
+}

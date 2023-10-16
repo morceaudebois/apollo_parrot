@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"origins:slow_falling",
+		"origins:fire_immunity",
+		"apolloparrot:withered-fox/berry_sat",
+		"apolloparrot:withered-fox/fear",
+		"apolloparrot:withered-fox/float",
+		"apolloparrot:withered-fox/hard_skin",
+		"apolloparrot:withered-fox/hearts",
+		"apolloparrot:withered-fox/home",
+		"apolloparrot:withered-fox/immune_system",
+		"apolloparrot:withered-fox/lava_speed",
+		"apolloparrot:withered-fox/lava_swim",
+		"apolloparrot:withered-fox/lava_vision",
+		"apolloparrot:withered-fox/primary",
+		"apolloparrot:withered-fox/projectiles",
+		"apolloparrot:withered-fox/quick",
+		"apolloparrot:withered-fox/secondary",
+		"apolloparrot:withered-fox/small",
+		"apolloparrot:withered-fox/sturdy",
+		"apolloparrot:withered-fox/undead",
+		"apolloparrot:withered-fox/withered_hands"
+	],
+	"icon":"minecraft:wither_rose",
+	"impact":3
+}

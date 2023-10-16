@@ -1,0 +1,12 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.secondary_active",
+	"cooldown":100,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:end-mage/end_rage"
+	},
+	"condition":{
+		"type":"origins:sneaking"
+	}
+}

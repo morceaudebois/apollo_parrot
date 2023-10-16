@@ -1,0 +1,15 @@
+{
+	"powers":[
+		"apolloparrot:candyperson/cake_master",
+		"apolloparrot:candyperson/cookie_master",
+		"apolloparrot:candyperson/favorite_food",
+		"apolloparrot:candyperson/hard_sugar",
+		"apolloparrot:candyperson/sugar_addict",
+		"apolloparrot:candyperson/sugar_expert",
+		"apolloparrot:candyperson/sugar_kit",
+		"apolloparrot:candyperson/sugar_recipe",
+		"apolloparrot:candyperson/sugar_stomach"
+	],
+	"icon":"minecraft:sugar",
+	"impact":2
+}

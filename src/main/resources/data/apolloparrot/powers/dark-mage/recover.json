@@ -1,0 +1,28 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.secondary_active",
+	"cooldown":100,
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:dark-mage/recover"
+	},
+	"condition":{
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type":"origins:sneaking"
+			},
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"offhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"item":"minecraft:wooden_sword"
+					}
+				},
+				"inverted":true
+			}
+		]
+	}
+}

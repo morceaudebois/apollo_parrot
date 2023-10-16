@@ -1,0 +1,23 @@
+{
+	"type":"origins:prevent_sleep",
+	"set_spawn_point":true,
+	"block_condition":{
+		"type":"origins:adjacent",
+		"adjacent_condition":{
+			"type":"origins:or",
+			"conditions":[
+				{
+					"type":"origins:in_tag",
+					"tag":"minecraft:snow"
+				},
+				{
+					"type":"origins:in_tag",
+					"tag":"minecraft:ice"
+				}
+			]
+		},
+		"comparison":"<=",
+		"compare_to":2
+	},
+	"message":"apolloparrot.glacier.sleep_fail"
+}

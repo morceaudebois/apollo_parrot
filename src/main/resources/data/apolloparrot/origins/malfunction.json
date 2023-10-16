@@ -1,0 +1,11 @@
+{
+	"powers":[
+		"apolloparrot:malfunction/callback_pursuit",
+		"apolloparrot:malfunction/float",
+		"apolloparrot:malfunction/particles",
+		"apolloparrot:malfunction/phase",
+		"apolloparrot:malfunction/random_teleport"
+	],
+	"icon":"minecraft:crying_obsidian",
+	"impact":3
+}

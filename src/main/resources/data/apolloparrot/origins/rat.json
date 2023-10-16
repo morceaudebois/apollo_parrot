@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:fragile",
+		"apolloparrot:rat/nimble_limbs",
+		"apolloparrot:rat/nocturnal_eyes",
+		"apolloparrot:rat/one_block_height",
+		"apolloparrot:rat/rats_eyes",
+		"apolloparrot:rat/scavenger",
+		"apolloparrot:rat/slow_swimmer",
+		"apolloparrot:rat/tail_whip",
+		"apolloparrot:rat/toxicity_evolved",
+		"apolloparrot:rat/vicious_bite"
+	],
+	"icon":"minecraft:rotten_flesh",
+	"impact":2
+}

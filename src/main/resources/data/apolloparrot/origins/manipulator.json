@@ -1,0 +1,18 @@
+{
+	"powers":[
+		"apolloparrot:manipulator/antigravity_arrow",
+		"apolloparrot:manipulator/cycle",
+		"apolloparrot:manipulator/dirt_hut",
+		"apolloparrot:manipulator/enderdragon_fireball",
+		"apolloparrot:manipulator/energy_shield",
+		"apolloparrot:manipulator/ghast_fireball",
+		"apolloparrot:manipulator/golden_apple_fix",
+		"apolloparrot:manipulator/golem",
+		"apolloparrot:manipulator/no_armour",
+		"apolloparrot:manipulator/no_weapons",
+		"apolloparrot:manipulator/resistance_buff",
+		"apolloparrot:manipulator/spectral_energy_shot"
+	],
+	"icon":"minecraft:end_crystal",
+	"impact":3
+}

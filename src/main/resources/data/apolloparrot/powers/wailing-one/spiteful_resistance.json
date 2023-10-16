@@ -1,0 +1,26 @@
+{
+	"type":"origins:attacker_action_when_hit",
+	"cooldown":250,
+	"entity_action":{
+		"type":"origins:chance",
+		"action":{
+			"type":"origins:apply_effect",
+			"effects":[
+				{
+					"effect":"minecraft:slowness",
+					"amplifier":1,
+					"duration":60,
+					"show_icon":false,
+					"show_particles":false
+				},
+				{
+					"effect":"minecraft:weakness",
+					"duration":60,
+					"show_icon":false,
+					"show_particles":false
+				}
+			]
+		},
+		"chance":1000
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type":"origins:fire_projectile",
+	"cooldown":200,
+	"hud_render":{
+		"bar_index":6
+	},
+	"entity_type":"origins:enderian_pearl",
+	"sound":"minecraft:entity.ender_pearl.throw",
+	"speed":1.5,
+	"divergence":1,
+	"key":"key.origins.primary_active",
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:shifter/shift_bar",
+		"comparison":"==",
+		"compare_to":6
+	}
+}

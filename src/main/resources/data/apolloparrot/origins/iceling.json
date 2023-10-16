@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"origins:climbing",
+		"origins:fragile",
+		"origins:more_kinetic_damage",
+		"origins:light_armor",
+		"apolloparrot:iceling/blue_transparent_skin",
+		"apolloparrot:iceling/cold_speed",
+		"apolloparrot:iceling/cold_power",
+		"apolloparrot:iceling/disable_regen",
+		"apolloparrot:iceling/fire",
+		"apolloparrot:iceling/harvest_now",
+		"apolloparrot:iceling/hot_biome",
+		"apolloparrot:iceling/immunity",
+		"apolloparrot:iceling/nib",
+		"apolloparrot:iceling/no_hunger",
+		"apolloparrot:iceling/regen",
+		"apolloparrot:iceling/shard",
+		"apolloparrot:iceling/size",
+		"apolloparrot:iceling/snow_spawn",
+		"apolloparrot:iceling/speed",
+		"apolloparrot:iceling/water"
+	],
+	"icon":"minecraft:ice",
+	"impact":3
+}

@@ -1,0 +1,17 @@
+{
+	"type":"origins:multiple",
+	"hidden":true,
+	"prevent_elytra_equipping":{
+		"type":"origins:restrict_armor",
+		"chest":{
+			"type":"origins:ingredient",
+			"ingredient":{
+				"tag":"apolloparrot:wings"
+			}
+		}
+	},
+	"levitation_immunity":{
+		"type":"origins:effect_immunity",
+		"effect":"minecraft:levitation"
+	}
+}

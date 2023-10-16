@@ -1,0 +1,14 @@
+{
+	"type":"origins:modify_damage_taken",
+	"damage_condition":{
+		"type":"origins:fire"
+	},
+	"modifier":{
+		"operation":"multiply_base",
+		"value":4
+	},
+	"self_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:vishaichian/fire_weakness"
+	}
+}

@@ -1,0 +1,77 @@
+{
+	"type":"origins:multiple",
+	"increase":{
+		"type":"origins:action_over_time",
+		"interval":200,
+		"entity_action":{
+			"type":"origins:change_resource",
+			"resource":"apolloparrot:golden-golem/gold_resource",
+			"change":1
+		}
+	},
+	"ability_one":{
+		"type":"origins:active_self",
+		"key":"key.origins.primary_active",
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:golden-golem/speed_up"
+		},
+		"condition":{
+			"type":"origins:and",
+			"conditions":[
+				{
+					"type":"origins:resource",
+					"resource":"apolloparrot:golden-golem/gold_resource",
+					"comparison":">=",
+					"compare_to":3
+				},
+				{
+					"type":"origins:sneaking",
+					"inverted":true
+				}
+			]
+		}
+	},
+	"ability_two":{
+		"type":"origins:active_self",
+		"key":"key.origins.primary_active",
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:golden-golem/strength_up"
+		},
+		"condition":{
+			"type":"origins:and",
+			"conditions":[
+				{
+					"type":"origins:resource",
+					"resource":"apolloparrot:golden-golem/gold_resource",
+					"comparison":">=",
+					"compare_to":5
+				},
+				{
+					"type":"origins:sneaking"
+				}
+			]
+		}
+	},
+	"totem_power":{
+		"type":"origins:prevent_death",
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:golden-golem/resurrect"
+		},
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:golden-golem/gold_resource",
+			"comparison":"==",
+			"compare_to":10
+		}
+	},
+	"respawn":{
+		"type":"origins:action_on_callback",
+		"entity_action_respawned":{
+			"type":"origins:execute_command",
+			"command":"resource set @s apolloparrot:golden-golem/gold_resource 0"
+		}
+	}
+}

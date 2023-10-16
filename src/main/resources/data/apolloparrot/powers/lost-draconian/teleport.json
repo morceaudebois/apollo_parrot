@@ -1,0 +1,26 @@
+{
+	"type":"origins:active_self",
+	"key":"key.origins.secondary_active",
+	"cooldown":60,
+	"hud_render":{
+		"bar_index":6
+	},
+	"entity_action":{
+		"type":"origins:raycast",
+		"distance":15,
+		"entity":false,
+		"before_action":{
+			"type":"origins:execute_command",
+			"command":"tag @s add draconian_tp"
+		},
+		"command_along_ray":"execute positioned ~ ~ ~ if block ~ ~ ~ air run tp @e[tag=draconian_tp,sort=nearest,limit=1] ~ ~ ~"
+	},
+	"hit_action":{
+		"type":"origins:execute_command",
+		"command":"tag @e remove draconian_tp"
+	},
+	"miss_action":{
+		"type":"origins:execute_command",
+		"command":"tp @s ^ ^ ^15"
+	}
+}

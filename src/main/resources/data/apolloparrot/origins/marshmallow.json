@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"apolloparrot:marshmallow/change_resource",
+		"apolloparrot:marshmallow/melt_in_water",
+		"apolloparrot:marshmallow/pyrophobia",
+		"apolloparrot:marshmallow/resource",
+		"apolloparrot:marshmallow/sugar_level_1",
+		"apolloparrot:marshmallow/sugar_level_2",
+		"apolloparrot:marshmallow/sugar_level_3"
+	],
+	"icon":"minecraft:bone_block",
+	"impact":2
+}

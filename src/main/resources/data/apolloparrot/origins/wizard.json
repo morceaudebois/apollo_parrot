@@ -1,0 +1,28 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:wizard/ball",
+		"apolloparrot:wizard/broom",
+		"apolloparrot:wizard/flight_kinda",
+		"apolloparrot:wizard/health",
+		"apolloparrot:wizard/immune",
+		"apolloparrot:wizard/immunity",
+		"apolloparrot:wizard/light",
+		"apolloparrot:wizard/magic",
+		"apolloparrot:wizard/melee",
+		"apolloparrot:wizard/old",
+		"apolloparrot:wizard/old2",
+		"apolloparrot:wizard/pill",
+		"apolloparrot:wizard/respect",
+		"apolloparrot:wizard/respect2",
+		"apolloparrot:wizard/second",
+		"apolloparrot:wizard/skin",
+		"apolloparrot:wizard/skulls",
+		"apolloparrot:wizard/vex",
+		"apolloparrot:wizard/vex2",
+		"apolloparrot:wizard/villagers",
+		"apolloparrot:wizard/why"
+	],
+	"icon":"minecraft:totem_of_undying",
+	"impact":3
+}

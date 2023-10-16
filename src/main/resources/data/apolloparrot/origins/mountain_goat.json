@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:fresh_air",
+		"origins:fall_immunity",
+		"origins:vegetarian",
+		"apolloparrot:mountain-goat/high_jump",
+		"apolloparrot:mountain-goat/high_jump_a",
+		"apolloparrot:mountain-goat/ram",
+		"apolloparrot:mountain-goat/ram_a",
+		"apolloparrot:mountain-goat/thick_coat",
+		"apolloparrot:mountain-goat/thick_coat_a",
+		"apolloparrot:mountain-goat/tough"
+	],
+	"icon":"minecraft:white_wool",
+	"impact":1
+}

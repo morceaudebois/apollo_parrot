@@ -1,0 +1,53 @@
+{
+	"type":"origins:active_self",
+	"key":"key.saveToolbarActivator",
+	"cooldown":1000,
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:delay",
+				"ticks":1,
+				"action":{
+					"type":"origins:execute_command",
+					"command":"execute at @s run playsound minecraft:entity.shulker.ambient master @a[distance=..15] ~ ~ ~ 1 2"
+				}
+			},
+			{
+				"type":"origins:delay",
+				"ticks":1,
+				"action":{
+					"type":"origins:execute_command",
+					"command":"effect give @s minecraft:blindness 10 10"
+				}
+			},
+			{
+				"type":"origins:delay",
+				"ticks":1,
+				"action":{
+					"type":"origins:execute_command",
+					"command":"effect give @s minecraft:slowness 10 10"
+				}
+			},
+			{
+				"type":"origins:delay",
+				"ticks":1,
+				"action":{
+					"type":"origins:change_resource",
+					"resource":"apolloparrot:blob/health_bar_resource",
+					"change":250
+				}
+			}
+		]
+	},
+	"condition":{
+		"type":"origins:resource",
+		"resource":"apolloparrot:blob/health_bar_resource",
+		"comparison":"<",
+		"compare_to":1000
+	},
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+		"bar_index":9
+	}
+}

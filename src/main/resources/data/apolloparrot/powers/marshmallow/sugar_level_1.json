@@ -1,0 +1,33 @@
+{
+	"type":"origins:multiple",
+	"hidden":true,
+	"size":{
+		"type":"origins:action_over_time",
+		"entity_action":{
+			"type":"origins:execute_command",
+			"command":"function apolloparrot:marshmallow/size1"
+		},
+		"interval":20,
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:marshmallow/resource",
+			"comparison":"<=",
+			"compare_to":10
+		}
+	},
+	"health":{
+		"type":"origins:conditioned_attribute",
+		"modifier":{
+			"attribute":"minecraft:generic.max_health",
+			"operation":"addition",
+			"value":-8
+		},
+		"update_health":true,
+		"condition":{
+			"type":"origins:resource",
+			"resource":"apolloparrot:marshmallow/resource",
+			"comparison":"<=",
+			"compare_to":10
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"origins:burning_wrath",
+		"origins:fire_immunity",
+		"origins:water_vulnerability",
+		"apolloparrot:blazian/all_that_glitters",
+		"apolloparrot:blazian/blazing_leap",
+		"apolloparrot:blazian/charge_barrage",
+		"apolloparrot:blazian/cold_here",
+		"apolloparrot:blazian/fortress",
+		"apolloparrot:blazian/hot_hands",
+		"apolloparrot:blazian/lava_swim",
+		"apolloparrot:blazian/nether_ally",
+		"apolloparrot:blazian/no_place_like_home",
+		"apolloparrot:blazian/overworld",
+		"apolloparrot:blazian/particles",
+		"apolloparrot:blazian/punch",
+		"apolloparrot:blazian/slow_fall_clear"
+	],
+	"icon":"minecraft:magma_cream",
+	"impact":3
+}

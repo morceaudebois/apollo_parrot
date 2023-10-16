@@ -1,0 +1,26 @@
+{
+	"powers":[
+		"origins:no_shield",
+		"apolloparrot:blob/amethyst_eater",
+		"apolloparrot:blob/blob_creature",
+		"apolloparrot:blob/colour",
+		"apolloparrot:blob/electrical_immunity",
+		"apolloparrot:blob/frozen_feet",
+		"apolloparrot:blob/heal",
+		"apolloparrot:blob/health_bar",
+		"apolloparrot:blob/magic",
+		"apolloparrot:blob/melting_hands",
+		"apolloparrot:blob/nether_weakness",
+		"apolloparrot:blob/no_lungs",
+		"apolloparrot:blob/paranoia",
+		"apolloparrot:blob/respawn",
+		"apolloparrot:blob/side_step",
+		"apolloparrot:blob/stacking_attacks",
+		"apolloparrot:blob/storage",
+		"apolloparrot:blob/strength",
+		"apolloparrot:blob/water_effects",
+		"apolloparrot:blob/wisdom"
+	],
+	"icon":"minecraft:popped_chorus_fruit",
+	"impact":2
+}

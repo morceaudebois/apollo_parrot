@@ -1,0 +1,37 @@
+{
+	"type":"origins:stacking_status_effect",
+	"min_stacks":0,
+	"max_stacks":1,
+	"duration_per_stack":20,
+	"effect":{
+		"effect":"minecraft:weakness",
+		"amplifier":1,
+		"show_particles":false,
+		"show_icon":false
+	},
+	"condition":{
+		"type":"origins:or",
+		"conditions":[
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"mainhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"tag":"apolloparrot:axes"
+					}
+				}
+			},
+			{
+				"type":"origins:equipped_item",
+				"equipment_slot":"mainhand",
+				"item_condition":{
+					"type":"origins:ingredient",
+					"ingredient":{
+						"tag":"apolloparrot:swords"
+					}
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:and",
+		"actions":[
+			{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:corrupted-wither/start"
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"function apolloparrot:corrupted-wither/save_motion"
+			},
+			{
+				"type":"origins:delay",
+				"action":{
+					"type":"origins:execute_command",
+					"command":"function apolloparrot:corrupted-wither/stop"
+				},
+				"ticks":1000
+			},
+			{
+				"type":"origins:delay",
+				"action":{
+					"type":"origins:execute_command",
+					"command":"function apolloparrot:corrupted-wither/resume_motion"
+				},
+				"ticks":1000
+			}
+		]
+	},
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/huang/resource_bar_02.png",
+		"bar_index":1
+	},
+	"key":"key.origins.secondary_active"
+}

@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:carnivore",
+		"origins:elytra",
+		"apolloparrot:wyverian/claws",
+		"apolloparrot:wyverian/night_vision",
+		"apolloparrot:wyverian/poison_immune",
+		"apolloparrot:wyverian/projectile",
+		"apolloparrot:wyverian/shield",
+		"apolloparrot:wyverian/size",
+		"apolloparrot:wyverian/water",
+		"apolloparrot:wyverian/wind"
+	],
+	"icon":"minecraft:ender_eye",
+	"impact":3
+}
+

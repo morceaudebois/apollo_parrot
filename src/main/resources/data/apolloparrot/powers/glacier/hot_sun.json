@@ -1,0 +1,11 @@
+{
+	"type":"origins:conditioned_attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.attack_damage",
+		"operation":"multiply_total",
+		"value":-0.25
+	},
+	"condition":{
+		"type":"origins:daytime"
+	}
+}

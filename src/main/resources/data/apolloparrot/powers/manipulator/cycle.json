@@ -1,0 +1,33 @@
+{
+	"type":"origins:multiple",
+	"active_power":{
+		"type":"origins:resource",
+		"min":1,
+		"max":8,
+		"hud_render":{
+			"should_render":false
+		}
+	},
+	"cycle":{
+		"type":"origins:active_self",
+		"key":"key.origins.secondary_active",
+		"entity_action":{
+			"type":"origins:if_else",
+			"condition":{
+				"type":"origins:resource",
+				"resource":"*:*_active_power",
+				"comparison":">=",
+				"compare_to":8
+			},
+			"if_action":{
+				"type":"origins:execute_command",
+				"command":"resource set @s apolloparrot:manipulator/cycle_active_power 1"
+			},
+			"else_action":{
+				"type":"origins:change_resource",
+				"resource":"*:*_active_power",
+				"change":1
+			}
+		}
+	}
+}

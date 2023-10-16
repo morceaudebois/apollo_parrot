@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:extra_reach",
+		"apolloparrot:panoptican/air_speed_boost",
+		"apolloparrot:panoptican/bystander",
+		"apolloparrot:panoptican/entity_glow",
+		"apolloparrot:panoptican/fire",
+		"apolloparrot:panoptican/float",
+		"apolloparrot:panoptican/fragile",
+		"apolloparrot:panoptican/night_vision",
+		"apolloparrot:panoptican/particles",
+		"apolloparrot:panoptican/raycast",
+		"apolloparrot:panoptican/toggle"
+	],
+	"icon":"minecraft:ender_eye",
+	"impact":3
+}

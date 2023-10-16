@@ -1,0 +1,16 @@
+{
+	"powers":[
+		"origins:fragile",
+		"origins:elytra",
+		"apolloparrot:mothling/boost",
+		"apolloparrot:mothling/lantern",
+		"apolloparrot:mothling/leather_diet",
+		"apolloparrot:mothling/no_food",
+		"apolloparrot:mothling/small",
+		"apolloparrot:mothling/sound_effect",
+		"apolloparrot:mothling/weight",
+		"apolloparrot:mothling/zapper"
+	],
+	"icon":"minecraft:rabbit_hide",
+	"impact":3
+}

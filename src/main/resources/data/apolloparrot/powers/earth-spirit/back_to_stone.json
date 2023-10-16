@@ -1,0 +1,9 @@
+{
+	"type":"origins:active_self",
+	"cooldown":100,
+	"key":"key.loadToolbarActivator",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:earth-spirit/downgrade"
+	}
+}

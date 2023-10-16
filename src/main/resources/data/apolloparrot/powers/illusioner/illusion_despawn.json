@@ -1,0 +1,10 @@
+{
+	"hidden":true,
+	"key":"key.saveToolbarActivator",
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:execute_command",
+		"command":"function apolloparrot:illusioner/illusion_despawn"
+	},
+	"cooldown":20
+}

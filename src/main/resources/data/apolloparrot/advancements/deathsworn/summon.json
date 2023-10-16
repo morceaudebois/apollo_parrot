@@ -1,0 +1,21 @@
+{
+	"display":{
+		"title":{
+			"translate":"apolloparrot.advancements.summon.name"
+		},
+		"description":{
+			"translate":"apolloparrot.advancements.summon.description"
+		},
+		"icon":{
+			"item":"minecraft:zombie_spawn_egg"
+		},
+		"announce_to_chat":false,
+		"background":"minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria":{
+		"b":{
+			"trigger":"minecraft:impossible"
+		}
+	},
+	"parent":"apolloparrot:deathsworn/petri"
+}

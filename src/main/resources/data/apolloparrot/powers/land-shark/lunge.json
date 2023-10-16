@@ -1,0 +1,17 @@
+{
+	"condition":{
+		"type":"origins:submerged_in",
+		"fluid":"minecraft:water"
+	},
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:add_velocity",
+		"z":1.5,
+		"space":"local"
+	},
+	"cooldown":600,
+	"hud_render":{
+		"bar_index":4
+	},
+	"key":"key.origins.primary_active"
+}

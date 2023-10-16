@@ -1,0 +1,231 @@
+{
+	"type":"origins:active_self",
+	"cooldown":250,
+	"hud_render":{
+		"sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+		"bar_index":0
+	},
+	"entity_action":{
+		"type":"origins:choice",
+		"actions":[
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:axolotl ~ ~1 ~ {Variant:random}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:bat ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:bee ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:cat ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:chicken ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:cod ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:cow ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:donkey ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:fox ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:glow_squid ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:horse ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:mooshroom ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:mule ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:ocelot ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:parrot ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:pig ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:piglin ~ ~1 ~ {IsBaby:1}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:polar_bear ~ ~1 ~ {Age:-25000}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:pufferfish ~ ~1 ~ {PuffState:2}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:rabbit ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:salmon ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:sheep ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:skeleton_horse ~ ~1 ~"
+				},
+				"weight":1.05
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:snow_golem ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:squid ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:strider ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:tropical_fish ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:turtle ~ ~1 ~"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:villager ~ ~1 ~ {VillagerData:{profession:nitwit,level:1,type:plains}}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:panda ~ ~1 ~ {Age:-25000}"
+				},
+				"weight":8.71
+			},
+			{
+				"element":{
+					"type":"origins:execute_command",
+					"command":"summon minecraft:wolf ~ ~1 ~ {Age:-25000}"
+				},
+				"weight":8.71
+			}
+		]
+	},
+	"key":"key.origins.secondary_active"
+}

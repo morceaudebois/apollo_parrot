@@ -1,0 +1,21 @@
+{
+	"display":{
+		"title":{
+			"translate":"apolloparrot.advancements.wither_skeleton.name"
+		},
+		"description":{
+			"translate":"apolloparrot.advancements.wither_skeleton.description"
+		},
+		"icon":{
+			"item":"minecraft:coal"
+		},
+		"announce_to_chat":false,
+		"background":"minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria":{
+		"b":{
+			"trigger":"minecraft:impossible"
+		}
+	},
+	"parent":"apolloparrot:deathsworn/summon"
+}

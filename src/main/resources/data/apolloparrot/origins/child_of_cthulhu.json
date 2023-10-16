@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:elytra",
+		"apolloparrot:child-of-cthulhu/camouflage",
+		"apolloparrot:child-of-cthulhu/exhaust",
+		"apolloparrot:child-of-cthulhu/fire_weakness",
+		"apolloparrot:child-of-cthulhu/launch",
+		"apolloparrot:child-of-cthulhu/size_change",
+		"apolloparrot:child-of-cthulhu/size_changer",
+		"apolloparrot:child-of-cthulhu/size_resource",
+		"apolloparrot:child-of-cthulhu/slowness_on_land",
+		"apolloparrot:child-of-cthulhu/water_lungs",
+		"apolloparrot:child-of-cthulhu/water_vision"
+	],
+	"icon":"minecraft:purple_glazed_terracotta",
+	"impact":2
+}

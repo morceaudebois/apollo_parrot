@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"origins:fall_immunity",
+		"apolloparrot:anomaly/blinding_light",
+		"apolloparrot:anomaly/eternity",
+		"apolloparrot:anomaly/moons_grace",
+		"apolloparrot:anomaly/night_vision",
+		"apolloparrot:anomaly/scorching_sun",
+		"apolloparrot:anomaly/starlight",
+		"apolloparrot:anomaly/strength",
+		"apolloparrot:anomaly/supernova",
+		"apolloparrot:anomaly/time_space_who_dis",
+		"apolloparrot:anomaly/unstable"
+	],
+	"icon":"minecraft:nether_star",
+	"impact":3
+}
