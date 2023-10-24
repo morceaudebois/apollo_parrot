@@ -48,6 +48,9 @@ public class ModSounds {
     public static SoundEvent WHATS_THIS2 = registerSound("whats_this2");
     public static SoundEvent WOW = registerSound("wow");
 
+    public static SoundEvent BOWL = registerSound("bowl");
+    public static SoundEvent ITS_A_BELL = registerSound("its_a_bell");
+    public static SoundEvent ITS_A_BUG = registerSound("its_a_bug");
 
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
@@ -60,6 +63,4 @@ public class ModSounds {
     public static void initializeSounds() {
         ApolloParrot.LOGGER.info("Registering " + ApolloParrot.MOD_ID + " Sounds");
     }
-
-
 }

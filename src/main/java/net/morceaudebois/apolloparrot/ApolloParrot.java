@@ -11,8 +11,6 @@ public class ApolloParrot implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
 		ModSounds.initializeSounds();
-
 	}
 }
