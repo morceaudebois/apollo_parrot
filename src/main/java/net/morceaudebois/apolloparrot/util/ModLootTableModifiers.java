@@ -49,7 +49,7 @@ public class ModLootTableModifiers {
                 ) {
                 LootPool.Builder poolBuilder = LootPool.builder()
                         .rolls(ConstantLootNumberProvider.create(1))
-                        .conditionally(RandomChanceLootCondition.builder(0.2f)) // Drops 30% of the time
+                        .conditionally(RandomChanceLootCondition.builder(0.3f)) // Drops 30% of the time
                         .with(ItemEntry.builder(ModItems.HARRY_POTTER_MUSIC_DISC))
 
                         .with(ItemEntry.builder(ModItems.HK_MANTIS_LORDS_MUSIC_DISC))
@@ -105,7 +105,7 @@ public class ModLootTableModifiers {
 
                 LootPool.Builder poolBuilder = LootPool.builder()
                         .rolls(ConstantLootNumberProvider.create(1))
-                        .conditionally(RandomChanceLootCondition.builder(0.2f)) // Drops 15% of the time
+                        .conditionally(RandomChanceLootCondition.builder(0.3f)) // Drops 15% of the time
 
                         .with(ItemEntry.builder(ModItems.H_NO_ESCAPE_MUSIC_DISC))
                         .with(ItemEntry.builder(ModItems.H_FROM_OLYMPUS_MUSIC_DISC))

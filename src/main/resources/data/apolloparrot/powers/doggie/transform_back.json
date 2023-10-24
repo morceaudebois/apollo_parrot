@@ -4,7 +4,11 @@
     "type": "origins:execute_command",
     "command": "identity unequip @s"
   },
-
-  "cooldown":1200,
-  "key":"key.origins.ternary_active"
+  "key":"key.origins.primary_active",
+  "condition": {
+    "type": "origins:command",
+    "command": "execute if entity @s[nbt={CurrentIdentity:{id:\"minecraft:wolf\"}}]",
+    "comparison": "==",
+    "compare_to": 1
+  }
 }
