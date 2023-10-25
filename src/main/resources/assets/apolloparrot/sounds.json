@@ -1,6 +1,6 @@
 {
   "bottle": {
-    "subtitle": "Parrot says \"it\"",
+    "subtitle": "Parrot says \"it's a bottle\"",
     "sounds": [
       "apolloparrot:bottle"
     ]
@@ -33,6 +33,12 @@
     "subtitle": "Parrot says \"cork\"",
     "sounds": [
       "apolloparrot:cork"
+    ]
+  },
+  "glask": {
+    "subtitle": "Parrot says \"glassk\"",
+    "sounds": [
+      "apolloparrot:glask"
     ]
   },
   "glass_2": {
@@ -329,7 +335,27 @@
         "stream": true
       }
     ]
-  }
+  },
 
+  
+  "bowl": {
+    "subtitle": "Parrot says \"bowl\"",
+    "sounds": [
+      "apolloparrot:bowl"
+    ]
+  },
+
+  "its_a_bell": {
+    "subtitle": "Parrot says \"it's a bell\"",
+    "sounds": [
+      "apolloparrot:its_a_bell"
+    ]
+  },
+  "its_a_bug": {
+    "subtitle": "Parrot says \"it's a bug\"",
+    "sounds": [
+      "apolloparrot:its_a_bug"
+    ]
+  }
 
 }
