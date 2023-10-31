@@ -16,7 +16,7 @@
     },
     "else_action": {
       "type": "origins:execute_command",
-      "command": "identity equip @s minecraft:wolf"
+      "command": "identity equip @s minecraft:wolf {Tags:[\"charm_texture=wolf/nlg_wolf18.png\"]}"
     }
   }
 }
