@@ -50,8 +50,6 @@ public class ModLootTableModifiers {
                 LootPool.Builder poolBuilder = LootPool.builder()
                         .rolls(ConstantLootNumberProvider.create(1))
                         .conditionally(RandomChanceLootCondition.builder(0.3f)) // Drops 30% of the time
-                        .with(ItemEntry.builder(ModItems.HARRY_POTTER_MUSIC_DISC))
-
                         .with(ItemEntry.builder(ModItems.HK_MANTIS_LORDS_MUSIC_DISC))
                         .with(ItemEntry.builder(ModItems.HK_DUNG_DEFENDER_MUSIC_DISC))
                         .with(ItemEntry.builder(ModItems.HK_WHITE_PALACE_MUSIC_DISC))

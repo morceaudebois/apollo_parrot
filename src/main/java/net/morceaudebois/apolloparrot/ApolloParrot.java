@@ -7,6 +7,7 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.morceaudebois.apolloparrot.item.ModItems;
 import net.morceaudebois.apolloparrot.sound.ModSounds;
+import net.morceaudebois.apolloparrot.util.ModCustomTrades;
 import net.morceaudebois.apolloparrot.util.ModLootTableModifiers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,6 +21,8 @@ public class ApolloParrot implements ModInitializer {
 		ModSounds.initializeSounds();
 
 		ModItems.registerModItems();
+
+		ModCustomTrades.registerCustomTrades();
 
 		ModLootTableModifiers.modifyLootTables();
 		// Register the right-click interaction with cows
