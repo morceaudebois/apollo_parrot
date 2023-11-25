@@ -947,17 +947,13 @@
   "power.apolloparrot.dolphin/water_vision.description": "Dolphins can see underwater due to the way their eyes were made.",
   "power.apolloparrot.dolphin/water_vision.name": "Water Vision",
 
-  "origin.apolloparrot.doggie.description": "You're a floofy boi who gets funky floofy boi abilities.",
+  "origin.apolloparrot.doggie.description": "You're a floofy boi.",
   "origin.apolloparrot.doggie.name": "Doggo",
 
   "power.apolloparrot.doggie/woof.name": "Woof",
   "power.apolloparrot.doggie/woof.description": "You will woof whenever you open your chat.",
   "power.apolloparrot.doggie/transform.name": "Wolf morphing",
-  "power.apolloparrot.doggie/transform.description": "You can morph into a wolf at will.",
-  "power.apolloparrot.doggie/transform_back.name": "Human morphing",
-  "power.apolloparrot.doggie/transform_back.description": "You can go back to your human body at will.",
-  "power.apolloparrot.doggie/summon_wolf.name": "Wolf summoning",
-  "power.apolloparrot.doggie/summon_wolf.description": "Wolves usually travel in packs, causing you to be able to spawn a wolf.",
+  "power.apolloparrot.doggie/transform.description": "You can toggle between your wolf body and your human body at will.",
 
   "power.apolloparrot.drakonwither/wither_immunity.description": "You are immune to the wither effect thanks to your (part) wither heritage.",
   "power.apolloparrot.drakonwither/wither_immunity.name": "Wither Immunity",
