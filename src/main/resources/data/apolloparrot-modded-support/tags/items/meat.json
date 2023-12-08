@@ -951,6 +951,126 @@
     {
       "id":"artifacts:everlasting_beef",
       "required":false
+    },
+    {
+      "id": "eanimalmod:raw_equine_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_equine_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_camel_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_camel_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_bear_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_bear_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:fried_bee_wing",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_strider_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_strider_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_cat_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_cat_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_sniffer_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_sniffer_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:parrot",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_parrot",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_turtle_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_turtle_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:axolotl_tail",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_axolotl_tail",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:squid_tentacle",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:fried_squid_tentacle",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:bat_wing",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:fried_bat_wing",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:frog_leg",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:fried_frog_leg",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_wolf_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:cooked_wolf_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:strider_skin",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:bee_wing",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:sniffer_leaves",
+      "required": false
     }
   ]
 }
