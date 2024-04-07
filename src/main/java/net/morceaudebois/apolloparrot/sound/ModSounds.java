@@ -52,6 +52,13 @@ public class ModSounds {
     public static SoundEvent ITS_A_BELL = registerSound("its_a_bell");
     public static SoundEvent ITS_A_BUG = registerSound("its_a_bug");
 
+    public static SoundEvent BALL = registerSound("ball");
+    public static SoundEvent BLOCK = registerSound("block");
+    public static SoundEvent BURP = registerSound("burp");
+    public static SoundEvent FIRE = registerSound("fire");
+    public static SoundEvent HAT = registerSound("hat");
+    public static SoundEvent SHROCK_QUESTION = registerSound("shrock_question");
+
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
         SoundEvent sound = SoundEvent.of(new Identifier(ApolloParrot.MOD_ID, id));

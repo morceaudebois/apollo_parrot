@@ -240,6 +240,43 @@
     "sounds": [
       "apolloparrot:its_a_bug"
     ]
-  }
+  },
 
+
+  "block": {
+    "subtitle": "Parrot says \"block\"",
+    "sounds": [
+      "apolloparrot:block"
+    ]
+  },
+  "burp": {
+    "subtitle": "Parrot burps",
+    "sounds": [
+      "apolloparrot:burp"
+    ]
+  },
+  "shrock_question": {
+    "subtitle": "Parrot asks \"shrock\"",
+    "sounds": [
+      "apolloparrot:shrock_question"
+    ]
+  },
+  "hat": {
+    "subtitle": "Parrot says \"hat\"",
+    "sounds": [
+      "apolloparrot:hat"
+    ]
+  },
+  "fire": {
+    "subtitle": "Parrot says \"fire\"",
+    "sounds": [
+      "apolloparrot:fire"
+    ]
+  },
+  "ball": {
+    "subtitle": "Parrot says \"ball\"",
+    "sounds": [
+      "apolloparrot:ball"
+    ]
+  }
 }
