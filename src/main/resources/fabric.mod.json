@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "apolloparrot",
-	"version": "1.1",
+	"version": "1.2",
 	"name": "Apollo the Parrot",
 	"description": "This silly little mod adds social media star Apollo the parrot to Minecraft. 🦜",
 	"authors": [
@@ -33,6 +33,7 @@
 		"fabricloader": ">=0.14.22",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"entity_texture_features": ">=2.0"
 	}
 }
