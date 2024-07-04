@@ -54,6 +54,7 @@ public class ParrotMixin {
                     ModSounds.WHATS_THIS,
                     ModSounds.WHATS_THIS2,
                     ModSounds.WOW,
+                    ModSounds.BLOCK,
 
                     ModSounds.ITS_A_BELL,
                     ModSounds.BOWL,

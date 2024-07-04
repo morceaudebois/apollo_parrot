@@ -61,8 +61,9 @@ public class ModSounds {
 
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
-        SoundEvent sound = SoundEvent.of(new Identifier(ApolloParrot.MOD_ID, id));
-        return Registry.register(Registries.SOUND_EVENT, new Identifier(ApolloParrot.MOD_ID, id), sound);
+        Identifier identifier = Identifier.of(ApolloParrot.MOD_ID, id);
+        SoundEvent sound = SoundEvent.of(identifier);
+        return Registry.register(Registries.SOUND_EVENT, identifier, sound);
     }
 
     // called in the ModInitializer implementing class
