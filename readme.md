@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/morceaudebois/apollo_parrot/master/apollo-banner.jpg" width="100%" alt="">
-
+<img src="https://github.com/morceaudebois/apollo_parrot/blob/d2dfdb35b8473fb1ccf0130ca974e51bd8b551e1/resources/apollo-banner.jpg?raw=true" width="100%" alt="">
 
 <h1 align="center">Apollo the Parrot</h1>
 
