@@ -278,5 +278,23 @@
     "sounds": [
       "apolloparrot:ball"
     ]
+  },
+  "droplet": {
+    "subtitle": "Parrot imitates droplet sound",
+    "sounds": [
+      "apolloparrot:droplet"
+    ]
+  },
+  "snapchat": {
+    "subtitle": "Parrot imitates Snapchat sound",
+    "sounds": [
+      "apolloparrot:snapchat"
+    ]
+  },
+  "touch_oh": {
+    "subtitle": "Parrot touches something",
+    "sounds": [
+      "apolloparrot:touch_oh"
+    ]
   }
 }

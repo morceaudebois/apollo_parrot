@@ -59,6 +59,10 @@ public class ModSounds {
     public static SoundEvent HAT = registerSound("hat");
     public static SoundEvent SHROCK_QUESTION = registerSound("shrock_question");
 
+    public static SoundEvent TOUCH_OH = registerSound("touch_oh");
+    public static SoundEvent SNAPCHAT = registerSound("snapchat");
+    public static SoundEvent DROPLET = registerSound("droplet");
+
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
         Identifier identifier = Identifier.of(ApolloParrot.MOD_ID, id);
