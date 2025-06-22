@@ -1,5 +1,5 @@
 plugins {
-	id 'fabric-loom' version '1.7-SNAPSHOT'
+	id 'fabric-loom' version "${loom_version}"
 	id 'maven-publish'
 }
 
@@ -22,16 +22,12 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"template-mod" {
+		"modid" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
 	}
 
-}
-
-fabricApi {
-	configureDataGeneration()
 }
 
 dependencies {
@@ -42,14 +38,14 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-	
+
 }
 
 processResources {
 	inputs.property "version", project.version
 
 	filesMatching("fabric.mod.json") {
-		expand "version": project.version
+		expand "version": inputs.properties.version
 	}
 }
 
@@ -68,8 +64,10 @@ java {
 }
 
 jar {
+	inputs.property "archivesName", project.base.archivesName
+
 	from("LICENSE") {
-		rename { "${it}_${project.base.archivesName.get()}"}
+		rename { "${it}_${inputs.properties.archivesName}"}
 	}
 }
 

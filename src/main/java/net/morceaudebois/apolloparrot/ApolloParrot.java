@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 import net.fabricmc.fabric.api.event.player.UseEntityCallback;
 import net.minecraft.entity.passive.ParrotEntity;
 import net.minecraft.util.ActionResult;
-import net.minecraft.util.Hand;
 import net.minecraft.sound.SoundEvent;
 import net.morceaudebois.apolloparrot.sound.ApolloSoundLibrary;
 import java.util.Random;

@@ -1,7 +1,6 @@
 package net.morceaudebois.apolloparrot.sound;
 
 import net.minecraft.sound.SoundEvent;
-import net.morceaudebois.apolloparrot.sound.ModSounds;
 
 public class ApolloSoundLibrary {
     public static final SoundEvent[] APOLLO_SOUNDS = new SoundEvent[] {
