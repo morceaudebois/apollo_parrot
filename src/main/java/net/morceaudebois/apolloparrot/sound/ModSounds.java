@@ -63,6 +63,14 @@ public class ModSounds {
     public static SoundEvent SNAPCHAT = registerSound("snapchat");
     public static SoundEvent DROPLET = registerSound("droplet");
 
+    public static SoundEvent WORT_WORT_WORT = registerSound("wort_wort_wort");
+    public static SoundEvent THIS_IS_A_RAG = registerSound("this_is_a_rag");
+    public static SoundEvent WANT_FRESH_WATER = registerSound("want_fresh_water");
+    public static SoundEvent COLOR_ORANGE = registerSound("color_orange");
+    public static SoundEvent WRENCH = registerSound("wrench");
+    public static SoundEvent COME_HERE = registerSound("come_here");
+    public static SoundEvent DOOTDOOT = registerSound("dootdoot");
+
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
         Identifier identifier = Identifier.of(ApolloParrot.MOD_ID, id);

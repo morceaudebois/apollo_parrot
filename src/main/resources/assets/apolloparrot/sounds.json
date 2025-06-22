@@ -296,5 +296,47 @@
     "sounds": [
       "apolloparrot:touch_oh"
     ]
+  },
+  "wort_wort_wort": {
+    "subtitle": "Parrot says \"wort wort wort\"",
+    "sounds": [
+      "apolloparrot:wort_wort_wort"
+    ]
+  },
+  "this_is_a_rag": {
+    "subtitle": "Parrot says \"this is a rag\"",
+    "sounds": [
+      "apolloparrot:this_is_a_rag"
+    ]
+  },
+  "want_fresh_water": {
+    "subtitle": "Parrot wants fresh water",
+    "sounds": [
+      "apolloparrot:want_fresh_water"
+    ]
+  },
+  "color_orange": {
+    "subtitle": "Parrot says \"color orange\"",
+    "sounds": [
+      "apolloparrot:color_orange"
+    ]
+  },
+  "wrench": {
+    "subtitle": "Parrot says \"wrench\"",
+    "sounds": [
+      "apolloparrot:wrench"
+    ]
+  },
+  "come_here": {
+    "subtitle": "Parrot says \"come here\"",
+    "sounds": [
+      "apolloparrot:come_here"
+    ]
+  },
+  "dootdoot": {
+    "subtitle": "Parrot yells \"doot doot\"",
+    "sounds": [
+      "apolloparrot:dootdoot"
+    ]
   }
 }

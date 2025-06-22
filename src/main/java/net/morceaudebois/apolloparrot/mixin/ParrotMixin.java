@@ -69,7 +69,15 @@ public class ParrotMixin {
 
                     ModSounds.TOUCH_OH,
                     ModSounds.DROPLET,
-                    ModSounds.SNAPCHAT
+                    ModSounds.SNAPCHAT,
+
+                    ModSounds.WORT_WORT_WORT,
+                    ModSounds.THIS_IS_A_RAG,
+                    ModSounds.WANT_FRESH_WATER,
+                    ModSounds.COLOR_ORANGE,
+                    ModSounds.WRENCH,
+                    ModSounds.COME_HERE,
+                    ModSounds.DOOTDOOT
             };
 
             // Create a Random object
@@ -77,7 +85,7 @@ public class ParrotMixin {
 
             if (random.nextInt(3) < 1) {
                 // Generate a random number from 0 to 2 (inclusive) to select one of three values
-                int randomNumber = random.nextInt(50);
+                int randomNumber = random.nextInt(57);
                 cir.setReturnValue(ApolloSounds[randomNumber]);
             }
 
