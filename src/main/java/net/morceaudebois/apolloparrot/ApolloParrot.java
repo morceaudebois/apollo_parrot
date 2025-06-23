@@ -2,6 +2,7 @@ package net.morceaudebois.apolloparrot;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.sound.SoundCategory;
+import net.minecraft.util.Hand;
 import net.morceaudebois.apolloparrot.sound.ModSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,7 +26,7 @@ public class ApolloParrot implements ModInitializer {
 
 		// when interacting on parrot
 		UseEntityCallback.EVENT.register((player, world, hand, entity, hitResult) -> {
-			if (entity instanceof ParrotEntity && player.getStackInHand(hand).isEmpty()) {
+			if (entity instanceof ParrotEntity && hand == Hand.MAIN_HAND && player.getMainHandStack().isEmpty()) {
 				Random random = new Random();
 
 				SoundEvent sound = ApolloSoundLibrary.APOLLO_SOUNDS[random.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length)];
