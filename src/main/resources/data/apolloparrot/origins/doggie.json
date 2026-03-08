@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "origins:tailwind",
+    "origins:carnivore",
+    "origins:velvet_paws",
+    "apolloparrot:woof",
+    "apolloparrot:transform"
+  ],
+  "icon": {
+    "id": "minecraft:bone"
+  },
+  "impact": 2,
+  "name": "Doggie",
+  "description": "ur a doggie"
+}
