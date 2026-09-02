@@ -1,48 +1,46 @@
 package net.morceaudebois.apolloparrot;
 
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.sound.SoundCategory;
-import net.minecraft.util.Hand;
+import net.minecraft.sounds.SoundSource;
+import net.minecraft.world.InteractionHand;
 import net.morceaudebois.apolloparrot.sound.ModSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import net.fabricmc.fabric.api.event.player.UseEntityCallback;
-import net.minecraft.entity.passive.ParrotEntity;
-import net.minecraft.util.ActionResult;
-import net.minecraft.sound.SoundEvent;
+import net.minecraft.world.entity.animal.parrot.Parrot;
+import net.minecraft.world.InteractionResult;
+import net.minecraft.sounds.SoundEvent;
 import net.morceaudebois.apolloparrot.sound.ApolloSoundLibrary;
 import java.util.Random;
 
 
 public class ApolloParrot implements ModInitializer {
 	public static final String MOD_ID = "apolloparrot";
-    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
 	public void onInitialize() {
-		// ambient sounds
 		ModSounds.initializeSounds();
 
-		// when interacting on parrot
 		UseEntityCallback.EVENT.register((player, world, hand, entity, hitResult) -> {
-			if (entity instanceof ParrotEntity && hand == Hand.MAIN_HAND && player.getMainHandStack().isEmpty()) {
+			if (entity instanceof Parrot parrot && parrot.isTame() && hand == InteractionHand.MAIN_HAND && player.getMainHandItem().isEmpty()) {
 				Random random = new Random();
 
 				SoundEvent sound = ApolloSoundLibrary.APOLLO_SOUNDS[random.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length)];
 
 				world.playSound(
 						null,
-						entity.getBlockPos(),
+						entity.blockPosition(),
 						sound,
-						SoundCategory.NEUTRAL,
+						SoundSource.NEUTRAL,
 						1.0f,
 						1.0f
 				);
 
-				return ActionResult.SUCCESS;
+				return InteractionResult.SUCCESS;
 			}
-			return ActionResult.PASS; // Continue with default interaction
+			return InteractionResult.PASS;
 		});
 	}
 }

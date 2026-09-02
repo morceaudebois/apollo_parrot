@@ -1,8 +1,10 @@
 package net.morceaudebois.apolloparrot.mixin;
 
-import net.minecraft.entity.passive.ParrotEntity;
-import net.minecraft.sound.SoundEvent;
-import net.minecraft.sound.SoundEvents;
+import net.minecraft.util.RandomSource;
+import net.minecraft.world.level.Level;
+import net.minecraft.world.entity.animal.parrot.Parrot;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.sounds.SoundEvents;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
@@ -11,22 +13,21 @@ import net.morceaudebois.apolloparrot.sound.ApolloSoundLibrary;
 
 import java.util.Random;
 
-@Mixin(ParrotEntity.class)
+@Mixin(Parrot.class)
 public class ParrotMixin {
-    @Inject(method = "getRandomSound", at = @At("RETURN"), cancellable = true)
-    private static void injected(CallbackInfoReturnable<SoundEvent> cir) {
-        if (cir.getReturnValue() == SoundEvents.ENTITY_PARROT_AMBIENT) {
+    @Inject(method = "getAmbient", at = @At("RETURN"), cancellable = true)
+    private static void injected(Level level, RandomSource random, CallbackInfoReturnable<SoundEvent> cir) {
+        if (cir.getReturnValue() == SoundEvents.PARROT_AMBIENT) {
             SoundEvent[] ApolloSounds = ApolloSoundLibrary.APOLLO_SOUNDS;
 
             // Create a Random object
-            Random random = new Random();
+            Random rand = new Random();
 
-            if (random.nextInt(3) < 1) {
+            if (rand.nextInt(3) < 1) {
                 // Generate a random number from 0 to 2 (inclusive) to select one of three values
-                int randomNumber = random.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length);
+                int randomNumber = rand.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length);
                 cir.setReturnValue(ApolloSounds[randomNumber]);
             }
-
         }
     }
 }
