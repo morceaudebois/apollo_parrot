@@ -2,10 +2,10 @@
 package net.morceaudebois.apolloparrot.sound;
 
 import net.morceaudebois.apolloparrot.ApolloParrot;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
-import net.minecraft.sound.SoundEvent;
-import net.minecraft.util.Identifier;
+import net.minecraft.core.registries.BuiltInRegistries;
+import net.minecraft.core.Registry;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.resources.Identifier;
 
 public class ModSounds {
     // ITEM_METAL_WHISTLE is the name of the custom sound event
@@ -73,9 +73,9 @@ public class ModSounds {
 
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
-        Identifier identifier = Identifier.of(ApolloParrot.MOD_ID, id);
-        SoundEvent sound = SoundEvent.of(identifier);
-        return Registry.register(Registries.SOUND_EVENT, identifier, sound);
+        Identifier identifier = Identifier.fromNamespaceAndPath(ApolloParrot.MOD_ID, id);
+        SoundEvent sound = SoundEvent.createVariableRangeEvent(identifier);
+        return Registry.register(BuiltInRegistries.SOUND_EVENT, identifier, sound);
     }
 
     // called in the ModInitializer implementing class
