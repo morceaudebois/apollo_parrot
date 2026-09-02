@@ -24,7 +24,7 @@ public class ApolloParrot implements ModInitializer {
 		ModSounds.initializeSounds();
 
 		UseEntityCallback.EVENT.register((player, world, hand, entity, hitResult) -> {
-			if (entity instanceof Parrot && hand == InteractionHand.MAIN_HAND && player.getMainHandItem().isEmpty()) {
+			if (entity instanceof Parrot parrot && parrot.isTame() && hand == InteractionHand.MAIN_HAND && player.getMainHandItem().isEmpty()) {
 				Random random = new Random();
 
 				SoundEvent sound = ApolloSoundLibrary.APOLLO_SOUNDS[random.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length)];
