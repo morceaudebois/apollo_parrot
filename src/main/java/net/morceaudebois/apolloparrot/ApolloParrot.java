@@ -13,6 +13,8 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.sound.SoundEvent;
 import net.morceaudebois.apolloparrot.sound.ApolloSoundLibrary;
 import java.util.Random;
+// import org.slf4j.Logger;
+// import org.slf4j.LoggerFactory;
 
 
 public class ApolloParrot implements ModInitializer {
@@ -39,6 +41,8 @@ public class ApolloParrot implements ModInitializer {
 						1.0f,
 						1.0f
 				);
+
+				// LOGGER.info("Apollo sound: {}", sound.getId());
 
 				return ActionResult.SUCCESS;
 			}

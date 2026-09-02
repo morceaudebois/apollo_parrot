@@ -64,6 +64,17 @@ public class ApolloSoundLibrary {
             ModSounds.COLOR_ORANGE,
             ModSounds.WRENCH,
             ModSounds.COME_HERE,
-            ModSounds.DOOTDOOT
+            ModSounds.DOOTDOOT,
+
+            ModSounds.HELLOHELLO,
+            ModSounds.TOOK,
+            ModSounds.FART,
+            ModSounds.EVIL_SOUND,
+            ModSounds.WATER_SOUNDS,
+            ModSounds.CROW_IS_IT_A_BIRD,
+            ModSounds.YOURE_A_GOOD_BIRD,
+            ModSounds.GOOD_JOB,
+            ModSounds.WOOD_BOWL,
+            ModSounds.GLASS_BOWL
     };
 }

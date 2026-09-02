@@ -71,6 +71,17 @@ public class ModSounds {
     public static SoundEvent COME_HERE = registerSound("come_here");
     public static SoundEvent DOOTDOOT = registerSound("dootdoot");
 
+    public static SoundEvent HELLOHELLO = registerSound("hello_hello");
+    public static SoundEvent TOOK = registerSound("took");
+    public static SoundEvent FART = registerSound("fart");
+    public static SoundEvent EVIL_SOUND = registerSound("evil_sound");
+    public static SoundEvent WATER_SOUNDS = registerSound("water_sounds");
+    public static SoundEvent CROW_IS_IT_A_BIRD = registerSound("crow_is_it_a_bird");
+    public static SoundEvent YOURE_A_GOOD_BIRD = registerSound("youre_a_good_bird");
+    public static SoundEvent GOOD_JOB = registerSound("good_job");
+    public static SoundEvent WOOD_BOWL = registerSound("wood_bowl");
+    public static SoundEvent GLASS_BOWL = registerSound("glass_bowl");
+
     // actual registration of all the custom SoundEvents
     static SoundEvent registerSound(String id) {
         Identifier identifier = Identifier.of(ApolloParrot.MOD_ID, id);
