@@ -338,5 +338,65 @@
     "sounds": [
       "apolloparrot:dootdoot"
     ]
+  },
+  "hellohello": {
+    "subtitle": "Parrot says \"hello hello\"",
+    "sounds": [
+      "apolloparrot:hello-hello"
+    ]
+  },
+  "took": {
+    "subtitle": "Parrot makes a noise",
+    "sounds": [
+      "apolloparrot:took"
+    ]
+  },
+  "fart": {
+    "subtitle": "Parrot farts",
+    "sounds": [
+      "apolloparrot:fart"
+    ]
+  },
+  "evil_sound": {
+    "subtitle": "Parrot makes an evil sound",
+    "sounds": [
+      "apolloparrot:evil-sound"
+    ]
+  },
+  "water_sounds": {
+    "subtitle": "Parrot makes eerie water sounds",
+    "sounds": [
+      "apolloparrot:water-sounds"
+    ]
+  },
+  "crow_is_it_a_bird": {
+    "subtitle": "Parrot says \"crow, is it a bird?\"",
+    "sounds": [
+      "apolloparrot:crow-is-it-a-bird"
+    ]
+  },
+  "youre_a_good_bird": {
+    "subtitle": "Parrot says \"you're a good bird\"",
+    "sounds": [
+      "apolloparrot:youre-a-good-bird"
+    ]
+  },
+  "good_job": {
+    "subtitle": "Parrot says \"good job\"",
+    "sounds": [
+      "apolloparrot:good-job"
+    ]
+  },
+  "wood_bowl": {
+    "subtitle": "Parrot says \"wood bowl\"",
+    "sounds": [
+      "apolloparrot:wood-bowl"
+    ]
+  },
+  "glass_bowl": {
+    "subtitle": "Parrot says \"glass bowl\"",
+    "sounds": [
+      "apolloparrot:glass-bowl"
+    ]
   }
 }

@@ -20,9 +20,11 @@ public class ParrotMixin {
         if (cir.getReturnValue() == SoundEvents.PARROT_AMBIENT) {
             SoundEvent[] ApolloSounds = ApolloSoundLibrary.APOLLO_SOUNDS;
 
+            // Create a Random object
             Random rand = new Random();
 
             if (rand.nextInt(3) < 1) {
+                // Generate a random number from 0 to 2 (inclusive) to select one of three values
                 int randomNumber = rand.nextInt(ApolloSoundLibrary.APOLLO_SOUNDS.length);
                 cir.setReturnValue(ApolloSounds[randomNumber]);
             }
